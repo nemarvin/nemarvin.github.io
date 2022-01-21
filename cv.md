@@ -1,3 +1,9 @@
+---
+layout: page
+title: "CV"
+
+---
+
 # **Nathan Elliot Marvin**
 
 Department of History
