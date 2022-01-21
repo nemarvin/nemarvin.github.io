@@ -4,7 +4,7 @@ title: "CV"
 
 ---
 
-# **Nathan Elliot Marvin**
+# Nathan Elliot Marvin
 
 Department of History
 
