@@ -4,7 +4,6 @@ title: "Scholarship"
 
 ---
 
-# Publications
 
 GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAAJ&amp;hl=en)
 
