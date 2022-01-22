@@ -13,3 +13,5 @@ title: "Teaching"
 - HIST 4393: Seminar in World History: Haitian Revolution (Link)
 
 <img src="{{ site.baseurl }}/montstmichel.gif">  
+
+---
