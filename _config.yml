@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048", title: "Digital Project"}
   - {file: "cv.md", title: "CV"}
   - {file: "scholarship.md", title: "Scholarship"}
+  - {file: "teaching.md", title: "Teaching"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nemarvin@ualr.edu"}
