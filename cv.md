@@ -4,6 +4,8 @@ title: "CV"
 
 ---
 
+<br/>
+
 # Nathan Elliot Marvin
 
 <br/>
