@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About Me"}
-  - {url: "https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048", title: "Digital Project"}
+  - {file: "digitalproject.md", title: "Digital Project"}
   - {file: "cv.md", title: "CV"}
   - {file: "scholarship.md", title: "Scholarship"}
   - {file: "teaching.md", title: "Teaching"}
