@@ -15,9 +15,7 @@ Little Rock, AR 72204-1099
 (603) 296-5621 • [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)
 
 [https://nemarvin.github.io](https://nemarvin.github.io/)
-
-
-
+<br/>
 **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 - present
