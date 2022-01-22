@@ -30,8 +30,6 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2018 Ph.D., History, Johns Hopkins University (Baltimore, Maryland) 
 
-<br/>
-
 _Dissertation:_ &quot;Bourbon Island Creoles: Race and Revolution in the French Indian Ocean Colony of Réunion, 1767-1803&quot; (Advisors: Pier M. Larson and Todd Shepard) 
 
 _Exam Fields_: Comparative Empires in the Caribbean (Philip D. Morgan); French Indian Ocean Empire (Pier M. Larson); Modern France and its Empire (Todd Shepard); Early Modern France (Michael Kwass)
