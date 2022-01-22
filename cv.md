@@ -16,9 +16,11 @@ Little Rock, AR 72204-1099
 
 [https://nemarvin.github.io](https://nemarvin.github.io/)
 
+
 **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 - present
+
 
 **Education**
 
@@ -37,6 +39,7 @@ Shepard); Early Modern France (Michael Kwass)
 2013 M.A., History, Johns Hopkins University (Baltimore, Maryland)
 
 2010 B.A., History, French Studies, Wesleyan University (Middletown, Connecticut)
+
 
 **Publications**
 
@@ -66,9 +69,11 @@ _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Coloni
 
 &quot;Book Review of _French Connections: Cultural Mobility in North America and the Atlantic World, 1600–1875_, edited by Robert Englebert and Andrew N. Wegmann, _Journal of Southern History_.
 
+
 **Collaborations**
 
 2023 Special issue editor with Sarah Zimmerman, &quot;Gender and Slavery in Global Contexts,&quot; _Esclavages &amp; Post-esclavages_ (forthcoming).
+
 
 **Awards**
 
@@ -85,6 +90,7 @@ _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Coloni
 2014-2015 Mellon International Dissertation Research Fellowship (IDRF), awarded by the Social Science Research Council (SSRC), for dissertation research.
 
 2015 Dean&#39;s Teaching Fellowship, awarded by the Krieger School of Arts &amp; Sciences, Johns Hopkins, for the design and instruction of an undergraduate course.
+
 
 **Presentations**
 
@@ -162,6 +168,7 @@ Sept. 2019 &quot;Karl Marx&#39;s _The Eighteenth Brumaire of Louis Bonaparte_ an
 
 March, 2016 &quot;The Catholic Church and Slavery&quot; (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
 
+
 **Courses**
 
 _University of Arkansas at Little Rock_
@@ -176,6 +183,7 @@ _University of Arkansas at Little Rock_
 _Johns Hopkins University_
 
 - AS.100.255: The Haitian Revolution in World History
+- 
 
 **Service**
 
@@ -213,7 +221,6 @@ Baltimore, Maryland
 - Italian: beginner (reading, writing)
 
 **Affiliations**
-
 - Forum on Early-Modern Empires and Global Interactions (FEEGI), Executive Board
 - American Historical Association (AHA), member
 - American Society for Eighteenth-Century Studies (ASECS), member
@@ -226,7 +233,6 @@ Baltimore, Maryland
 - Western Society for French History (WSFH), member
 
 **References**
-
 - Dr. Jess Porter, Chair of the History Department, Associate Professor and Coordinator of Geography, University of Arkansas at Little Rock ([jcporter@ualr.edu](mailto:jcporter@ualr.edu))
 - Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University ([tshep75@jhu.edu](mailto:tshep75@jhu.edu))
 - Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University ([speabody@wsu.edu](mailto:speabody@wsu.edu))
