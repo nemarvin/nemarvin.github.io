@@ -136,8 +136,6 @@ April 2013 &quot;&#39;Patrimoine du Diable&#39;: Catholicism and Creolization in
 
 _Invited Talks and Seminars_
 
-Dec. 2021 &quot;Digital History and Pedagogy&quot; (guest lecture). Johns Hopkins Workshop in Digital History, Johns Hopkins University, Baltimore, Maryland.
-
 Nov. 2020 &quot;Enslaved by the Church, Sold for the Republic: The Untold Story of the Men, Women, and Children Rendered &#39;National Property&#39; During the French Revolution.&quot; Evenings with History (Lecture Series), History Institute. Little Rock, Arkansas.
 
 Nov. 2019 &quot;&#39;Few Families Here Are Free of Black Blood&#39;: Negotiating Whiteness in France&#39;s Indian Ocean Colonies (1767-1790).&quot; Missouri Regional Seminar on Early American History (Kinder Institute at the University of Missouri), St. Louis, Missouri.
