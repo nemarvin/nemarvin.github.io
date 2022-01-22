@@ -22,6 +22,7 @@ Little Rock, AR 72204-1099
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 - present
 
+<br/>
 
 **Education**
 
@@ -41,6 +42,7 @@ Shepard); Early Modern France (Michael Kwass)
 
 2010 B.A., History, French Studies, Wesleyan University (Middletown, Connecticut)
 
+<br/>
 
 **Publications**
 
@@ -70,11 +72,13 @@ _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Coloni
 
 &quot;Book Review of _French Connections: Cultural Mobility in North America and the Atlantic World, 1600–1875_, edited by Robert Englebert and Andrew N. Wegmann, _Journal of Southern History_.
 
+<br/>
 
 **Collaborations**
 
 2023 Special issue editor with Sarah Zimmerman, &quot;Gender and Slavery in Global Contexts,&quot; _Esclavages &amp; Post-esclavages_ (forthcoming).
 
+<br/>
 
 **Awards**
 
@@ -92,6 +96,7 @@ _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Coloni
 
 2015 Dean&#39;s Teaching Fellowship, awarded by the Krieger School of Arts &amp; Sciences, Johns Hopkins, for the design and instruction of an undergraduate course.
 
+<br/>
 
 **Presentations**
 
@@ -169,6 +174,7 @@ Sept. 2019 &quot;Karl Marx&#39;s _The Eighteenth Brumaire of Louis Bonaparte_ an
 
 March, 2016 &quot;The Catholic Church and Slavery&quot; (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
 
+<br/>
 
 **Courses**
 
@@ -184,7 +190,8 @@ _University of Arkansas at Little Rock_
 _Johns Hopkins University_
 
 - AS.100.255: The Haitian Revolution in World History
-- 
+
+<br/>
 
 **Service**
 
@@ -197,6 +204,8 @@ _Johns Hopkins University_
 - Tenure and Promotion Committee, History Department, Univ. of ArkansasLittle Rock
 - Manuscript Reviewer, Cambridge University Press
 
+<br/>
+
 **Other Employment**
 
 2015-2018GIS Assistant, Eisenhower Library, Johns Hopkins Univ., Baltimore, Maryland
@@ -207,6 +216,8 @@ Baltimore, Maryland
 
 2009 French-English Translation, Institut d&#39;études de l&#39;Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
 
+<br/>
+
 **Software**
 
 - ArcGIS Pro, ArcGIS Online, QGIS (mapping, georeferencing, spatial analysis)
@@ -214,12 +225,16 @@ Baltimore, Maryland
 - R/Shiny (open-source platform for hosting applications designed with &quot;R&quot;)
 - SPSS (statistical analysis)
 
+<br/>
+
 **Languages**
 
 - French: fluent (speaking, reading, writing)
 - Portuguese: intermediate (reading, writing)
 - Reunionese Creole: intermediate (speaking, reading, writing)
 - Italian: beginner (reading, writing)
+
+<br/>
 
 **Affiliations**
 - Forum on Early-Modern Empires and Global Interactions (FEEGI), Executive Board
@@ -233,11 +248,15 @@ Baltimore, Maryland
 - Society for French Historical Studies (SFHS), member
 - Western Society for French History (WSFH), member
 
+<br/>
+
 **References**
 - Dr. Jess Porter, Chair of the History Department, Associate Professor and Coordinator of Geography, University of Arkansas at Little Rock ([jcporter@ualr.edu](mailto:jcporter@ualr.edu))
 - Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University ([tshep75@jhu.edu](mailto:tshep75@jhu.edu))
 - Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University ([speabody@wsu.edu](mailto:speabody@wsu.edu))
 - Dr. Michael Kwass, Professor of History, Johns Hopkins University ([kwass@jhu.edu](mailto:kwass@jhu.edu))
+
+<br/>
 
 <img src="{{ site.baseurl }}/littlerock.gif">
 
