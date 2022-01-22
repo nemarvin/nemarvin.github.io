@@ -232,5 +232,5 @@ Baltimore, Maryland
 - Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University ([speabody@wsu.edu](mailto:speabody@wsu.edu))
 - Dr. Michael Kwass, Professor of History, Johns Hopkins University ([kwass@jhu.edu](mailto:kwass@jhu.edu))
 
-<img src="{{ site.baseurl }}/montstmichel.gif">
+<img src="{{ site.baseurl }}/littlerock.gif">
 
