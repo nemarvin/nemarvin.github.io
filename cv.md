@@ -6,6 +6,8 @@ title: "CV"
 
 # Nathan Elliot Marvin
 
+<br/>
+
 Department of History
 
 University of Arkansas at Little Rock
@@ -54,6 +56,8 @@ Shepard); Early Modern France (Michael Kwass)
 
 2015 &quot;&#39;A Thousand Prejudices&#39;: French _Habitants_ and Catholic Missionaries in the Making of the Old Northwest, 1795-1805.&quot; Book chapter in _Une Amérique française, 1760-1860: dynamiques du corridor créole_, edited by Guillaume Teasdale and Tangi Villerbu, 113–40. Paris: Les Indes savantes, 2015.
 
+<br/>
+
 _In Progress_
 
 _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Colonies_ (Book Manuscript)
@@ -99,6 +103,8 @@ _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Coloni
 <br/>
 
 **Presentations**
+
+<br/>
 
 _Conference Papers and Roundtables_
 
@@ -146,6 +152,8 @@ January 2014 &quot;&#39;They Are Proud to Wear the Chains&#39;: Slavery in the S
 
 April 2013 &quot;&#39;Patrimoine du Diable&#39;: Catholicism and Creolization in Conceptions of the Île Bourbon Highlands, 1723-1765.&quot; Paper presented at the 59th Conference of the Society for French Historical Studies (SFHS). Cambridge, Massachusetts.
 
+<br/>
+
 _Invited Talks and Seminars_
 
 Nov. 2020 &quot;Enslaved by the Church, Sold for the Republic: The Untold Story of the Men, Women, and Children Rendered &#39;National Property&#39; During the French Revolution.&quot; Evenings with History (Lecture Series), History Institute. Little Rock, Arkansas.
@@ -161,6 +169,8 @@ July 2016 &quot;The &#39;Destructive Scourge&#39;: Repercussions of the Haitian 
 April 2016 &quot;&#39;Le Débris de Madagascar&#39;: Race, Power, and the Founding Myth of Réunion Island.&quot; Weidner History Conference on the Francophone Indian Ocean, Institute on Napoleon and the French Revolution, Florida State University, Tallahassee, Florida.
 
 Oct. 2014 &quot;Blanc vs. Blanc: Île Bourbon and the Making of &#39;Whiteness&#39; in the First French Colonial Empire, 1767-1789.&quot; Trinity College World History Workshop, Cambridge University, Cambridge, England.
+
+<br/>
 
 _Guest Lectures_
 
