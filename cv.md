@@ -17,6 +17,7 @@ Little Rock, AR 72204-1099
 [https://nemarvin.github.io](https://nemarvin.github.io/)
 
 
+
 **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 - present
