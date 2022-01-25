@@ -216,11 +216,9 @@ _Johns Hopkins University_
 
 **Other Employment**
 
-2015-2018GIS Assistant, Eisenhower Library, Johns Hopkins Univ., Baltimore, Maryland
+2015-2018 GIS Assistant, Eisenhower Library, Johns Hopkins University, Baltimore, Maryland
 
-2012-2014 Docent/Document Translation, St. Mary&#39;s &amp; Mother Seton House Historic Site,
-
-Baltimore, Maryland
+2012-2014 Docent/Document Translation, St. Mary&#39;s &amp; Mother Seton House Historic Site, Baltimore, Maryland
 
 2009 French-English Translation, Institut d&#39;études de l&#39;Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
 
