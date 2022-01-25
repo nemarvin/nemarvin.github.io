@@ -104,6 +104,8 @@ _Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Coloni
 
 _Conference Papers and Roundtables_
 
+May 2022 &quot;&#39;Creoles Far From Our Land&#39;: Race and Revolution in a Mauritian Sailor's Memoirs.&quot; Paper to be presented at the 46th annual meeting of the French Colonial Historical Society (FCHS), Charleston, South Carolina.
+
 Mar. 2022 &quot;&#39;Effacer le souvenir de leur état&#39;: Family Strategy and the Making of Whiteness on Réunion Island.&quot; Paper to be presented at the 67th annual meeting of the Society for French Historical Studies (SFHS), Charlotte, North Carolina.
 
 Dec. 2021 &quot;Teaching the Politics of History: France, Mauritius, and the United States.&quot; Paper presented at &quot;Faculty Roundtable: Crises of Democracy in Global Perspective,&quot; event for Evenings with History (Lecture Series), UA Little Rock History Institute (Virtual presentation).
