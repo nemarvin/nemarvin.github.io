@@ -10,6 +10,6 @@ What happens when we center the experiences of the enslaved victims of these eve
 
 Enter the [Website Here](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048).
 
-<img src="{{ site.baseurl }}/caen2.gif">
+<img src="{{ site.baseurl }}/3bassins.gif">
 
 ---
