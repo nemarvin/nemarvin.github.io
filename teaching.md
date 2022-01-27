@@ -12,6 +12,6 @@ title: "Teaching"
 - HIST 4309: The Historian&#39;s Craft (Undergraduate Methods Course) ([Link](https://docs.google.com/document/d/e/2PACX-1vT_wXnjqIm75bN9LYOWMovRwGhEwvMm-1N0lV4Ps6iQeuUNu550tOsuUAz9CqUgag/pub))
 - HIST 4393: Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/e/2PACX-1vT9byjTUHbWRQB5c_eBbvOr0rRbNFD1_HxeGXJy-mgL5BecIjxvQr5i86LuWl-JHw/pub))
 
-<img src="{{ site.baseurl }}/montstmichel.gif">  
+<img src="{{ site.baseurl }}/caen2.gif">  
 
 ---
