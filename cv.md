@@ -264,6 +264,6 @@ _Johns Hopkins University_
 
 <br/>
 
-<img src="{{ site.baseurl }}/caen2.gif">
+<img src="{{ site.baseurl }}/montstmichel.gif">
 
 ---
