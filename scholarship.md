@@ -18,6 +18,6 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 
 - Dissertation: [Link](https://drive.google.com/file/d/1ywHXi5mUUO-OqxAZwqNq_DLvdJ8_UHwt/view?usp=sharing)
 
-<img src="{{ site.baseurl }}/arles.gif">    
+<img src="{{ site.baseurl }}/caen2.gif">    
 
 ---
