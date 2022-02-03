@@ -4,9 +4,7 @@ title: "Digital Project"
 
 ---
 
-“Enslaved by the Church, Sold for the Republic” is a digital storytelling project designed for scholars, teachers, and students. It brings to light a long-buried episode of the Age of Revolutions: the seizure and sale by the First French Republic of hundreds of men, women, and children enslaved on properties of the colonial clergy. The website presents tools to interpret archival materials related to these events. It also offers a window onto the global phenomenon of slaveholding by Catholic corporate entities (17th-19th centuries). 
-
-What happens when we center the experiences of the enslaved victims of these events, rather than those of the priests and politicians who produced the majority of the documentation about them? This site shows how we can read resistance even in records designed to facilitate the commodification and control of human beings.
+“Enslaved by the Church, Sold for the Republic” is a digital storytelling project designed for scholars, teachers, and students. It brings to light a long-buried episode of the Age of Revolutions: the seizure and sale by the First French Republic of hundreds of men, women, and children enslaved on properties of the colonial clergy. An interactive atlas presents the scope and scale of slaveholding by Catholic corporate entities worldwide (17th-19th centuries). The website also provides tools for interpreting archival materials. What happens when we center the experiences of the enslaved, rather than those of the priests and politicians who produced the majority of the documentation about them? This site shows how we can read resistance even in records designed to facilitate the commodification and control of human beings.
 
 Enter the [Website Here](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048).
 
