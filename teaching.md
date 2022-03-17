@@ -15,7 +15,7 @@ title: "Teaching"
 # Original Materials
 
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/e/2PACX-1vSzrW2AhxaZWpAfRBhts6UJWSDMRgwUVpT6khjdn24OcyjFaj13WkzJWF7EopYfmg/pub))
-- Map Application: "The Global Impact of the Haitian Revolution: Mapping the ‘Common Wind’" ([Link](https://gisanddata.maps.arcgis.com/apps/webappviewer3d/index.html?id=93aa9598180a41f8821fe52448023f84))
+- Map Application: "The Global Impact of the Haitian Revolution: Mapping the 'Common Wind'" ([Link](https://gisanddata.maps.arcgis.com/apps/webappviewer3d/index.html?id=93aa9598180a41f8821fe52448023f84))
 - Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?: Constructing a Historical Narrative with Primary Sources" ([Link](https://docs.google.com/document/d/e/2PACX-1vRwDtEQeQ8a5iJQkth5175GcG_jWMwfu4UrFvZYf9-Qw9sBnQeqjX5A3ukDcXDjqg/pub))
 
 <img src="{{ site.baseurl }}/arles.gif">  
