@@ -54,26 +54,6 @@ _Exam Fields_: Comparative Empires in the Caribbean (Philip D. Morgan); French I
 
 <br/>
 
-_In Progress_
-
-_Bourbon Island Creoles: Race and Revolution in France&#39;s Indian Ocean Colonies_ (Book Manuscript)
-
-&quot;Enslaved by the Church, Sold for the Republic&quot; (Digital History Project)
-
-&quot;Les catégories raciales.&quot; Book chapter in _Colonisations: Notre histoire,_ edited by Arthur Asseraf, Guillaume Blanc, Yala Kisukidi, Mélanie Lamotte, and Pierre Singaravélou (Éditions du Seuil).
-
-&quot;&#39;Effacer le souvenir de leur état&#39;: Family Strategy and the Making of Whiteness on Réunion Island.&quot; Book chapter in _The Colonial Politics of Population: Fertility, Family, and Social Welfare between France and Empire_, edited by Margaret Andersen and Melissa Byrnes (Palgrave Macmillan).
-
-&quot;Enslaved Women and the Church in the Mascarenes.&quot; Book chapter in _Women in Mauritian History, Vol. II_, edited by Steve Sénèque and Vijaya Teelock
-
-&quot;Review Essay: _Archipelago of Justice: Law in France&#39;s Early Modern Empire_, by Laurie M. Wood.&quot; _H-France Forum_ (Society for French Historical Studies).
-
-&quot;Book Review of _Waves across the South: A New History of Revolution_, by Sujit Sivasundaram,&quot; _Comparativ_.
-
-&quot;Book Review of _French Connections: Cultural Mobility in North America and the Atlantic World, 1600–1875_, edited by Robert Englebert and Andrew N. Wegmann, _Journal of Southern History_.
-
-<br/>
-
 **Collaborations**
 
 2023 Special issue editor with Sarah Zimmerman, &quot;Gender and Slavery in Global Contexts,&quot; _Esclavages &amp; Post-esclavages_ (forthcoming).
