@@ -16,9 +16,6 @@ University of Arkansas at Little Rock
 
 Little Rock, AR 72204-1099
 
-(603) 296-5621 • [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)
-
-[https://nemarvin.github.io](https://nemarvin.github.io/)
 
 <br/>
 
@@ -233,14 +230,6 @@ _Johns Hopkins University_
 - French Colonial Historical Society (FCHS), member
 - Society for French Historical Studies (SFHS), member
 - Western Society for French History (WSFH), member
-
-<br/>
-
-**References**
-- Dr. Jess Porter, Chair of the History Department, Associate Professor and Coordinator of Geography, University of Arkansas at Little Rock ([jcporter@ualr.edu](mailto:jcporter@ualr.edu))
-- Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University ([tshep75@jhu.edu](mailto:tshep75@jhu.edu))
-- Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University ([speabody@wsu.edu](mailto:speabody@wsu.edu))
-- Dr. Michael Kwass, Professor of History, Johns Hopkins University ([kwass@jhu.edu](mailto:kwass@jhu.edu))
 
 <br/>
 
