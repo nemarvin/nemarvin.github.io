@@ -15,7 +15,7 @@ title: "Teaching"
 # Original Materials
 
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/e/2PACX-1vSzrW2AhxaZWpAfRBhts6UJWSDMRgwUVpT6khjdn24OcyjFaj13WkzJWF7EopYfmg/pub))
-- Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?: Constructing a Historical Narrative with Primary Sources" ([Link](https://docs.google.com/document/d/e/2PACX-1vRwDtEQeQ8a5iJQkth5175GcG_jWMwfu4UrFvZYf9-Qw9sBnQeqjX5A3ukDcXDjqg/pub))
+- Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?" ([Link](https://docs.google.com/document/d/e/2PACX-1vRwDtEQeQ8a5iJQkth5175GcG_jWMwfu4UrFvZYf9-Qw9sBnQeqjX5A3ukDcXDjqg/pub))
 
 <img src="{{ site.baseurl }}/arles.gif">  
 
