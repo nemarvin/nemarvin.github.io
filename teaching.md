@@ -6,7 +6,7 @@ title: "Teaching"
 
 # Selected Syllabi
 
-- HIST 1312: History Of Civilization II (World History Since 1500) ([Link](https://docs.google.com/document/d/e/2PACX-1vQDk1NhCk_405OZFM1iceZZY3Y24_bXwvtnVAHOeT0fyuyNu6Q3XuFuXpLgM5rcCg/pub))
+- HIST 1312: History Of Civilization II (World History Since 1500) ([Link](https://docs.google.com/document/d/1OVtXf9pnQvrjs0SyI8yVJeI3t0sealMN/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true))
 - HIST 3328: Modern France in World History (1789-Present) ([Link](https://docs.google.com/document/d/e/2PACX-1vQBoDvC4Z-22LAZufC2urHOuqEqRlxQ2k9FAiGrCTGYHAtJzAyjWM03c4xe2bUSkg/pub))
 - HIST 4326: History of the Atlantic World ([Link](https://docs.google.com/document/d/e/2PACX-1vRQrcTgfKjSJch5Kvf35plFD98KGa27WnbYfodjJfFRlwJQ56zwKjqMA8o5as6Vig/pub))
 - HIST 4309: The Historian&#39;s Craft (Undergraduate Methods Course) ([Link](https://docs.google.com/document/d/e/2PACX-1vT_wXnjqIm75bN9LYOWMovRwGhEwvMm-1N0lV4Ps6iQeuUNu550tOsuUAz9CqUgag/pub))
