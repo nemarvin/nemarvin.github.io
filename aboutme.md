@@ -4,9 +4,7 @@ title: "About Me"
 
 ---
 
-I am an assistant professor of history at the University of Arkansas, Little Rock, where I am also a Gender Studies affiliate faculty member. I focus on slavery & resistance in the French colonial world. My current book project examines the makings of racial categories on Mauritius and Réunion Island (17th-19th centuries). My second project explores the lived experiences of people enslaved on properties owned or managed by Catholic orders and congregations throughout the French empire. I teach courses on World History Since 1500, Historical Methods, Modern France and the World, History of the Atlantic World, and the Haitian Revolution in Global Perspective. Students in my classes investigate how power shapes our past and present, excavating stories from history's margins through a mix of original research and collaborative interpretation of primary sources. 
-
-I live and work in Little Rock, Arkansas. I am originally from the Piscataqua region of New Hampshire. 
+Nathan Marvin is an assistant professor of history at the University of Arkansas at Little Rock, where he is also a Gender Studies affiliate faculty member. His work examines slavery and resistance in the French colonial world. His current book project explores the shifting politics of race and the effects of the Haitian Revolution on France’s Indian Ocean colonies. His ongoing second project explores the lived experiences of people enslaved on properties of Catholic orders and congregations throughout the French empire. He teaches courses on World History Since 1500, Historical Methods, Modern France and the World, History of the Atlantic World, and the Haitian Revolution in Global Perspective. Through collaborative interpretation of archival sources, students in his classes mine stories from history’s margins in order to understand how power shapes both past and present. Originally from the Piscataqua Region of New Hampshire, Nate lives and works in Little Rock, Arkansas.
 
 ![Photo](IMG-3710.jpg)
 
