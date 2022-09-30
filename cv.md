@@ -59,6 +59,10 @@ _Exam Fields_: Comparative Empires in the Caribbean (Philip D. Morgan); French I
 
 **Awards**
 
+2022  American Society for Eighteenth-Century Studies Fellowship, Boston Athenaeum
+
+2022  Core Program Residency Fellowship, Camargo Foundation (Cassis, France)
+
 2021-2022 Jumpstart Program for Faculty Scholarship and Creative Works, awarded by the Office of the Provost, University of Arkansas at Little Rock.
 
 2019-2020 G. Thomas Eisele Fellowship, awarded by the Center for Arkansas History and Culture for &quot;Lost Connections: The Haitian Revolution and Arkansas.&quot;
