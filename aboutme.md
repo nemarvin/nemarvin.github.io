@@ -8,6 +8,6 @@ Nate Marvin is an assistant professor of history at the University of Arkansas a
 
 Originally from the Piscataqua Region of New Hampshire, Nate lives and works in Arkansas.
 
-![Photo](IMG_6057.jpg)
+![Photo](IMG-3710.jpg)
 
 ---
