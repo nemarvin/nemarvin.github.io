@@ -237,6 +237,6 @@ _Johns Hopkins University_
 
 <br/>
 
-<img src="{{ site.baseurl }}/montstmichel.gif">
+<img src="{{ site.baseurl }}/vallon.gif">
 
 ---
