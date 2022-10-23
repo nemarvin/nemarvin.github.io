@@ -8,6 +8,6 @@ title: "Digital Project"
 
 [English Version](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048).
 
-<img src="{{ site.baseurl }}/3bassins.gif">
+<img src="{{ site.baseurl }}/caen2.gif">
 
 ---
