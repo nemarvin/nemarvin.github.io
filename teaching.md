@@ -17,7 +17,7 @@ title: "Teaching"
 
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/e/2PACX-1vSzrW2AhxaZWpAfRBhts6UJWSDMRgwUVpT6khjdn24OcyjFaj13WkzJWF7EopYfmg/pub))
 - Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?" ([Link](https://docs.google.com/document/d/e/2PACX-1vRwDtEQeQ8a5iJQkth5175GcG_jWMwfu4UrFvZYf9-Qw9sBnQeqjX5A3ukDcXDjqg/pub))
-- Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://arcg.is/PWnTS))
+- Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
 - French in North America Digital Resource: "Arkansas Créole: Rediscovering a Lost Vernacular Landscape" ([Link](https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c))
 
 <img src="{{ site.baseurl }}/arles.gif">  
