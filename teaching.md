@@ -11,7 +11,7 @@ title: "Teaching"
 - HIST 4326: History of the Atlantic World ([Link](https://docs.google.com/document/d/e/2PACX-1vRQrcTgfKjSJch5Kvf35plFD98KGa27WnbYfodjJfFRlwJQ56zwKjqMA8o5as6Vig/pub))
 - HIST 4390: Revolution in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/edit?usp=sharing))
 - HIST 4393: Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/e/2PACX-1vT9byjTUHbWRQB5c_eBbvOr0rRbNFD1_HxeGXJy-mgL5BecIjxvQr5i86LuWl-JHw/pub))
-- HIST 7315: Graduate Seminar on Historical Methods ([Link](https://docs.google.com/document/d/e/2PACX-1vRCm73IJUb3q6Va348qNystHFbK0atKMeahcqBJeaQHgGpKYrDizbhUz5O655Sruw/pub))
+- HIST 7315: Graduate Methods Seminar ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)) 
 
 # Original Materials
 
