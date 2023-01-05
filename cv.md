@@ -59,23 +59,23 @@ _Exam Fields_: Comparative Empires in the Caribbean (Philip D. Morgan); French I
 
 **Awards**
 
-2022  American Society for Eighteenth-Century Studies Fellowship, Boston Athenaeum
+2023  American Society for Eighteenth-Century Studies Fellowship, Boston Athenaeum
 
 2022  Core Program Residency Fellowship, Camargo Foundation (Cassis, France)
 
-2021-2022 Jumpstart Program for Faculty Scholarship and Creative Works, awarded by the Office of the Provost, University of Arkansas at Little Rock.
+2021 Jumpstart Program for Faculty Scholarship and Creative Works, awarded by the Office of the Provost, University of Arkansas at Little Rock.
 
-2019-2020 G. Thomas Eisele Fellowship, awarded by the Center for Arkansas History and Culture for &quot;Lost Connections: The Haitian Revolution and Arkansas.&quot;
+2020 G. Thomas Eisele Fellowship, awarded by the Center for Arkansas History and Culture for &quot;Lost Connections: The Haitian Revolution and Arkansas.&quot;
 
-2017-2018 Dissertation Completion Fellowship, awarded by the Doris G. Quinn Foundation, for dissertation writing.
+2018 Dissertation Completion Fellowship, awarded by the Doris G. Quinn Foundation, for dissertation writing.
 
 2017 Graduate Research Fellowship, awarded by the Charles Singleton Center for the Study of Premodern Europe, Johns Hopkins University, for dissertation research.
 
 2016 Virginia and Jean R. Perrette Fellowship, awarded by the John Carter Brown Library, for research on the French empire.
 
-2014-2015 Mellon International Dissertation Research Fellowship (IDRF), awarded by the Social Science Research Council (SSRC), for dissertation research.
-
 2015 Dean&#39;s Teaching Fellowship, awarded by the Krieger School of Arts &amp; Sciences, Johns Hopkins, for the design and instruction of an undergraduate course.
+
+2014 Mellon International Dissertation Research Fellowship (IDRF), awarded by the Social Science Research Council (SSRC), for dissertation research.
 
 <br/>
 
