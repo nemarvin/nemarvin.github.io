@@ -62,7 +62,7 @@ _Under Review_
 
 _In Progress_
 
-_"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony (Réunion Island, 1750-1810)_ (Book Manuscript).
+> _"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony (Réunion Island, 1750-1810)_ (Book Manuscript).
 
 > "Enslaved by the Church, Sold for the Republic" (Digital History Project), accessible through H-France Digital Humanities Database Registry ([https://www.h-france.net/dh/registry/view.php?ProjectID=298](https://www.h-france.net/dh/registry/view.php?ProjectID=298)), Mapping the Black Digital and Public Humanities Database ([https://sites.lib.jmu.edu/mappingbdph](https://sites.lib.jmu.edu/mappingbdph/))
 
