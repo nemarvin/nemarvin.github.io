@@ -1,3 +1,9 @@
+---
+layout: page
+title: "CV"
+
+---
+
 # Nathan Elliot Marvin 
 
 601 Stabler Hall, 2801 South University Avenue, Little Rock, Arkansas 72204
