@@ -64,13 +64,9 @@ Connecticut)
 
 Revolution-Era Bourbon Island." Book chapter in _The Colonial Politics of_
 
-_Population: Fertility, Family, and Social Welfare between France and Empire_, edited by Margaret Andersen and Melissa Byrnes (Palgrave Macmillan,
+_Population: Fertility, Family, and Social Welfare between France and Empire_, edited by Margaret Andersen and Melissa Byrnes (Palgrave Macmillan, forthcoming 2024).
 
-forthcoming 2024).
-
-"Gender, Family, and Social Control on Plantations Managed by the Catholic Clergy in the Eighteenth-Century Mascarenes." Book chapter in _Women_
-
-_in Mauritian History_, edited by Steve Sénèque and Vijaya Teelock (forthcoming,
+"Gender, Family, and Social Control on Plantations Managed by the Catholic Clergy in the Eighteenth-Century Mascarenes." Book chapter in _Women in Mauritian History_, edited by Steve Sénèque and Vijaya Teelock (forthcoming,
 
 2023).
 
