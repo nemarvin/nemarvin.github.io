@@ -10,7 +10,7 @@ Telephone: +1 603 296-5621
 
 Email: [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)
 
-Portfolio:[https://nemarvin.github.io/](https://nemarvin.github.io/)
+Portfolio: [https://nemarvin.github.io/](https://nemarvin.github.io/)
 
 
 ---
