@@ -44,27 +44,27 @@ Connecticut)
 ---
 **Publications**
 
-_Peer-Reviewed Journal Articles_
+> _Peer-Reviewed Journal Articles_
 
 2018 "The 'Ambroise Affair': White Women, Black Men, and the Limits of Métissage in Revolution-Era Réunion." _French History_ 32, no. 4 (December 2018): 493–510.
 
-_Refereed Book Chapters_
+> _Refereed Book Chapters_
 
 2023 "Les catégories raciales." Essay in _Colonisations. Notre histoire,_ edited by Mélanie Lamotte and Pierre Singaravélou (Éditions du Seuil, September 2023).
 
 2015 "'A Thousand Prejudices': French _Habitants_ and Catholic Missionaries in the Making of the Old Northwest, 1795-1805." Book chapter in _Une Amérique française, 1760-1860: dynamiques du corridor créole_, edited by Guillaume Teasdale and Tangi Villerbu, 113–40. Paris: Les Indes savantes, 2015.
 
-_Refereed Bibliographical and Review Essays_
+> _Refereed Bibliographical and Review Essays_
 
 2022 "Review of _Archipelago of Justice: Law in France's Early Modern Empire_, by Laurie M. Wood." _H-France Forum_, Volume 17 Issue 2(Society for French Historical Studies).
 
 2019 "France and its Empire in the Indian Ocean," co-authored with Blake Smith. In _Oxford Bibliographies: Atlantic History._ Ed. Trevor Burnard. New York: Oxford University Press (July 31, 2019).
 
-_Edited Document Essays_
+> _Edited Document Essays_
 
 2015 "Instructions du Ministère de la Marine, concernant la tolérance envers l'islam et l'hindouisme dans les colonies françaises de l'Océan indien sous l'Ancien Régime." _Outre-Mers Revue d'Histoire_ 103, no. 388–389 (Dec. 2015): 285–90.
 
-_Under Review_
+> _Under Review_
 
 "'Free and Naturalized Frenchwomen': Gender and the Politics of Race on
 
@@ -80,7 +80,7 @@ _in Mauritian History_, edited by Steve Sénèque and Vijaya Teelock (forthcomin
 
 2023).
 
-_In Progress_
+> _In Progress_
 
 _"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony (Réunion Island, 1750-1810)_ (Book Manuscript).
 
@@ -91,11 +91,7 @@ _"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony
 ---
 **Collaborations**
 
-Special issue editor with Sarah Zimmerman, "No. 9, Le genre dans les sociétés
-
-esclavagistes et post-esclavagistes : Approches globales," _Esclavages &_
-
-_post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
+Special issue editor with Sarah Zimmerman, "No. 9, Le genre dans les sociétés esclavagistes et post-esclavagistes : Approches globales," _Esclavages &_post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
 
 ---
 **Awards**
@@ -123,7 +119,7 @@ _post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
 ---
 **Presentations**
 
-_Conferences_
+> _Conferences_
 
 June 2023 "Gender, Family, and Social Control on Plantations Managed by the Catholic Clergy in the Mascarenes (1712-1793)." Paper to be presented at the conference "Questioning Slavery: Catholic Perspectives," Universität Trier, Trier, Germany.
 
@@ -181,7 +177,7 @@ January 2014 "'They Are Proud to Wear the Chains': Slavery in the Shaping of Fre
 
 April 2013 "'Patrimoine du Diable': Catholicism and Creolization in Conceptions of the Île Bourbon Highlands, 1723-1765." Paper presented at the 59th Conference of the Society for French Historical Studies (SFHS). Cambridge, Massachusetts.
 
-_Invited Talks_
+> _Invited Talks_
 
 Feb. 2023 "New England Merchant Families in the Indian Ocean." Boston Athenaeum, Boston, Massachusetts.
 
@@ -207,7 +203,7 @@ July 2016 Fellowship talk: "The 'Destructive Scourge': Repercussions of the Hait
 
 Oct. 2014 Invited talk: "Blanc vs. Blanc: Île Bourbon and the Making of 'Whiteness' in the First French Colonial Empire, 1767-1789." Trinity College World History Workshop, Cambridge University, Cambridge, England.
 
-_Guest Lectures_
+> _Guest Lectures_
 
 Feb. 2021 "Echoes of Haiti's Revolution: The World of Alejo Carpentier's _The Kingdom of This World_" (guest lecture). Afro-Latino Literature, Prof. Edma Delgado, University of Arkansas at Little Rock, Little Rock, Arkansas.
 
@@ -223,7 +219,7 @@ March 2016 "The Catholic Church and Slavery" (guest lecture). The Early Modern B
 ---
 **Courses**
 
-_University of Arkansas at Little Rock_
+> _University of Arkansas at Little Rock_
 
 - HIST 1312: History Of Civilization II (World History from 1500)
 - HIST 3317: Twentieth-Century Europe
@@ -235,14 +231,14 @@ _University of Arkansas at Little Rock_
 - HIST 4393: Seminar in World History: Haitian Revolution
 - HIST 7315: Historical Methods Seminar (Graduate Methods Course)
 
-_Johns Hopkins University_
+> _Johns Hopkins University_
 
 - AS.100.255: The Haitian Revolution in World History
 
 ---
 **Service**
 
-_University_
+> _University_
 
 - Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2019, 2021, 2022)
 - Member, Research and Creative Works Committee, UA Little Rock
@@ -251,13 +247,13 @@ _University_
 - Member, Curriculum Committee, Department of History, UA Little Rock
 - Member, Tenure and Promotion Committee, Department of History, UA Little Rock
 
-_Scholarly_
+> _Scholarly_
 
 - Executive Board Member, Forum on Early-Modern Empires and Global Interactions (FEEGI)
 - Book Manuscript Reviewer, Cambridge University Press
 - Article Manuscript Reviewer, William & Mary Quarterly
 
-_Community_
+> _Community_
 
 - Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate), 2022-2023
 
