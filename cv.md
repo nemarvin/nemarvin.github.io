@@ -1,178 +1,226 @@
----
-layout: page
-title: " "
+**Nathan Elliot Marvin**
 
----
+601 Stabler Hall
 
-<br/>
+2801 S. University Avenue
 
-# Nathan Elliot Marvin
+Little Rock, Arkansas 72204
 
-<br/>
+Telephone: +1 603 296-5621
 
-Department of History
+Email: [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)
 
-University of Arkansas at Little Rock
-
-Little Rock, AR 72204-1099
-
-
-<br/>
+Portfolio:[https://nemarvin.github.io/](https://nemarvin.github.io/)
 
 **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 - present
 
-<br/>
-
 **Education**
 
-2018 Ph.D., History, Johns Hopkins University (Baltimore, Maryland) 
+2018 Ph.D., History, Johns Hopkins University (Baltimore, Maryland)
 
-_Dissertation:_ &quot;Bourbon Island Creoles: Race and Revolution in the French Indian Ocean Colony of Réunion, 1767-1803&quot; (Advisors: Pier M. Larson and Todd Shepard) 
+_Dissertation:_ "Bourbon Island Creoles: Race and Revolution in the French Indian Ocean
 
-_Exam Fields_: Comparative Empires in the Caribbean (Philip D. Morgan); French Indian Ocean Empire (Pier M. Larson); Modern France and its Empire (Todd Shepard); Early Modern France (Michael Kwass)
+Colony of Réunion, 1767-1803" (Advisors: Pier M. Larson and Todd Shepard)
+
+_Exam Fields_: Comparative Empires in the Caribbean (Philip D. Morgan); French Indian
+
+Ocean Empire (Pier M. Larson); Modern France and its Empire (Todd
+
+Shepard); Early Modern France (Michael Kwass)
 
 2013 M.A., History, Johns Hopkins University (Baltimore, Maryland)
 
-2010 B.A., History, French Studies, Wesleyan University (Middletown, Connecticut)
+2010 B.A. (Hons.), History, French Studies, Wesleyan University (Middletown,
 
-<br/>
+Connecticut)
 
 **Publications**
 
-2019 &quot;France and its Empire in the Indian Ocean,&quot; co-authored with Blake Smith. In _Oxford Bibliographies: Atlantic History._ Ed. Trevor Burnard. New York: Oxford University Press (July 31, 2019).
+_Peer-Reviewed Journal Articles_
 
-2018 &quot;The &#39;Ambroise Affair&#39;: White Women, Black Men, and the Limits of Métissage in Revolution-Era Réunion.&quot; _French History_ 32, no. 4 (December 2018): 493–510.
+2018 "The 'Ambroise Affair': White Women, Black Men, and the Limits of Métissage in Revolution-Era Réunion." _French History_ 32, no. 4 (December 2018): 493–510.
 
-2015 &quot;Instructions du Ministère de la Marine, concernant la tolérance envers l&#39;islam et l&#39;hindouisme dans les colonies françaises de l&#39;Océan indien sous l&#39;Ancien Régime.&quot; _Outre-Mers Revue d&#39;Histoire_ 103, no. 388–389 (December 2015): 285–90.
+_Refereed Book Chapters_
 
-2015 &quot;&#39;A Thousand Prejudices&#39;: French _Habitants_ and Catholic Missionaries in the Making of the Old Northwest, 1795-1805.&quot; Book chapter in _Une Amérique française, 1760-1860: dynamiques du corridor créole_, edited by Guillaume Teasdale and Tangi Villerbu, 113–40. Paris: Les Indes savantes, 2015.
+2023 "Les catégories raciales." Essay in _Colonisations. Notre histoire,_ edited by Mélanie Lamotte and Pierre Singaravélou (Éditions du Seuil, September 2023).
 
-<br/>
+2015 "'A Thousand Prejudices': French _Habitants_ and Catholic Missionaries in the Making of the Old Northwest, 1795-1805." Book chapter in _Une Amérique française, 1760-1860: dynamiques du corridor créole_, edited by Guillaume Teasdale and Tangi Villerbu, 113–40. Paris: Les Indes savantes, 2015.
+
+_Refereed Bibliographical and Review Essays_
+
+2022 "Review of _Archipelago of Justice: Law in France's Early Modern Empire_, by Laurie M. Wood." _H-France Forum_, Volume 17 Issue 2(Society for French Historical Studies).
+
+2019 "France and its Empire in the Indian Ocean," co-authored with Blake Smith. In _Oxford Bibliographies: Atlantic History._ Ed. Trevor Burnard. New York: Oxford University Press (July 31, 2019).
+
+_Edited Document Essays_
+
+2015 "Instructions du Ministère de la Marine, concernant la tolérance envers l'islam et l'hindouisme dans les colonies françaises de l'Océan indien sous l'Ancien Régime." _Outre-Mers Revue d'Histoire_ 103, no. 388–389 (Dec. 2015): 285–90.
+
+_Under Review_
+
+"'Free and Naturalized Frenchwomen': Gender and the Politics of Race on
+
+Revolution-Era Bourbon Island." Book chapter in _The Colonial Politics of_
+
+_Population: Fertility, Family, and Social Welfare between France and Empire_, edited by Margaret Andersen and Melissa Byrnes (Palgrave Macmillan,
+
+forthcoming 2024).
+
+"Gender, Family, and Social Control on Plantations Managed by the Catholic Clergy in the Eighteenth-Century Mascarenes." Book chapter in _Women_
+
+_in Mauritian History_, edited by Steve Sénèque and Vijaya Teelock (forthcoming,
+
+2023).
+
+_In Progress_
+
+_"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony (Réunion Island, 1750-1810)_ (Book Manuscript).
+
+"Enslaved by the Church, Sold for the Republic" (Digital History Project), accessible through H-France Digital Humanities Database Registry ([https://www.h-france.net/dh/registry/view.php?ProjectID=298](https://www.h-france.net/dh/registry/view.php?ProjectID=298)), Mapping the Black Digital and Public Humanities Database ([https://sites.lib.jmu.edu/mappingbdph](https://sites.lib.jmu.edu/mappingbdph/))
+
+"Les esclaves vendus comme 'biens nationaux' pendant la Révolution française" (Online reference article commissioned by the Musée de Villèle, Réunion Island)
 
 **Collaborations**
 
-2023 Special issue editor with Sarah Zimmerman, &quot;Gender and Slavery in Global Contexts,&quot; _Esclavages &amp; Post-esclavages_ (forthcoming).
+Special issue editor with Sarah Zimmerman, "No. 9, Le genre dans les sociétés
 
-<br/>
+esclavagistes et post-esclavagistes : Approches globales," _Esclavages &_
+
+_post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
 
 **Awards**
 
-2023  American Society for Eighteenth-Century Studies Fellowship, Boston Athenaeum
+2023 American Society for Eighteenth-Century Studies Fellowship, Boston Athenaeum
 
-2022  Core Program Residency Fellowship, Camargo Foundation (Cassis, France)
+2022 Core Program Residency Fellowship, Camargo Foundation (Cassis, France)
 
-2021 Jumpstart Program for Faculty Scholarship and Creative Works, awarded by the Office of the Provost, University of Arkansas at Little Rock.
+2022 Jumpstart Grant for Teaching (with distinction for best course design), Office of the Provost, University of Arkansas at Little Rock
 
-2020 G. Thomas Eisele Fellowship, awarded by the Center for Arkansas History and Culture for &quot;Lost Connections: The Haitian Revolution and Arkansas.&quot;
+2021 Jumpstart Grant for Faculty Scholarship and Creative Works, Office of the Provost, University of Arkansas at Little Rock
 
-2018 Dissertation Completion Fellowship, awarded by the Doris G. Quinn Foundation, for dissertation writing.
+2019 G. Thomas Eisele Fellowship, UA Little Rock Center for Arkansas History and Culture (for "Lost Connections: The Haitian Revolution in Arkansas")
 
-2017 Graduate Research Fellowship, awarded by the Charles Singleton Center for the Study of Premodern Europe, Johns Hopkins University, for dissertation research.
+2017 Dissertation Completion Fellowship, Doris G. Quinn Foundation
 
-2016 Virginia and Jean R. Perrette Fellowship, awarded by the John Carter Brown Library, for research on the French empire.
+2017 Graduate Dissertation Research Fellowship, Charles Singleton Center for the Study of Premodern Europe, Johns Hopkins University
 
-2015 Dean&#39;s Teaching Fellowship, awarded by the Krieger School of Arts &amp; Sciences, Johns Hopkins, for the design and instruction of an undergraduate course.
+2016 Virginia and Jean R. Perrette Fellowship, John Carter Brown Library
 
-2014 Mellon International Dissertation Research Fellowship (IDRF), awarded by the Social Science Research Council (SSRC), for dissertation research.
+2015 Dean's Teaching Fellowship, Krieger School of Arts & Sciences, Johns Hopkins
 
-<br/>
+2014 Mellon International Dissertation Research Fellowship (IDRF), Social Science Research Council (SSRC)
 
 **Presentations**
 
-<br/>
+_Conferences_
 
-_Conference Papers and Roundtables_
+June 2023 "Gender, Family, and Social Control on Plantations Managed by the Catholic Clergy in the Mascarenes (1712-1793)." Paper to be presented at the conference "Questioning Slavery: Catholic Perspectives," Universität Trier, Trier, Germany.
 
-May 2022 &quot;&#39;Creoles Far From Our Land&#39;: Race and Revolution in a Mauritian Sailor's Memoirs.&quot; Paper to be presented at the 46th annual meeting of the French Colonial Historical Society (FCHS), Charleston, South Carolina.
+June 2023 "L'Église et l'esclavage : les cas de la Louisiane et des îles Mascareignes." Paper to be presented at the Colloque international "France/Louisiane : une relation spéciale ?" Université Bordeaux Montaigne, Bordeaux, France.
 
-Mar. 2022 &quot;&#39;Effacer le souvenir de leur état&#39;: Family Strategy and the Making of Whiteness on Réunion Island.&quot; Paper to be presented at the 67th annual meeting of the Society for French Historical Studies (SFHS), Charlotte, North Carolina.
+May 2023 "'Le Philantrope Jannou Vend Sa Femme!': Slavery, Sex, and Surveillance in the Police Records of Réunion Island, 1794-1799, Paper presented at the 47th annual meeting of the French Colonial Historical Society (FCHS), Schœlcher, Martinique.
 
-Dec. 2021 &quot;Teaching the Politics of History: France, Mauritius, and the United States.&quot; Paper presented at &quot;Faculty Roundtable: Crises of Democracy in Global Perspective,&quot; event for Evenings with History (Lecture Series), UA Little Rock History Institute (Virtual presentation).
+Nov. 2022 Roundtable: "Using the Digital Humanities to Tell New Histories of Early Modern Empire, Slavery, and Race-Making." 49th annual conference, Western Society for French History (WSFH), Victoria, British Columbia (Virtual presentation).
 
-Nov. 2021 Roundtable: &quot;Pier Larson&#39;s Legacy in African Studies: Slavery, Belonging and Memory in the Indian Ocean.&quot; 64th annual meeting of the African Studies Association (Virtual presentation).
+May 2022 "'Creoles Far From Our Land': Race and Revolution in a Mauritian Sailor's Memoirs." Paper presented at the 46th annual meeting of the French Colonial Historical Society (FCHS), Charleston, South Carolina.
 
-April 2021 &quot;Crosscurrents of French Colonial Histories: Between Black Atlantic and Indian Ocean Worlds.&quot; Paper presented at the 51st annual meeting of the American Society for Eighteenth Century Studies (ASECS) (Virtual presentation).
+Mar. 2022 "'Effacer le souvenir de leur état': Family Strategy and the Making of Whiteness on Réunion Island." Paper presented at the 67th annual meeting of the Society for French Historical Studies (SFHS), Charlotte, North Carolina.
 
-Mar. 2021 &quot;&#39;No Bloodless Data in Slavery&#39;s Archive&#39;: Rethinking DH Projects on Histories of Slavery.&quot; Paper presented at the H-France/Society for French Historical Studies &quot;Digital Humanities: Ways Forward&quot; Conference (Virtual presentation).
+Dec. 2021 "Teaching the Contemporary Politics of History: France, Mauritius, and the United States." Paper presented at "Faculty Roundtable: Crises of Democracy in Global Perspective," event for Evenings with History (Lecture Series), UA Little Rock History Institute (Virtual presentation).
 
-Feb. 2021 &quot;Enslaved by the Church, Sold for the Republic: The Untold Story of the Men, Women, and Children Rendered &#39;National Property&#39; During the French Revolution.&quot; Paper presented at the Chesapeake Digital Humanities Consortium: Social Justice and Online Activism Conference, Virginia Tech (Virtual presentation).
+Nov. 2021 Roundtable: "Pier Larson's Legacy in African Studies: Slavery, Belonging and Memory in the Indian Ocean." 64th annual meeting of the African Studies Association (ASA) (Virtual presentation).
 
-Jan. 2021 &quot;&#39;To Bourbon, My Native Place&#39;: The Global Peregrinations of a French Indian Ocean Family.&quot; Paper accepted for the 125th annual meeting of the American Historical Association (AHA), Seattle, Washington. _Meeting cancelled due to Covid-19._
+April 2021 "Crosscurrents of French Colonial Histories: Between Black Atlantic and Indian Ocean Worlds." Paper presented at the 51st annual meeting of the American Society for Eighteenth Century Studies (ASECS) (Virtual presentation).
 
-Nov. 2020 &quot;&#39;In the Name of the Republic&#39;: The Sale of Enslaved People as _Biens Nationaux_ During the French Revolution.&quot; Paper presented at the 85th Annual Meeting of the Southern Historical Association, European History Section (SHA-EHS) (Virtual presentation).
+Mar. 2021 "'No Bloodless Data in Slavery's Archive': Rethinking DH Projects on Histories of Slavery." Paper presented at the H-France/Society for French Historical Studies "Digital Humanities: Ways Forward" Conference (Virtual presentation).
 
-May 2020 &quot;Enslaved People Sold as _Biens Nationaux _during the French Revolution: The Case of Réunion Island.&quot; Paper accepted for the 46th annual meeting of the French Colonial Historical Society (FCHS), Buffalo, New York. _Meeting cancelled due to Covid-19._
+Feb. 2021 "Enslaved by the Church, Sold for the Republic: The Untold Story of the Men, Women, and Children Rendered 'National Property' During the French Revolution." Paper presented at the Chesapeake Digital Humanities Consortium: Social Justice and Online Activism Conference, Virginia Tech (Virtual presentation).
 
-Feb. 2020 &quot;&#39;That Fatal Decree&#39;: Anti-Abolition in France&#39;s Indian Ocean Colonies.&quot; Paper presented at the 50th Annual Conference of the Consortium on the Revolutionary Era (CRE), Tallahassee, Florida.
+Jan. 2021 "'To Bourbon, My Native Place': The Global Peregrinations of a French Indian Ocean Family." Paper accepted for the 125th annual meeting of the American Historical Association (AHA), Seattle, Washington. _Cancelled due to Covid-19._
 
-Feb. 2020 &quot;&#39;Whites of Madagascar&#39;: Non-European Origins of Whiteness in the French-Colonial Mascarene Islands.&quot; Paper presented at the 13th Biennial Conference of the Forum on Early-Modern Empires and Global Interactions (FEEGI), St. Louis, Missouri.
+Nov. 2020 "'In the Name of the Republic': The Sale of Enslaved People as _Biens Nationaux_ During the French Revolution." Paper presented at the 85th Annual Meeting of the Southern Historical Association, European History Section (SHA-EHS) (Virtual presentation).
 
-Sept. 2019 &quot;&#39;Few Families Here Are Free of Black Blood&#39;: The Making of Whiteness on French-Colonial Réunion Island.&quot; Paper presented at the Symposium on Genders, Families, and Generations in Africa and its Diasporas, Bucknell University, Lewisburg, Pennsylvania.
+May 2020 "Enslaved People Sold as _Biens Nationaux _during the French Revolution: The Case of Réunion Island." Paper accepted for the 46th annual meeting of the French Colonial Historical Society (FCHS), Buffalo, New York. _Meeting cancelled due to Covid-19._
 
-March 2019 &quot;&#39;La Vente des Hommes&#39;: The Sale of Ecclesiastical Slaves as &#39;Biens Nationaux&#39; on Réunion Island.&quot; Paper presented at the 49th Annual Conference of the Consortium on the Revolutionary Era (CRE), Atlanta, Georgia.
+Feb. 2020 "'That Fatal Decree': Anti-Abolition in France's Indian Ocean Colonies." Paper presented at the 50th Annual Conference of the Consortium on the Revolutionary Era (CRE), Tallahassee, Florida.
 
-Nov. 2018 &quot;&#39;Biens curiaux, biens nationaux&#39;: The French Revolution and the Sale of Church Slaves on Réunion.&quot; Paper presented at the 46th Annual Conference of the Western Society for French History (WSFH), Portland, Maine.
+Feb. 2020 "'Whites of Madagascar': Non-European Origins of Whiteness in the French-Colonial Mascarene Islands." Paper presented at the 13th Biennial Conference of the Forum on Early-Modern Empires and Global Interactions (FEEGI), St. Louis, Missouri.
 
-June 2018 &quot;The &#39;Affaire Ambroise&#39;: Métissage, the Archive, and the Boundaries of Race on Réunion.&quot; Paper presented at the 44th Meeting of the French Colonial Historical Society (FCHS), Seattle, Washington.
+Sept. 2019 "'Few Families Here Are Free of Black Blood': The Making of Whiteness on French-Colonial Réunion Island." Paper presented at the Symposium on Genders, Families, and Generations in Africa and its Diasporas, Bucknell University, Lewisburg, Pennsylvania.
 
-March 2018 &quot;&#39;Dishonor in the Family&#39;: Race and the Gendered Politics of Métissage on Réunion Island in the Age of Revolution.&quot; Paper presented at the 64th Conference of theSociety for French Historical Studies (SFHS), Pittsburgh, Pennsylvania.
+March 2019 "'La Vente des Hommes': The Sale of Ecclesiastical Slaves as 'Biens Nationaux' on Réunion Island." Paper presented at the 49th Annual Conference of the Consortium on the Revolutionary Era (CRE), Atlanta, Georgia.
 
-January 2018 &quot;&#39;There Will be a Toussaint Louverture Here Among Them&#39;: Race and Rumor in France&#39;s Indian Ocean Colonies in the Era of the Haitian Revolution.&quot; Paper presented at the 132nd Meeting of theAmerican Historical Association (AHA), Washington, District of Columbia.
+Nov. 2018 "'Biens curiaux, biens nationaux': The French Revolution and the Sale of Church Slaves on Réunion." Paper presented at the 46th Annual Conference of the Western Society for French History (WSFH), Portland, Maine.
 
-June 2017 &quot;&#39;Erasing the Memory of their Status&#39;: Marriage Strategy and Whiteness on Bourbon Island in the Ancien Régime.&quot; Paper presented at the 43rd Meeting of the French Colonial Historical Society (FCHS), Aix-en-Provence, France.
+June 2018 "The 'Affaire Ambroise': Métissage, the Archive, and the Boundaries of Race on Réunion." Paper presented at the 44th Meeting of the French Colonial Historical Society (FCHS), Seattle, Washington.
 
-April 2015 &quot;Race under the &#39;Despotic Reign&#39;: Defining Whiteness on Île Bourbon (1767-1803).&quot; Paper presented at the 61st Conference of the Society for French Historical Studies (SFHS), Colorado Springs, Colorado, and at the 41st Annual Meeting of the French Colonial Historical Society (FCHS), Binghamton, New York (May 2015).
+March 2018 "'Dishonor in the Family': Race and the Gendered Politics of Métissage on Réunion Island in the Age of Revolution." Paper presented at the 64th Conference of theSociety for French Historical Studies (SFHS), Pittsburgh, Pennsylvania.
 
-Feb. 2015 &quot;&#39;Noirs faisant partie des biens curiaux&#39;: Ecclesiastical Slavery in the Mascarenes (1712-1793).&quot; Paper presented at the UNESCO International Seminar on Slavery, University of Mauritius, Réduit, Mauritius.
+January 2018 "'There Will be a Toussaint Louverture Here Among Them': Race and Rumor in France's Indian Ocean Colonies in the Era of the Haitian Revolution." Paper presented at the 132nd Meeting of theAmerican Historical Association (AHA), Washington, District of Columbia.
 
-January 2014 &quot;&#39;They Are Proud to Wear the Chains&#39;: Slavery in the Shaping of French Missions to the Mascarenes, 1712–89.&quot; Paper presented at the conference of the American Society of Church History (ASCH), affiliated society session of the 128th Meeting of the American Historical Association (AHA), Washington, District of Columbia.
+June 2017 "'Erasing the Memory of their Status': Marriage Strategy and Whiteness on Bourbon Island in the Ancien Régime." Paper presented at the 43rd Meeting of the French Colonial Historical Society (FCHS), Aix-en-Provence, France.
 
-April 2013 &quot;&#39;Patrimoine du Diable&#39;: Catholicism and Creolization in Conceptions of the Île Bourbon Highlands, 1723-1765.&quot; Paper presented at the 59th Conference of the Society for French Historical Studies (SFHS). Cambridge, Massachusetts.
+April 2016 "'Le Débris de Madagascar': Race, Power, and the Founding Myth of Réunion Island." Paper presented at the Weidner History Conference on the Francophone Indian Ocean, Institute on Napoleon and the French Revolution, Florida State University, Tallahassee, Florida.
 
-<br/>
+April 2015 "Race under the 'Despotic Reign': Defining Whiteness on Île Bourbon (1767-1803)." Paper presented at the 61st Conference of the Society for French Historical Studies (SFHS), Colorado Springs, Colorado, and at the 41st Annual Meeting of the French Colonial Historical Society (FCHS), Binghamton, New York (May 2015).
 
-_Invited Talks and Seminars_
+Feb. 2015 "'Noirs faisant partie des biens curiaux': Ecclesiastical Slavery in the Mascarenes (1712-1793)." Paper presented at the UNESCO International Seminar on Slavery, University of Mauritius, Réduit, Mauritius.
 
-Nov. 2020 &quot;Enslaved by the Church, Sold for the Republic: The Untold Story of the Men, Women, and Children Rendered &#39;National Property&#39; During the French Revolution.&quot; Evenings with History (Lecture Series), History Institute. Little Rock, Arkansas.
+January 2014 "'They Are Proud to Wear the Chains': Slavery in the Shaping of French Missions to the Mascarenes, 1712–89." Paper presented at the conference of the American Society of Church History (ASCH), affiliated society session of the 128th Meeting of the American Historical Association (AHA), Washington, District of Columbia.
 
-Nov. 2019 &quot;&#39;Few Families Here Are Free of Black Blood&#39;: Negotiating Whiteness in France&#39;s Indian Ocean Colonies (1767-1790).&quot; Missouri Regional Seminar on Early American History (Kinder Institute at the University of Missouri), St. Louis, Missouri.
+April 2013 "'Patrimoine du Diable': Catholicism and Creolization in Conceptions of the Île Bourbon Highlands, 1723-1765." Paper presented at the 59th Conference of the Society for French Historical Studies (SFHS). Cambridge, Massachusetts.
 
-April 2019 &quot;Commercial Ties: Capitalism in the French Indian Ocean and Atlantic Worlds&quot; (comment on panel), 65th Annual Conference of the Society for French Historical Studies (SFHS), Indianapolis, Indiana.
+_Invited Talks_
 
-May 2017 &quot;Teaching with Maps: Using Spatial Data and ArcGIS Online in the Classroom.&quot; Digital History Seminar, Johns Hopkins University, Baltimore, Maryland.
+Feb. 2023 "New England Merchant Families in the Indian Ocean." Boston Athenaeum, Boston, Massachusetts.
 
-July 2016 &quot;The &#39;Destructive Scourge&#39;: Repercussions of the Haitian Revolution in the French Indian Ocean.&quot; The John Carter Brown Library, Providence, Rhode Island.
+Jan. 2023 Respondent on Roundtable: "Representing Slavery in Museums: The French World," University of Texas at Austin, Austin, Texas.
 
-April 2016 &quot;&#39;Le Débris de Madagascar&#39;: Race, Power, and the Founding Myth of Réunion Island.&quot; Weidner History Conference on the Francophone Indian Ocean, Institute on Napoleon and the French Revolution, Florida State University, Tallahassee, Florida.
+May 2022 Discussant on panel: "Circulation et Après-Vie des Objets et des Idees/Production, Circulation and Afterlives of Objects and Ideas/Circulation of objects and ideas," at Conference "Displacement and Belonging: Lessons from the Indian Ocean and Beyond/Circulations et appartenances : leçons de l'océan Indien et au-delà," Paris Center, University of Chicago, Paris, France.
 
-Oct. 2014 &quot;Blanc vs. Blanc: Île Bourbon and the Making of &#39;Whiteness&#39; in the First French Colonial Empire, 1767-1789.&quot; Trinity College World History Workshop, Cambridge University, Cambridge, England.
+April 2022 Comment on book chapter: "Failure on Bourbon," by Julia Landweber, New York French History Group.
 
-<br/>
+April 2022 Presentation of research: "Arkansas Créole: Rediscovering a Lost Vernacular Landscape." Invited by the G. Thomas Eisele Endowment for the Study of the History of the United States Federal Courts in Arkansas.
+
+April 2022 Moderator and interviewer for plenary session: "Documentary Film Screening and Discussion: _Furcy: Le procès de la liberté / Furcy: Fighting for Freedom_" with Sue Peabody and filmmaker Pierre Lane, at the 67th annual meeting of the Society for French Historical Studies (SFHS), Charlotte, North Carolina.
+
+Nov. 2020 Public lecture: "Enslaved by the Church, Sold for the Republic: The Untold Story of the Men, Women, and Children Rendered 'National Property' During the French Revolution." Evenings with History (Lecture Series), University History Institute, Little Rock, Arkansas.
+
+Nov. 2019 Paper presented: "'Few Families Here Are Free of Black Blood': Negotiating Whiteness in France's Indian Ocean Colonies (1767-1790)." Missouri Regional Seminar on Early American History (Kinder Institute at the University of Missouri), St. Louis, Missouri.
+
+April 2019 Comment on panel: "Commercial Ties: Capitalism in the French Indian Ocean and Atlantic Worlds," at the 65th Annual Conference of the Society for French Historical Studies (SFHS), Indianapolis, Indiana.
+
+May 2017 Invited talk: "Teaching with Maps: Using Spatial Data and ArcGIS Online in the Classroom." Digital History Seminar, Johns Hopkins Univ., Baltimore, Maryland.
+
+July 2016 Fellowship talk: "The 'Destructive Scourge': Repercussions of the Haitian Revolution in the French Indian Ocean." The John Carter Brown Library, Providence, Rhode Island.
+
+Oct. 2014 Invited talk: "Blanc vs. Blanc: Île Bourbon and the Making of 'Whiteness' in the First French Colonial Empire, 1767-1789." Trinity College World History Workshop, Cambridge University, Cambridge, England.
 
 _Guest Lectures_
 
-Feb. 2021 &quot;Echoes of Haiti&#39;s Revolution: The World of Alejo Carpentier&#39;s _The Kingdom of This World_&quot; (guest lecture). Afro-Latino Literature, Prof. Edma Delgado, UA Little Rock, Little Rock, Arkansas.
+Feb. 2021 "Echoes of Haiti's Revolution: The World of Alejo Carpentier's _The Kingdom of This World_" (guest lecture). Afro-Latino Literature, Prof. Edma Delgado, University of Arkansas at Little Rock, Little Rock, Arkansas.
 
-Sept. 2020 &quot;The Global Haitian Revolution&quot; (guest lecture). Race and Gender in Latin America, Prof. Marlena J. Edwards, Penn State University, State College, Pennsylvania.
+Sept. 2020 "The Global Haitian Revolution" (guest lecture). Race and Gender in Latin America, Prof. Marlena J. Edwards, Penn State University, State College, Pennsylvania.
 
-Sept. 2019 &quot;The Haitian Revolution and Baltimore&quot; (guest lecture). Introduction to the African Diaspora, Prof. Sara Rahnama, Morgan State Univ., Baltimore, Maryland.
+Sept. 2019 "The Haitian Revolution and Baltimore" (guest lecture). Introduction to the African Diaspora, Prof. Sara Rahnama, Morgan State Univ., Baltimore, Maryland.
 
-Sept. 2019 &quot;Karl Marx&#39;s _The Eighteenth Brumaire of Louis Bonaparte_ and Historiography of the French Revolution&quot; (guest lecture). Seminar: Historical Methods, Prof. Barclay Key, University of Arkansas at Little Rock, Little Rock, Arkansas.
+Sept. 2019 "Karl Marx's _The Eighteenth Brumaire of Louis Bonaparte_ and Historiography of French Revolutions" (guest lecture). Seminar: Historical Methods, Prof. Barclay Key, University of Arkansas at Little Rock, Little Rock, Arkansas.
 
-March, 2016 &quot;The Catholic Church and Slavery&quot; (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
-
-<br/>
+March 2016 "The Catholic Church and Slavery" (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
 
 **Courses**
 
 _University of Arkansas at Little Rock_
 
-- HIST 1312: History Of Civilization II (World History Since 1500)
-- HIST 3328: Modern France in World History (1789-Present)
+- HIST 1312: History Of Civilization II (World History from 1500)
+- HIST 3317: Twentieth-Century Europe
+- HIST 3328: Modern France in World History (1700-Present)
+- HIST 4309: The Historian's Craft (Undergraduate Methods Course)
 - HIST 4326: History of the Atlantic World
-- HIST 4309: The Historian&#39;s Craft (Undergraduate Methods Course)
+- HIST 4390: Revolutions in World History
+- HIST 4393: Seminar: Global Perspectives on Race
 - HIST 4393: Seminar in World History: Haitian Revolution
 - HIST 7315: Historical Methods Seminar (Graduate Methods Course)
 
@@ -180,63 +228,75 @@ _Johns Hopkins University_
 
 - AS.100.255: The Haitian Revolution in World History
 
-<br/>
-
 **Service**
 
-- Associate Faculty Member, Gender Studies, University of Arkansas at Little Rock
-- Faculty Advisor, The History Club, University of Arkansas at Little Rock
-- Undergraduate Curriculum Committee Member, College of Humanities, Arts, Social Sciences, and Education, University of Arkansas at Little Rock
-- Curriculum Committee Member, Department of History, Univ. of Arkansas at Little Rock
-- Facilitator &amp; Steering Committee Member, UA Little Rock Mobile Summer Institute on Scientific Teaching (MoSI)
-- Executive Board Member, Forum on Early-Modern Empires and Global Interactions
-- Tenure and Promotion Committee, History Department, Univ. of ArkansasLittle Rock
-- Manuscript Reviewer, Cambridge University Press
+_University_
 
-<br/>
+- Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2019, 2021, 2022)
+- Member, Research and Creative Works Committee, UA Little Rock
+- Member, Awards Committee, Gender Studies, UA Little Rock
+- Member, Undergraduate Curriculum Committee, College of Humanities, Arts, Social Sciences, and Education, UA Little Rock
+- Member, Curriculum Committee, Department of History, UA Little Rock
+- Member, Tenure and Promotion Committee, Department of History, UA Little Rock
+
+_Scholarly_
+
+- Executive Board Member, Forum on Early-Modern Empires and Global Interactions (FEEGI)
+- Book Manuscript Reviewer, Cambridge University Press
+- Article Manuscript Reviewer, William & Mary Quarterly
+
+_Community_
+
+- Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate), 2022-2023
 
 **Other Employment**
 
-2015-2018 GIS Assistant, Eisenhower Library, Johns Hopkins University, Baltimore, Maryland
+2015-2018GIS Assistant, Eisenhower Library, Johns Hopkins Univ., Baltimore, Maryland
 
-2012-2014 Docent/Document Translation, St. Mary&#39;s &amp; Mother Seton House Historic Site, Baltimore, Maryland
+2012-2014 Docent/Document Translation, St. Mary's Historic Site, Baltimore, Maryland
 
-2009 French-English Translation, Institut d&#39;études de l&#39;Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
-
-<br/>
+2009 French-English Translation, Institut d'études de l'Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
 
 **Software**
 
 - ArcGIS Pro, ArcGIS Online, QGIS (mapping, georeferencing, spatial analysis)
-- Palladio (spatial &amp; network mapping)
-- R/Shiny (open-source platform for hosting applications designed with &quot;R&quot;)
+- Palladio (spatial & network mapping)
+- R/Shiny (open-source platform for hosting applications designed with "R")
 - SPSS (statistical analysis)
-
-<br/>
 
 **Languages**
 
+- English: native fluency (speaking, reading, writing)
 - French: fluent (speaking, reading, writing)
-- Portuguese: intermediate (reading, writing)
-- Reunionese Creole: intermediate (speaking, reading, writing)
-- Italian: beginner (reading, writing)
-
-<br/>
+- Portuguese: intermediate (speaking, reading, writing)
+- Reunionese Creole: beginner (speaking, reading, writing)
+- Italian: beginner (speaking, reading, writing)
 
 **Affiliations**
-- Forum on Early-Modern Empires and Global Interactions (FEEGI), Executive Board
-- American Historical Association (AHA), member
-- American Society for Eighteenth-Century Studies (ASECS), member
-- Commission Internationale des Historiens de l&#39;Océan Indien (CIHOI), member
-- Consortium on the Revolutionary Era (CRE), member
-- Centre de Recherches sur les Sociétés de l&#39;Océan Indien (CRESOI), member
-- European History Section of the Southern Historical Association (SHA-EHS), member
-- French Colonial Historical Society (FCHS), member
-- Society for French Historical Studies (SFHS), member
-- Western Society for French History (WSFH), member
 
+- Forum on Early-Modern Empires and Global Interactions (FEEGI)
+- American Historical Association (AHA)
+- American Society for Eighteenth-Century Studies (ASECS)
+- Commission Internationale des Historiens de l'Océan Indien (CIHOI)
+- Consortium on the Revolutionary Era (CRE)
+- Centre de Recherches sur les Sociétés de l'Océan Indien (CRESOI)
+- European History Section of the Southern Historical Association (SHA-EHS)
+- French Colonial Historical Society (FCHS)
+- Society for French Historical Studies (SFHS)
+- Western Society for French History (WSFH)
+
+**References**
+
+- Dr. Michael Kwass, Professor of History, Johns Hopkins University ([kwass@jhu.edu](mailto:kwass@jhu.edu))
+- Dr. Mélanie Lamotte, Assistant Professor of French, University of Texas at Austin ([melanie.lamotte@austin.utexas.edu](mailto:melanie.lamotte@austin.utexas.edu))
+- Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University ([speabody@wsu.edu](mailto:speabody@wsu.edu))
+- Dr. Jess Porter, Director of the UA Little Rock Center for Arkansas History and Culture, Associate Professor of Geography, University of Arkansas at Little Rock ([jcporter@ualr.edu](mailto:jcporter@ualr.edu))
+- Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University ([tshep75@jhu.edu](mailto:tshep75@jhu.edu))
 <br/>
 
-<img src="{{ site.baseurl }}/vallon.gif">
+<img src="{{ site.baseurl }}/vallon.gif"><div style="width: 300px; overflow: hidden;">
+  <alt="Vallon des Auffes" style="object-fit: cover; width: 100%; height: 200px;">
+</div>
+
 
 ---
