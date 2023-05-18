@@ -13,7 +13,7 @@ I write about race and religion in the French colonial world. Right now, I'm wor
 ---
 
 <div style="float: left; margin-right: 20px;">
-  <img src="marvin.jpg" alt="Photo" width="600">
+  <img src="marvin.jpg" alt="Photo" width="300">
 </div>
 I am an assistant professor of history at the University of Arkansas at Little Rock, where I am also a Gender Studies affiliate faculty member. I teach courses on world history and research methods, as well as seminars on the Haitian Revolution in World History, Modern France through Film, and the Atlantic in Global Perspective.
 
