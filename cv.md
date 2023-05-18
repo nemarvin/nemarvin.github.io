@@ -306,6 +306,3 @@ _Community_
 - Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University ([tshep75@jhu.edu](mailto:tshep75@jhu.edu))
 <br/>
 
-<img src="{{ site.baseurl }}/vallon.gif">
-
----
