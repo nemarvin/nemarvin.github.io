@@ -1,16 +1,8 @@
 # Nathan Elliot Marvin 
 
-601 Stabler Hall
+601 Stabler Hall, 2801 S. University Avenue, Little Rock, Arkansas 72204
 
-2801 S. University Avenue
-
-Little Rock, Arkansas 72204
-
-Telephone: +1 603 296-5621
-
-Email: [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)
-
-Portfolio: [https://nemarvin.github.io/](https://nemarvin.github.io/)
+Telephone: +1 603 296-5621 \| Email: [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu) \| Portfolio: [https://nemarvin.github.io/](https://nemarvin.github.io/)
 
 
 ---
