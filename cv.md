@@ -11,10 +11,12 @@ Telephone: +1 603 296-5621
 Email: [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)
 
 Portfolio:[https://nemarvin.github.io/](https://nemarvin.github.io/)
+---
 
 **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 - present
+---
 
 **Education**
 
@@ -35,6 +37,7 @@ Shepard); Early Modern France (Michael Kwass)
 2010 B.A. (Hons.), History, French Studies, Wesleyan University (Middletown,
 
 Connecticut)
+---
 
 **Publications**
 
@@ -81,6 +84,7 @@ _"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony
 "Enslaved by the Church, Sold for the Republic" (Digital History Project), accessible through H-France Digital Humanities Database Registry ([https://www.h-france.net/dh/registry/view.php?ProjectID=298](https://www.h-france.net/dh/registry/view.php?ProjectID=298)), Mapping the Black Digital and Public Humanities Database ([https://sites.lib.jmu.edu/mappingbdph](https://sites.lib.jmu.edu/mappingbdph/))
 
 "Les esclaves vendus comme 'biens nationaux' pendant la Révolution française" (Online reference article commissioned by the Musée de Villèle, Réunion Island)
+---
 
 **Collaborations**
 
@@ -89,6 +93,7 @@ Special issue editor with Sarah Zimmerman, "No. 9, Le genre dans les sociétés
 esclavagistes et post-esclavagistes : Approches globales," _Esclavages &_
 
 _post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
+---
 
 **Awards**
 
@@ -111,6 +116,7 @@ _post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
 2015 Dean's Teaching Fellowship, Krieger School of Arts & Sciences, Johns Hopkins
 
 2014 Mellon International Dissertation Research Fellowship (IDRF), Social Science Research Council (SSRC)
+---
 
 **Presentations**
 
@@ -209,6 +215,7 @@ Sept. 2019 "The Haitian Revolution and Baltimore" (guest lecture). Introduction 
 Sept. 2019 "Karl Marx's _The Eighteenth Brumaire of Louis Bonaparte_ and Historiography of French Revolutions" (guest lecture). Seminar: Historical Methods, Prof. Barclay Key, University of Arkansas at Little Rock, Little Rock, Arkansas.
 
 March 2016 "The Catholic Church and Slavery" (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
+---
 
 **Courses**
 
@@ -249,6 +256,7 @@ _Community_
 
 - Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate), 2022-2023
 
+---
 **Other Employment**
 
 2015-2018GIS Assistant, Eisenhower Library, Johns Hopkins Univ., Baltimore, Maryland
@@ -257,6 +265,7 @@ _Community_
 
 2009 French-English Translation, Institut d'études de l'Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
 
+---
 **Software**
 
 - ArcGIS Pro, ArcGIS Online, QGIS (mapping, georeferencing, spatial analysis)
@@ -264,6 +273,7 @@ _Community_
 - R/Shiny (open-source platform for hosting applications designed with "R")
 - SPSS (statistical analysis)
 
+---
 **Languages**
 
 - English: native fluency (speaking, reading, writing)
@@ -272,6 +282,7 @@ _Community_
 - Reunionese Creole: beginner (speaking, reading, writing)
 - Italian: beginner (speaking, reading, writing)
 
+---
 **Affiliations**
 
 - Forum on Early-Modern Empires and Global Interactions (FEEGI)
@@ -285,6 +296,7 @@ _Community_
 - Society for French Historical Studies (SFHS)
 - Western Society for French History (WSFH)
 
+---
 **References**
 
 - Dr. Michael Kwass, Professor of History, Johns Hopkins University ([kwass@jhu.edu](mailto:kwass@jhu.edu))
