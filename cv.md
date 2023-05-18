@@ -79,7 +79,7 @@ _"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony
 ---
 **Collaborations**
 
-Special issue editor with Sarah Zimmerman, "No. 9, Le genre dans les sociétés esclavagistes et post-esclavagistes : Approches globales," _Esclavages &_post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
+Special issue editor with Sarah Zimmerman, "No. 9, Le genre dans les sociétés esclavagistes et post-esclavagistes : Approches globales," _Esclavages & post-esclavages/Slaveries & Post-Slaveries_ (forthcoming, November 2023).
 
 ---
 **Awards**
