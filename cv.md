@@ -294,9 +294,6 @@ _Community_
 - Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University ([tshep75@jhu.edu](mailto:tshep75@jhu.edu))
 <br/>
 
-<img src="{{ site.baseurl }}/vallon.gif"><div style="width: 300px; overflow: hidden;">
-  <alt="Vallon des Auffes" style="object-fit: cover; width: 100%; height: 200px;">
-</div>
-
+<img src="{{ site.baseurl }}/vallon.gif">
 
 ---
