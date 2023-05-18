@@ -60,9 +60,7 @@ Connecticut)
 
 > _Under Review_
 
-"'Free and Naturalized Frenchwomen': Gender and the Politics of Race on
-
-Revolution-Era Bourbon Island." Book chapter in _The Colonial Politics of_
+"'Free and Naturalized Frenchwomen': Gender and the Politics of Race on Revolution-Era Bourbon Island." Book chapter in _The Colonial Politics of_
 
 _Population: Fertility, Family, and Social Welfare between France and Empire_, edited by Margaret Andersen and Melissa Byrnes (Palgrave Macmillan, forthcoming 2024).
 
