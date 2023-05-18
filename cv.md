@@ -30,9 +30,7 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2013 M.A., History, Johns Hopkins University (Baltimore, Maryland)
 
-2010 B.A. (Hons.), History, French Studies, Wesleyan University (Middletown,
-
-Connecticut)
+2010 B.A. (Hons.), History, French Studies, Wesleyan University (Middletown, Connecticut)
 
 
 ---
