@@ -7,4 +7,4 @@ I am an assistant professor of history at the University of Arkansas at Little R
 
 My research examines race and religion in the eighteenth-century French colonial world. I'm working on a book that examines how gender and family dynamics shaped the politics of whiteness on the Indian Ocean island of Réunion, from its seventeenth-century establishment to the era of the French and Haitian Revolutions. My second project is a history of slavery and resistance on properties held by French Catholic priests and nuns, from Montreal to Mauritius. 
 
-![Marvin](marvin.jpg){:width="100"}
+![Marvin](marvin.jpg){:width="100px"}
