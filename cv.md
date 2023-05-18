@@ -201,41 +201,41 @@ _Guest Lectures_
 
 _University of Arkansas at Little Rock_
 
-> - HIST 1312: History Of Civilization II (World History from 1500)
-> - HIST 3317: Twentieth-Century Europe
-> - HIST 3328: Modern France in World History (1700-Present)
-> - HIST 4309: The Historian's Craft (Undergraduate Methods Course)
-> - HIST 4326: History of the Atlantic World
-> - HIST 4390: Revolutions in World History
-> - HIST 4393: Seminar: Global Perspectives on Race
-> - HIST 4393: Seminar in World History: Haitian Revolution
-> - HIST 7315: Historical Methods Seminar (Graduate Methods Course)
+- HIST 1312: History Of Civilization II (World History from 1500)
+- HIST 3317: Twentieth-Century Europe
+- HIST 3328: Modern France in World History (1700-Present)
+- HIST 4309: The Historian's Craft (Undergraduate Methods Course)
+- HIST 4326: History of the Atlantic World
+- HIST 4390: Revolutions in World History
+- HIST 4393: Seminar: Global Perspectives on Race
+- HIST 4393: Seminar in World History: Haitian Revolution
+- HIST 7315: Historical Methods Seminar (Graduate Methods Course)
 
 _Johns Hopkins University_
 
-> - AS.100.255: The Haitian Revolution in World History
+- AS.100.255: The Haitian Revolution in World History
 
 ---
 **Service**
 
 _University_
 
-> - Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2019, 2021, 2022)
-> - Member, Research and Creative Works Committee, UA Little Rock
-> - Member, Awards Committee, Gender Studies, UA Little Rock
-> - Member, Undergraduate Curriculum Committee, College of Humanities, Arts, Social Sciences, and Education, UA Little Rock
-> - Member, Curriculum Committee, Department of History, UA Little Rock
-> - Member, Tenure and Promotion Committee, Department of History, UA Little Rock
+- Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2019, 2021, 2022)
+- Member, Research and Creative Works Committee, UA Little Rock
+- Member, Awards Committee, Gender Studies, UA Little Rock
+- Member, Undergraduate Curriculum Committee, College of Humanities, Arts, Social Sciences, and Education, UA Little Rock
+- Member, Curriculum Committee, Department of History, UA Little Rock
+- Member, Tenure and Promotion Committee, Department of History, UA Little Rock
 
 _Scholarly_
 
-> - Executive Board Member, Forum on Early-Modern Empires and Global Interactions (FEEGI)
-> - Book Manuscript Reviewer, Cambridge University Press
-> - Article Manuscript Reviewer, William & Mary Quarterly
+- Executive Board Member, Forum on Early-Modern Empires and Global Interactions (FEEGI)
+- Book Manuscript Reviewer, Cambridge University Press
+- Article Manuscript Reviewer, William & Mary Quarterly
 
 _Community_
 
-> - Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate), 2022-2023
+- Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate), 2022-2023
 
 ---
 **Other Employment**
