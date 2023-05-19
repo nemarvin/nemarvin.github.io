@@ -8,4 +8,4 @@ I am a cultural and social historian of the eighteenth-century French colonial w
 
 I teach history at the University of Arkansas at Little Rock, where I am also a Gender Studies affiliate faculty member. I offer courses on world history and research methods, as well as seminars on the Haitian Revolution, Modern France through Film, Global Perspectives on Race, and Revolutions in World History.
 
-I come from the Piscataqua Region of New England. I live and work in the Arkansas River Valley.
+I am originally from the Piscataqua Region of New England. I live and work in Central Arkansas.
