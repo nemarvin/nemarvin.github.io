@@ -46,7 +46,7 @@ _Refereed Book Chapters_
 
 _Refereed Bibliographical and Review Essays_
 
-> 2022 "Review of _Archipelago of Justice: Law in France's Early Modern Empire_, by Laurie M. Wood." _H-France Forum_, Volume 17 Issue 2(Society for French Historical Studies).
+> 2022 "Review of _Archipelago of Justice: Law in France's Early Modern Empire_, by Laurie M. Wood." _H-France Forum_, Volume 17 Issue 2 (Society for French Historical Studies).
 
 > 2019 "France and its Empire in the Indian Ocean," co-authored with Blake Smith. In _Oxford Bibliographies: Atlantic History._ Ed. Trevor Burnard. New York: Oxford University Press (July 31, 2019).
 
