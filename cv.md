@@ -240,11 +240,9 @@ _Community_
 ---
 **Other Employment**
 
-> 2015-2018 GIS Assistant, Eisenhower Library, Johns Hopkins Univ., Baltimore, Maryland
-
-> 2012-2014 Docent/Document Translation, St. Mary's Historic Site, Baltimore, Maryland
-
-> 2009 French-English Translation, Institut d'études de l'Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
+- 2015-2018 GIS Assistant, Eisenhower Library, Johns Hopkins Univ., Baltimore, Maryland
+- 2012-2014 Docent/Document Translation, St. Mary's Historic Site, Baltimore, Maryland
+- 2009 French-English Translation, Institut d'études de l'Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris
 
 ---
 **Software**
