@@ -127,7 +127,7 @@ _Conferences_
 
 > Nov. 2020 "'In the Name of the Republic': The Sale of Enslaved People as _Biens Nationaux_ During the French Revolution." Paper presented at the 85th Annual Meeting of the Southern Historical Association, European History Section (SHA-EHS) (Virtual presentation).
 
-> May 2020 "Enslaved People Sold as _Biens Nationaux _during the French Revolution: The Case of Réunion Island." Paper accepted for the 46th annual meeting of the French Colonial Historical Society (FCHS), Buffalo, New York. _Meeting cancelled due to Covid-19._
+> May 2020 "Enslaved People Sold as _Biens Nationaux_ during the French Revolution: The Case of Réunion Island." Paper accepted for the 46th annual meeting of the French Colonial Historical Society (FCHS), Buffalo, New York. _Meeting cancelled due to Covid-19._
 
 > Feb. 2020 "'That Fatal Decree': Anti-Abolition in France's Indian Ocean Colonies." Paper presented at the 50th Annual Conference of the Consortium on the Revolutionary Era (CRE), Tallahassee, Florida.
 
