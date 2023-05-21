@@ -76,6 +76,8 @@ _In Progress_
 ---
 **Awards**
 
+> 2023 Selected Faculty Participant, NEH Summer Institute, "Enslaved.org: Data-Informed Methods in Slavery Studies," organized by Walter Hawthorne and Kristina Poznan, Michigan State University
+
 > 2023 American Society for Eighteenth-Century Studies Fellowship, Boston Athenaeum
 
 > 2022 Core Program Residency Fellowship, Camargo Foundation (Cassis, France)
