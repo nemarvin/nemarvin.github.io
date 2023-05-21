@@ -64,7 +64,7 @@ _In Progress_
 
 > _"White Like Him": Gender and the Making of Race in a French Indian Ocean Colony (Réunion Island, 1750-1810)_ (Book Manuscript).
 
-> "Enslaved by the Church, Sold for the Republic" ([Digital History Project](https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422/)), accessible through [H-France Digital Humanities Registry](https://www.h-france.net/dh/registry/view.php?ProjectID=298) and [Mapping the Black Digital and Public Humanities Database](https://sites.lib.jmu.edu/mappingbdph/)
+> "Enslaved by the Church, Sold for the Republic" (in French, (["Vendus pour la République"](https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422/)) (Digital History Project), accessible through [H-France Digital Humanities Registry](https://www.h-france.net/dh/registry/view.php?ProjectID=298) and [Mapping the Black Digital and Public Humanities Database](https://sites.lib.jmu.edu/mappingbdph/)
 
 > "Les esclaves vendus comme 'biens nationaux' pendant la Révolution française" (Online reference article commissioned by the Musée de Villèle, Réunion Island)
 
