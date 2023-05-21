@@ -15,3 +15,20 @@ I teach history at the University of Arkansas at Little Rock, where I am also a 
 I am originally from the Piscataqua Region of New England. I live and work in Central Arkansas.
 
 ![National_River_Park_Arkansas](fotoreminismall.jpg)
+
+
+![my image](/img/fotoreminismall.jpg#left)
+![my image](/img/fotoreminismall.jpg#right)
+![my image](/img/fotoreminismall.jpg#center)
+
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+
