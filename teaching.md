@@ -17,7 +17,7 @@ title: "Teaching"
 # Original Materials
 
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/e/2PACX-1vSzrW2AhxaZWpAfRBhts6UJWSDMRgwUVpT6khjdn24OcyjFaj13WkzJWF7EopYfmg/pub))
-- StoryMap: "The Church and Slavery in France's First Colonial Empire" ([Link](https://storymaps.arcgis.com/stories/8fb419aefa0540fab4a05801d3a9f319))
+- StoryMap: "The Church and Slavery in France's First Colonial Empire" ([Link](https://storymaps.arcgis.com/stories/f2f55b5e02e042bba45d8be358f3de43)
 
 - Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?" ([Link](https://docs.google.com/document/d/e/2PACX-1vRwDtEQeQ8a5iJQkth5175GcG_jWMwfu4UrFvZYf9-Qw9sBnQeqjX5A3ukDcXDjqg/pub))
 - Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
