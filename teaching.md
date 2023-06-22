@@ -12,7 +12,7 @@ title: "Teaching"
 - History of the Atlantic World ([Link](https://docs.google.com/document/d/e/2PACX-1vRQrcTgfKjSJch5Kvf35plFD98KGa27WnbYfodjJfFRlwJQ56zwKjqMA8o5as6Vig/pub))
 - Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/edit?usp=sharing))
 - Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/e/2PACX-1vT9byjTUHbWRQB5c_eBbvOr0rRbNFD1_HxeGXJy-mgL5BecIjxvQr5i86LuWl-JHw/pub))
-- Historical Methods Seminar (Graduate-Level) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)) 
+- Historical Methods Seminar (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)) 
 
 # Original Materials
 - Digital History Resources for Students ([Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit?usp=sharing))
