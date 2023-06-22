@@ -22,6 +22,9 @@ title: "Teaching"
 - Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
 - French in North America Digital Resource: "Arkansas Créole: Rediscovering a Lost Vernacular Landscape" ([Link](https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c))
 
+# Student Work
+- The Prophet: Turner's Rebellion as a Revolutionary Event ([Link](https://storymaps.arcgis.com/stories/db910a5a116a46c7b40213e0881f69bb)
+
 <img src="{{ site.baseurl }}/arles.gif">  
 
 ---
