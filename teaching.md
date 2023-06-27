@@ -15,7 +15,7 @@ title: "Teaching"
 - Historical Methods Seminar (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)) 
 
 # Original Materials
-- Digital History Resources for Students ([GoogleDocs Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit?usp=sharing))([Markdown Link](nemarvin.github.io/DigitalHistoryResources.md)
+- Digital History Resources for Students ([GoogleDocs Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit?usp=sharing))([Markdown Link](nemarvin.github.io/master/DigitalHistoryResources.md))
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/e/2PACX-1vSzrW2AhxaZWpAfRBhts6UJWSDMRgwUVpT6khjdn24OcyjFaj13WkzJWF7EopYfmg/pub))
 - StoryMap: "The Church and Slavery in France's First Colonial Empire" ([Link](https://storymaps.arcgis.com/stories/f2f55b5e02e042bba45d8be358f3de43))
 - Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?" ([Link](https://docs.google.com/document/d/e/2PACX-1vRwDtEQeQ8a5iJQkth5175GcG_jWMwfu4UrFvZYf9-Qw9sBnQeqjX5A3ukDcXDjqg/pub))
