@@ -4,7 +4,7 @@ Prof. Nathan Marvin ~ University of Arkansas at Little Rock
 
 Welcome, historians! This running list contains a mixed bag of links to digital archives, digital history applications, and other history-related media that I’ve been collecting for students over the years. Wait for the content to load, then use your “Find” tool (CTRL+F on PC, Command+F on Mac) to scour this list for topics, people, events, or places that interest you.  Follow the links provided for more information. For the most part, the descriptions are not my own but gleaned from online bulletin boards and announcements. 
 
-_Note:_ “Digital History” is broadly construed here. It includes online archives, articles _about_ digital history, and tools for building your own digital history resources. You’ll note a strong thematic emphasis on slavery and Atlantic world studies, as these are my research fields and, consequently, those of most of my networks. For more about what “Digital History” is, check out this introductory essay: [Stella Brennan, “Digital History” from _The Inclusive Historian’s Handbook_](https://drive.google.com/file/d/13WudjfBvV1Ph6ucDaRzjbGSvRTGln3nK/view?usp=sharing) 
+Note: “Digital History” is broadly construed here. It includes online archives, articles about digital history, and tools for building your own digital history resources. You’ll note a strong thematic emphasis on slavery and Atlantic world studies, as these are my research fields and, consequently, those of most of my networks. For more about what “Digital History” is, check out this introductory essay: [Stella Brennan, “Digital History” from The Inclusive Historian’s Handbook](https://drive.google.com/file/d/13WudjfBvV1Ph6ucDaRzjbGSvRTGln3nK/view?usp=sharing) 
 
   
 
@@ -15,27 +15,13 @@ _Note:_ “Digital History” is broadly construed here. It includes online arch
 
 [DIGITIZED PRIMARY SOURCES](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.akq48oydk4kx)
 
-[From the AHA’s “Digital Resources” Section](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.4u69e9em2bzy)
-
 [HISTORY BLOGS](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.skygpod69msk)
 
 [IMMERSIVE and SPECULATIVE TECHNOLOGIES](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.t1kv3umn452h)
 
-[Fun with Counterfactuals](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.5pg4j8ls6aoz)
-
-[Articles](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.a5thivk1x9ju)
-
-[Augmented Reality (AR) and Virtual Reality (VR) for Education/Entertainment](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.2r4y4o1v136k)
-
-[CONTEMPORARY](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.12jq1n2gun1e)
-
-[Social Sciences and Humanities for Social Justice and Public Service](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.4anusio0ygh2)
+[COMMUNITY ENGAGEMENT](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.12jq1n2gun1e)
 
 [SOUNDS](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.gsptkrijodkc)
-
-[Recordings Archives](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.v4fhnva536cf)
-
-[Podcasts](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit#heading=h.lhovukacmr6q)
 
 
 # 
@@ -46,167 +32,161 @@ _Note:_ “Digital History” is broadly construed here. It includes online arch
 
 # TOOLS
 
-**​​**
+  
 
-[**CollectionBuilder**](https://collectionbuilder.github.io/) 
 
-CollectionBuilder is an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology. 
+**George Mason University Libraries: Digital Humanities Tutorials** is a series of guides to digital platforms and methodologies. These tutorials are meant to supplement instructions for use found in each tool's documentation. These tutorials are divided by methodology and then by tool. Included: Text analysis (Google Ngram, R \[Statistical Language], Voyant); Network Analayis (Gephi, Palladio, R); Mapping (Mapbox, Neatline, Palladio, R, StoryMapJS); Data Visualization (Gephi, Palladio, RAWGraphs, Tableau); Digital Storytelling (Neatline, StoryMapJS, TimelineJS) <https://infoguides.gmu.edu/digitalhumanities/tutorials> 
 
- 
+* * *
 
-[**Spatial Historian**](https://www.semanticscholar.org/paper/The-Spatial-Historian%3A-Creating-a-Spatially-Aware-Schindling/09ef434321ef6f5ff18fd154508ac23b6ee919eb#extracted) 
+**Reviews in DH** is an online review journal**,** founded in 2020, provides peer review (summary and evaluation) of a wide range of digital projects  <https://reviewsindh.pubpub.org/> 
 
-Computer software for historical research, namely, the extraction and management of information from historical documents and records, and which also supports reporting and analysis of spatial content as well as exporting of the information to external systems 
+* * *
 
-<https://www.researchgate.net/publication/328439166_Deepening_Historical_GIS_An_Integrated_Database_Solution_for_Linking_People_Place_and_Events_through_Unstructured_Text>  
+[**CollectionBuilder**](https://collectionbuilder.github.io/) is an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology. <https://collectionbuilder.github.io/> 
 
- 
+* * *
 
-[**Transcribus**](https://readcoop.eu/transkribus/) 
+[**Spatial Historian**](https://www.semanticscholar.org/paper/The-Spatial-Historian%3A-Creating-a-Spatially-Aware-Schindling/09ef434321ef6f5ff18fd154508ac23b6ee919eb#extracted) is computer software for historical research, namely, the extraction and management of information from historical documents and records, and which also supports reporting and analysis of spatial content as well as exporting of the information to external systems. <https://www.semanticscholar.org/paper/The-Spatial-Historian%3A-Creating-a-Spatially-Aware-Schindling/09ef434321ef6f5ff18fd154508ac23b6ee919eb#extracted> 
 
-Optical character recognition for script. 
+* * *
 
- 
+[**Transcribus**](https://readcoop.eu/transkribus/) provides optical character recognition (OCR) for handwritten sources. <https://readcoop.eu/transkribus/> 
 
-[**DMPTool**](https://dmptool.org/) 
+* * *
 
-When working on a DH project that involves generating data, project planners will need to create a Data Management Plan, which the DMPTool can help generate. 
+[**DMPTool**](https://dmptool.org/). When working on a DH project that involves generating data, project planners will need to create a Data Management Plan, which the DMPTool can help generate. <https://dmptool.org/> 
 
-[**OpenRefine**](https://openrefine.org/) 
+* * *
 
-Clean, transform, and extend data.  OpenRefine allows users to manipulate and work with large sets of data. 
+[**OpenRefine**](https://openrefine.org/) can help you clean, transform, and extend data.  OpenRefine allows users to manipulate and work with large sets of data. <https://openrefine.org/> 
 
-[**PSRenamer**](https://github.com/hbowie/psrenamer) 
+* * *
 
-PSRenamer can change file names for large numbers of files to allow users to implement and follow file naming conventions. 
+**FamilySearch** Free genealogical resource operated by the Church of Latter Day Saints. FamilySearch is a nonprofit genealogy organization and website. It provides records, education, and software for genealogical research. The organization's roots date back to 1894, when it was established as the Genealogical Society of Utah (GSU). It is currently the world's largest genealogy organization. Among its acquisitions are NARA’s records from the Freedman's Bureau (also available on a [Smithsonian website](https://nmaahc.si.edu/explore/freedmens-bureau)). Other notable collections include US Federal Population Censuses, 1790-1949l Slave Schedules for Alabama, Arkansas, Delaware, District of Columbia, Florida, Maryland, Mississippi, Missouri, New Jersey (1850 only), North Carolina, Utah Territory, and Virginia; Civil War and Later Military Pension Files (organized under a separate “Fold3.com” service of Ancestry.com); Civil War Compiled Military Service Records; Union Army Compiled Military Service Records (CSMRs); Confederate Slave Payrolls, 1862-1865; Bureau of Pensions Law Division Case Files, 1862-1933; Southern Claims Commission Files; Fugitive Slave Case Files. <https://www.familysearch.org/en/> 
 
-[**Tropy**](https://tropy.org/) 
+* * *
 
-Tropy is a photo organization tool that allows users to visually organize, annotate, tag, search, and export collections and research. 
+**The International African American Museum** (IAAM) is a museum of African-American history being built in Charleston, South Carolina, on the site where Gadsden's Wharf, the disembarkation point of up to 40% of all American enslaved persons, once stood. The museum’s website features a new Center for Family History. <https://iaamuseum.org/center-for-family-history/?gclid=EAIaIQobChMIvZHKqb_h_wIVG9DjBx043AW3EAAYASAAEgK10_D_BwE> 
 
- 
+* * *
 
-[**OHMS**](https://www.oralhistoryonline.org/) 
+[**PSRenamer**](https://github.com/hbowie/psrenamer) can change file names for large numbers of files to allow users to implement and follow file naming conventions. <https://github.com/hbowie/psrenamer> 
 
-Help with indexing oral histories, video or audio. 
+* * *
 
- 
+[**Tropy**](https://tropy.org/) is a photo organization tool that allows users to visually organize, annotate, tag, search, and export collections and research. <https://tropy.org/> 
 
-[**Voyant**](https://voyant-tools.org/) 
+* * *
 
-Voyant is a web-based, dashboard-style tool that allows users to upload a corpora and visualize patterns in various ways. For instance, users can experiment with colorful word clusters that represent word frequency and visualize how specific words and phrases appear across texts in line graphs. 
+[**OHMS**](https://www.oralhistoryonline.org/) offers help with indexing oral histories, video or audio. <https://www.oralhistoryonline.org/> 
 
-[**Gephi**](https://gephi.org/) 
+* * *
 
-Gephi is a visualization tool that allows users to make colorful graphs and networks from textual data by revealing links between textual objects, social network patterns, and more. Gephi is easy to use and popular among humanists and social scientists alike. 
+[**Gephi**](https://gephi.org/) is a visualization tool that allows users to make colorful graphs and networks from textual data by revealing links between textual objects, social network patterns, and more. Gephi is easy to use and popular among humanists and social scientists alike. <https://gephi.org/> 
 
-[**CartoDB**](https://carto.com/) 
+* * *
 
-CartoDB is an easy-to-use, web-based platform that allows users to work with spatial data and maps. CartoDB offers a full paid version of its software and a limited free version. 
+[**CartoDB**](https://carto.com/) is an easy-to-use, web-based platform that allows users to work with spatial data and maps. CartoDB offers a full paid version of its software and a limited free version. <https://carto.com/>  
 
-[**History Pin**](https://www.historypin.org/en/) 
+* * *
 
-A simple, community mapping tool for cultural heritage institutions. 
+[**History Pin**](https://www.historypin.org/en/) is a simple, community mapping tool for cultural heritage institutions. <https://www.historypin.org/en/> 
 
-[**OpenStreetMap**](https://www.openstreetmap.org/#map=5/38.007/-95.844) 
+* * *
 
-A collection of open data collected by a community GIS professionals, scholars, and hobbyists interested in providing accessible GIS information for people interested in building tools. 
+[**OpenStreetMap**](https://www.openstreetmap.org/#map=5/38.007/-95.844) is a collection of open data collected by a community GIS professionals, scholars, and hobbyists interested in providing accessible GIS information for people interested in building tools. <https://www.openstreetmap.org/#map=5/38.007/-95.844> 
 
-[**StoryMap JS**](https://storymap.knightlab.com/?) 
+* * *
 
-StoryMap JS is a free tool that allows users to tell stories by mapping a series of events and corresponding locations. The tool is easy to use and allows users to pull videos and pictures from places such as YouTube, Flickr, and more. 
+[**StoryMap JS**](https://storymap.knightlab.com/?) is a free tool that allows users to tell stories by mapping a series of events and corresponding locations. The tool is easy to use and allows users to pull videos and pictures from places such as YouTube, Flickr, and more. <https://storymap.knightlab.com/>? 
 
-[**Wikimapia**](https://wikimapia.org/#lang=en&lat=42.728300&lon=-84.488200&z=12&m=w) 
+* * *
 
-Wikimapia is an online, collaborative mapping projects in which users provide written descriptions of geographic objects from all over the world. 
+[**Wikimapia**](https://wikimapia.org/#lang=en&lat=42.728300&lon=-84.488200&z=12&m=w) is an online, collaborative mapping projects in which users provide written descriptions of geographic objects from all over the world. <https://wikimapia.org/#lang=en&lat=42.728300&lon=-84.488200&z=12&m=w> 
 
-[**Harvard WorldMap**](https://about.worldmap.harvard.edu/) 
+* * *
 
-Harvard Worldmap is an online mapping tool that allows users to collaborate and create complex, layered maps using large datasets and export and publish their maps. 
+[**Harvard WorldMap**](https://about.worldmap.harvard.edu/) is an online mapping tool that allows users to collaborate and create complex, layered maps using large datasets and export and publish their maps. <https://about.worldmap.harvard.edu/> 
 
- 
+* * *
 
-[**RAWGraphs**](https://www.rawgraphs.io/) 
+[**RAWGraphs**](https://www.rawgraphs.io/) is an open source software that allows users to input data from CSV files, pick and customize pre-loaded designs, and export completed visualizations. <https://www.rawgraphs.io/> 
 
-RawGraphs is an open source software that allows users to input data from CSV files, pick and customize pre-loaded designs, and export completed visualizations. 
+* * *
 
-**Tableau** 
+**Tableau** is a powerful tool that allows users to create a wide variety of visualizations and dashboards using small or very large amounts of data. Tableau offers a free academic version of its downloadable software to students. <https://www.tableau.com> 
 
-Tableau is a powerful tool that allows users to create a wide variety of visualizations and dashboards using small or very large amounts of data. Tableau offers a free academic version of its downloadable software to students. 
+* * *
 
-**Timeline JS** 
+**Timeline JS** is a free, easy to use platform that allows users to make interactive timelines that are visually engaging. Users can create timelines with basic knowledge of Google Sheets or more advanced knowledge of JSON.  ​​<https://timeline.knightlab.com/> 
 
-Timeline JS is a free, easy to use platform that allows users to make interactive timelines that are visually engaging. Users can create timelines with basic knowledge of Google Sheets or more advanced knowledge of JSON.
+* * *
 
-**SocialExplorer (U.S., 1790-present)** The National Historical Geographic Information System (NHGIS) is a historical GIS project to create and freely disseminate a database incorporating all available aggregate census information for the United States between 1790 and 2010. The project has created one of the largest collections in the world of statistical census information, much of which was not previously available to the research community because of legacy data formats and differences between metadata formats. The statistical and geographic data are disseminated free of charge through a sophisticated online data access system. Much of the historical data are viewable as tables or interactive maps in Social Explorer, a small company which offers both free and professional licenses. <https://www.socialexplorer.com/> 
+**SocialExplorer** The National Historical Geographic Information System (NHGIS) is a historical GIS project to create and freely disseminate a database incorporating all available aggregate census information for the United States between 1790 and 2010. The project has created one of the largest collections in the world of statistical census information, much of which was not previously available to the research community because of legacy data formats and differences between metadata formats. The statistical and geographic data are disseminated free of charge through a sophisticated online data access system. Much of the historical data are viewable as tables or interactive maps in Social Explorer, a small company which offers both free and professional licenses. <https://www.socialexplorer.com/> 
 
-**Calendar Converter**
+* * *
 
-_Convert dates between the following calendars: Gregorian, Julian, Hebrew, Islamic, Persian, Kurdish, Afghan, Mayan Long Count, Bahai, Indian Civil, French Republican, Unix Time, Excel serial day._
+**Calendar Converter** Convert dates between the following calendars: Gregorian, Julian, Hebrew, Islamic, Persian, Kurdish, Afghan, Mayan Long Count, Bahai, Indian Civil, French Republican, Unix Time, Excel serial day. [Convert a date (calendarhome.com)](https://calendarhome.com/calculate/convert-a-date) 
 
-[Convert a date (calendarhome.com)](https://calendarhome.com/calculate/convert-a-date) 
+* * *
 
-**Palladio** 
-
-_Create visually rich spatial or network maps; user-friendly interface._
+**Palladio** Create visually rich spatial or network maps; user-friendly interface.
 
 <https://hdlab.stanford.edu/palladio/> 
 
-  
-![](https://lh3.googleusercontent.com/5enNl1iRSWz11nysmwO3H4Ttmn1Pv_yfsuqmVfNPxY8aVIH0DnPusqqBWLn_0Lt3Hfz3Igrv98EOMFVVgOruJW8R1ipIN63xpCoEO6hbXzyA_YC7Lgl6e_qobNyb2ciCjMr-nuZ7kMS19J8eFOQhzA)
+* * *
 
-**River Runner**
-
-_Tool that can be used to visualize how river/water systems might have been navigated in the past; includes Animation_
-
-https&#x3A;//river-runner-global.samlearner.com/
+**River Runner** Tool that can be used to visualize how river/water systems might have been navigated in the past; includes Animation <https://river-runner-global.samlearner.com/> 
 
   
   
+![](https://lh5.googleusercontent.com/lA1jEbkNp7XtftDO6Vy-sngH7_wr1CGb3-fDQtYz370Z8O27wYKnRmTH_afNsnYytMz-LcRGIO6SwW6SdNoueqZ0I0HcybcIlc5YyifZvOoc4ZuPMwqJ5-69onV1NAhXJ2POEoZlHigmL-KnBKCAUA)
+
+* * *
+
+**Google Books Ngram Viewer** When you enter phrases into the Google Books Ngram Viewer, it displays a graph showing how those phrases have occurred in a corpus of books (e.g., "British English", "English Fiction", "French") over the selected years. <https://books.google.com/ngrams> 
+
   
-![](https://lh5.googleusercontent.com/yF5BFLPhlT7ILPwS9GZate9gcxKxakxiapEQ1NczOicJCtNb3jqcN_AQtxj8o566Pra6fNAx88cG3FVDnMv0Ue592oTxM1Pari2QCfepDpuPhAAzJu6jCwc3ze5bZLim5jdvswmowt03TcH7auDtDw)
 
-**Google Books Ngram Viewer**
 
-_When you enter phrases into the Google Books Ngram Viewer, it displays a graph showing how those phrases have occurred in a corpus of books (e.g., "British English", "English Fiction", "French") over the selected years._ <https://books.google.com/ngrams> 
+* * *
 
-**Voyant Tools**
+**Voyant Tools** Expansive text mining tool for granular textual analysis of documents. [Voyant](https://voyant-tools.org/) is a web-based, dashboard-style tool that allows users to upload a “corpus” (body of literature) and visualize patterns in various ways. For instance, users can experiment with colorful word clusters that represent word frequency and visualize how specific words and phrases appear across texts in line graphs. <https://voyant-tools.org/> 
 
-_Expansive text mining tool for granular textual analysis of documents._
+![](https://lh6.googleusercontent.com/AU3acL0TbOR2YgsbjmU1MUNEuYMoV17zj4KOPpnrCsCqMRcKdKF9g0QUD8k2wrVdbfzTO2Sg9Jiq6qtv6BcpaXOUSMTowYxSJUTE67OCSjvrMv8L8z8jNOpDX1yQLYjDECN6WEqsT18m5h6gHeA-P8Q)
 
-<https://voyant-tools.org/> 
+* * *
 
-![](https://lh5.googleusercontent.com/dvCYQIztSJKu-XnafNjBMMtd7INkSCE73vI3bEFMv1UUZ7rdmF1unrBG2gTnjSSC5twM6A1eOUmRcqSIaUiX09QYYFuYtMp-kqHhD9hf_VtcOFa7G1OZ2y8MkUvWfsz0FUK5FgRw8uppZ0z4W9gh3gI)
-
-**Sea Distances**
-
-_Calculate maritime distances using this handy free tool._
+**Sea Distances** Calculate maritime distances using this handy free tool.
 
 <https://sea-distances.org/>
 
-**Historical Statistics Currency Converter**
+* * *
 
-_Convert a variety of historical currencies with this tool; note that USD values range from 1791 through 2015._ 
+**Historical Statistics Currency Converter** Convert a variety of historical currencies with this tool; note that USD values range from 1791 through 2015. 
 
 <https://www.historicalstatistics.org/Currencyconverter.html>
+
+* * *
 
 **National Archives (UK) Currency Converter Tool (English Pounds Sterling)**
 
 <https://www.nationalarchives.gov.uk/currency-converter/> 
 
-**LatLong.Net**
+* * *
 
-_Simplest way to generating geographical coordinates in easy copy/paste format; similar to the right-click function on google maps._
-
-<https://www.latlong.net/>
-
-**Image Color Picker (Hex Code Eyedropper)**
-
-_Useful for web/graphic design when you lack expensive design software. Eyedropper function allows you to source the “hex” color code from any file or webpage on your desktop._ 
+**Image Color Picker (Hex Code Eyedropper)** Useful for web/graphic design when you lack expensive design software. Eyedropper function allows you to source the “hex” color code from any file or webpage on your desktop. 
 
 <https://imagecolorpicker.com/en> 
 
+* * *
 
+**Internet Archive (WayBack Machine)** Explore more than 818 billion web pages saved over time <https://archive.org/> 
+
+* * *
+
+**Count Wordsworth** is an online word counting tool and hat. It provides various literary-related metrics, such as word count, cliché count, character count, average words per sentence, letters per word, and more. It also offers readability scores and standard deviations for different metrics. Additionally, it displays the most used words and phrases and presents the distribution of letters in the alphabet. <https://countwordsworth.com/> 
 
 
 # 
@@ -216,14 +196,43 @@ _Useful for web/graphic design when you lack expensive design software. Eyedropp
 
 Documents, Images, Maps, Curated Research Tools 
 
+**Enslaved.org (and the Journal of Slavery and Data Preservation) (US History, African American History, Atlantic History, Slavery, African Diaspora, Quantitative, Data)** The Journal of Slavery and Data Preservation (ISSN 2691-297X) is a digital academic journal that focuses on publishing data articles about the lives of enslaved Africans from the fifteenth to the early twentieth century. It collaborates with Enslaved.org to make the contributed data discoverable and interactive, while also establishing a sustainable scholarly repository for digital projects related to the history of African slavery. The journal aims to elevate curated data to first-class publication status, providing scholarly review, recognition, and credit to those involved in generating, standardizing, and describing digital records. All datasets published by the journal are preserved in the Harvard Dataverse or other appropriate repositories and made available on Enslaved.org.  <https://jsdp.enslaved.org> 
+
+* * *
+
+**Two** **Plantations: Enslaved Families in Virginia and Jamaica (US History, African American History, American Slavery, Caribbean, US South)** Slave biographies provide glimpses into the lives of those trapped in forced labor at Mesopotamia and Mount Airy, revealing their limited possibilities for personal achievement. These records, largely controlled by slaveholders and reflecting their biases, can be interpreted against the grain to highlight the inherent personhood, connections, and sense of belonging of the enslaved. This opens up fruitful lines of investigation, exploring the impact of enslaved motherhood through the fortunes of children born into Jamaican and Virginian slavery, the influence of interracial relationships on the concept of family, and the effects of displacement on forced migrants from Virginia to Alabama. Additionally, studying the freedpeople from Mount Airy in the 1870 census offers insights into the first five years of their freedom. These complex inquiries, more valuable than easy answers, contribute to a deeper understanding of slave life, despite the challenges posed by plantation data. Shortly after the [death of Richard Dunn](https://live-sas-www-history.pantheon.sas.upenn.edu/people/emeritus/richard-s-dunn), creator “TwoPlantations,” the site went offline (as of June 2023, only accessible via the Internet Archive:
+
+<http://web.archive.org/web/20230302210559/http://www.twoplantations.com/>).  Read a compelling review of this project by Jessica Maria Johnson (<http://smallaxe.net/sxarchipelagos/issue01/review-johnson-plantation.html>). 
+
+* * *
+
+**Colored Conventions Project (CCP)** From 1830 to the 1890s, free and formerly captive Black individuals united in 'Colored Conventions' – state and national political gatherings. Delegates comprised prominent figures in African-American leadership, including renowned male writers, organizers, church leaders, newspaper editors, and entrepreneurs. This website presents a unique collection of proceedings, newspaper coverage, and petitions, documenting the contributions of both men and women in these conventions. Includes an exemplary “Ethics Statement” on best practices. Also includes a list of [“Black Digital Humanities Projects and Resources”](https://docs.google.com/document/d/1rZwucjyAAR7QiEZl238_hhRPXo5-UKXt2_KCrwPZkiQ/edit#heading=h.lfar8xoosxqv) as part of its Center for Black Digital Research. <http://coloredconventions.org/>
+
+* * *
+
+**Quilt Index (Americana, African American History, US History)** Originally launched in 2003, is an open access, digital repository of thousands of images, stories and information about quilts and their makers drawn from hundreds of public and private collections around the world. It represents the work of thousands of community-based and independent scholars, digital humanists, and professionals in libraries, archives, and museums who are dedicated to preserving and making accessible quilt history. <https://quiltindex.org/>
+
+* * *
+
+**Archive of Malian Photography (African History, Photography, Family History, Gender, Politics)** The Archive of Malian Photography offers preserved and digitized collections from five important photographers in Mali. Since 2011, our collaborative team of US and Malian conservators has been preserving and providing access to approximately 100,000 photographic negatives from Mamadou Cissé, Adama Kouyaté, Abdourahmane Sakaly, Malick Sidibé, and Tijani Sitou. This collection spans the 1940s-90s and showcases the evolution of political and cultural practices, social trends, and photography in Mali throughout the twentieth century. <https://amp.matrix.msu.edu/>
+
+* * *
+
+**South Africa: Overcoming Apartheid, Building Democracy (African History, Civil Rights, 20th Century)** presents first-hand accounts of this important political movement. Interviews with South African activists, raw video footage documenting mass resistance and police repression, historical documents, rare photographs, and original narratives tell this remarkable story. <https://overcomingapartheid.msu.edu/> 
+
+* * *
+
+**American Black Journal (African American History, Civil Rights, Media, Politics, Video)** American Black Journal, initially known as Colored People's Time, premiered in 1968 during a period marked by social and racial unrest. Its original purpose was to enhance the availability and accessibility of media content related to the African-American experience, aiming to foster greater engagement from Detroit citizens in addressing community issues. The show has consistently aired since then, capturing over three decades of Detroit's history from African American perspectives. The collection comprises interviews, round-table discussions, field-produced features, and artistic performances featuring prominent and controversial African American figures, offering visual and audio context for crucial debates and discussions surrounding African American history, culture, and politics. <https://matrix.msu.edu/american-black-journal> 
+
+* * *
+
 **Library of Congress (Digital Resources, All Subjects, US History)**  The Library of Congress has created the massive American Memory Project, <http://memory.loc.gov>, which provides online access to hundreds of thousands of documents, images, and recordings. The Library of Congress also has coordinated the transfer of US newspapers to a searchable, online database called **Chronicling America**, found at <http://chroniclingamerica.loc.gov>. The Digital Public Library of America, <http://dp.la>, is making thousands of items available online. It is possible to access an archived version of the Library of Congress’s former “Virtual Reference Shelf,” where you will find this resource as well as an archive of the Library of Congress's entire website going back many years.  <https://www.loc.gov/websites/collections/?st=gallery> 
 
-  
-
+* * *
 
 **Photogrammar (United States, 19th-20th Centuries, Photography, Visual Sources).** “Photogrammar provides a web-based visualization platform for exploring the 170,000 photographs taken by the FSA and OWI agencies of the U.S. Federal Government between 1935 and 1943. The project is maintained by the Digital Scholarship Lab (DSL) and Distant Viewing Lab (DV Lab) at the University of Richmond.” <https://photogrammar.org/maps>
 
-**![](https://lh3.googleusercontent.com/7S8zBkLbgO0QrvRasjg9mRvNysElBB8LkLghj-2hz79A9WlGw8IU3wqdUtakoqjIERYSDrCdRTazROA5v4GDzFtt2UmOfQbJMIcFnHWpp37yHQJgO2NWO_mI3HTmkz2NVCZYJF4eO03r6NF2S1Cz3Yw)**
+**![](https://lh6.googleusercontent.com/sVxliYnLf00wFpd5JeaSGtLGwfDZ9wwCW4ZPFqW7zAv5W8APSipBkQtkBzjWCxbETA-ybwq56oZ0oEkXEwG70zilZenn8NLDpKb9QHm0OXziTMPI5pfykOZ2CoSvaabhrgcSU-5z3-9nDwmRfZgkpwo)**
 
 * * *
 
@@ -243,24 +252,21 @@ Documents, Images, Maps, Curated Research Tools 
 
 * * *
 
-**The Atlantic Language Archive (Africa, Atlantic Slave Trade, Slavery)** The Atlantic Language Archive is a tool supporting methodological training for scholars interested in using African language material to access the history of Africans whose voices and ideas are poorly represented in traditional archives and supporting teaching with such primary sources in our classrooms. https&#x3A;//atlanticlanguagearchive.georgetown.edu
+**The Atlantic Language Archive (Africa, Atlantic Slave Trade, Slavery)** The Atlantic Language Archive is a tool supporting methodological training for scholars interested in using African language material to access the history of Africans whose voices and ideas are poorly represented in traditional archives and supporting teaching with such primary sources in our classrooms. <https://atlanticlanguagearchive.georgetown.edu>
 
 * * *
 
-**Arkansas People’s History Project Presents: The Womens Project (Arkansas History, Sexism, Feminism, Queer History, American History)** “The Arkansas People’s History Project (APHP) is proud to present _The Women’s Project_. This multimedia web exhibit journeys through the early history of a multiracial network of women\* tackling racism, sexism, homophobia, and economic injustice across rural and urban Arkansas starting in 1980.APHP works to research, document, and share formative moments of repression and resistance across Arkansas in collaboration with the people who lived the history. We facilitate political education by making resistance narratives accessible to a wider audience and inspiring future generations to propel the work forward.” <https://www.womensprojectstory.org/> 
+**Arkansas People’s History Project Presents: The Womens Project (Arkansas History, Sexism, Feminism, Queer History, American History)** “The Arkansas People’s History Project (APHP) is proud to present The Women’s Project. This multimedia web exhibit journeys through the early history of a multiracial network of women\* tackling racism, sexism, homophobia, and economic injustice across rural and urban Arkansas starting in 1980.APHP works to research, document, and share formative moments of repression and resistance across Arkansas in collaboration with the people who lived the history. We facilitate political education by making resistance narratives accessible to a wider audience and inspiring future generations to propel the work forward.” <https://www.womensprojectstory.org/> 
 
 * * *
 
-**Rising Above: Rohwer Reconstructed (Arkansas History, Japanese Internment, WWII, American History, Japanese-American History)** “One of ten Japanese-American internment camps established during World War II, the Rohwer Relocation Center in rural Desha County, Arkansas opened on September 18, 1942. At the time of its closure on November 30, 1945, the camp had been home - at one time or another - to 11,926 Japanese-Americans forcibly removed from their homes on the West Coast. Just as their three years of internment left an indelible mark on the landscape of their lives, so they altered the place called Rohwer, both figuratively and literally. Remnants and ruins of the camp still scatter the fields planted in cotton and soybeans, and the Memorial Cemetery, declared a National Historic Monument in 1992, is a somber reminder of the people who lived and worked here. Interpretive panels constructed at the site in 2013 tell the abridged history of the camp, but are by necessity too brief to articulate the immensity of the full narrative. The documents, maps, and visualizations presented here are fragments of that narrative, pieced together in a technological framework, in an effort to bring the story to life.” <https://risingabove.cast.uark.edu/> 
+**Rising Above: Rohwer Reconstructed (Arkansas History, Japanese Internment, WWII, American History, Japanese-American History)** “One of ten Japanese-American internment camps established during World War II, the Rohwer Relocation Center in rural Desha County, Arkansas opened on September 18, 1942. At the time of its closure on November 30, 1945, the camp had been home - at one time or another - to 11,926 Japanese-Americans forcibly removed from their homes on the West Coast. Just as their three years of internment left an indelible mark on the landscape of their lives, so they altered the place called Rohwer, both figuratively and literally. Remnants and ruins of the camp still scatter the fields planted in cotton and soybeans, and the Memorial Cemetery, declared a National Historic Monument in 1992, is a somber reminder of the people who lived and worked here. Interpretive panels constructed at the site in 2013 tell the abridged history of the camp, but are by necessity too brief to articulate the immensity of the full narrative. The documents, maps, and visualizations presented here are fragments of that narrative, pieced together in a technological framework, in an effort to bring the story to life.” <https://risingabove.cast.uark.edu/> 
 
 * * *
 
 **Mapping Downtown Little Rock History**
 
 See downtown Little Rock through the lens of historic photos and see how the city’s downtown architectural landscape changed over the years. Compare it to the present day (Central Arkansas Library System: CALS Butler Center for Arkansas Studies). <https://robertslibrary.org/mapping-downtown-little-rock/> 
-
-  
-
 
 * * *
 
@@ -312,7 +318,7 @@ is a service of the United States Government Publishing Office (GPO), which is a
 
 * * *
 
-![](https://lh5.googleusercontent.com/p-pwkjVYW1-ytjHL0rX4tAyUCkvSOLsbHx_GnZpsEdecfw5kdj4ho0BSdiJb3Hp6ycoOJd1UrqNA40RMSZp2gBH2sjZTQegdM6p1uJ-Wgnwq7u7PEhTvs2lIl4oNu1wXguWej1AuYI15W0v4E4Musg)
+![](https://lh6.googleusercontent.com/nzvIXsZWlKxUAZ0WBXcBe7joqoWsQYsKxW77VZHNg-wbvOxMOSP1Scnf-d2zBZWnE80XpouWhycpotwFp9NcFzZ7xr8SFWvLYBafcN0-GHB6UmaMTrM6I776BFcCPUqEMhtVKn0oRDshtCRioHU5zA)
 
 **Slave Streets, Free Streets: Visualizing the Landscape of Early Baltimore (#UnitedStates #UrbanHistory #GIS #Maps #Slavery #BlackHistory #AfricanAmericanHistory)** is part of the University of Maryland—–Baltimore County IRC’s research on Visualizing Early Baltimore. After creating The BEARINGS of Baltimore, the IRC’s representation of Baltimore circa 1815 there remains a desire to fill these empty streets with the people who lived in them. Slave Streets, Free Streets seeks to bring to life the streets and squares, by focusing on the enslaved and free black workers who populated the city. At this writing, it remains a planned, versus produced project, with funding having been sought from the National Endowment for the Humanities and other sources. The project, should funding be acquired, would be produced as follows.  Slavery was inextricably woven through the fabric of society in Baltimore, shaping the lives of blacks and whites, free and enslaved. Drawing on records such as city directories, tax records, census reports, newspapers, and other historical documents, Slave Streets, Free Streets identifies people, including free and enslaved residents, at locations around the city, tying them by name to specific addresses. Slave advertisements and slave narratives also helped in identifying dozens of places where Baltimoreans were engaged in the slave trade and in telling the stories of fugitives from slavery. This experience is spatially represented in several ways including dot-density maps. Dot-density maps show that Baltimore’s 1820 population (by ward) was relatively integrated, in vivid contrast with the so-called “black butterfly” configuration of racial, social, and economic segregation that become the reality in so many US cities during the Great Migration due to racist practices such as "red-lining." Such segregation is revealed in more recent maps of the city and is with us today. <https://www.irc.umbc.edu/projects/slave-streets> 
 
@@ -326,7 +332,7 @@ This subscription resource will search across many of the Library of Congress's 
 
 * * *
 
-**Black Film Archive (US History, African American History, African History, Film, Global African Diaspora, 20th Century)**  Black Film Archive is a living register of Black films. In its current iteration, it showcases Black films made from 1915 to 1979 currently streaming. Includes streaming guide and cultural context.  ![](https://lh4.googleusercontent.com/bQ6-pyJamCERZVLf4e5jla8JA6FR5vfUCBOiwxkkqnIc2pVBktJ4NqdJIGR5MOW8Nv7Fu35WWEMLeSuuU8if2YDPdDasr0-JE7LEEl1MRkgm5RrXazkvu_IEPoQW3adz2VqoD2pr3U2I-Ugzrx5-Vw)
+**Black Film Archive (US History, African American History, African History, Film, Global African Diaspora, 20th Century)**  Black Film Archive is a living register of Black films. In its current iteration, it showcases Black films made from 1915 to 1979 currently streaming. Includes streaming guide and cultural context.  ![](https://lh3.googleusercontent.com/7LeITtko4_-HCTwEcoRYExiQmJSsEzyrDJKMj9V2NUODKQ6bi4JXkOP4YgU_TR3v_0t9kZZyCKBcKXWPp3rzWm6ASaw1GXuZsWePMWlf-PoJT_9Z7nq9M-IoGyP5aPY7WYqjhUXYhbbyVZq0ad11MA)
 
 <https://blackfilmarchive.com/> 
 
@@ -348,7 +354,7 @@ This subscription resource will search across many of the Library of Congress's 
 
 * * *
 
-**Famn Rebel (Women’s History, Haitian Revolution, Black Atlantic, Black History, 18th-19th century)** ‘Fanm Rebèl’, a Haitian Kreyòl term meaning ‘rebel women’, is a 3-year research project sponsored by the Leverhulme Trust and the Institute for Black Atlantic Research at the University of Central Lancashire. Led by Dr Nicole Willson, the project seeks to excavate stories of women in the Haitian Revolution. Spanning a 100-year trajectory, from 1750-1850, it broadens the conventional scope of the Haitian revolutionary calendar to encompass the radical acts of female insurgency and marronage that predate the Ogé Rebellion of 1790 and the insurgency of 1791, and extends beyond the birth of the Haitian Republic in 1804 to encompass the life cycle of Marie-Louise Christophe, first Queen of Haiti. It explores narratives of resistance articulated through spiritual practice, domestic labour, creativity, survival, subterfuge and armed combat. ![](https://lh4.googleusercontent.com/WgE4dWI4KiPx4HOifj3LRzqqx-IRusoVTdnO7nmCuidYEdUCH4ctqISiGOqQmsbB32GNCMCCsje5yxpOu8TUGUgNsXJxcArVo14cAjJZOOD6yn9bqXMbGdYlWDYlzrvwlxfmx14yYguGZg46yHCkVA)
+**Famn Rebel (Women’s History, Haitian Revolution, Black Atlantic, Black History, 18th-19th century)** ‘Fanm Rebèl’, a Haitian Kreyòl term meaning ‘rebel women’, is a 3-year research project sponsored by the Leverhulme Trust and the Institute for Black Atlantic Research at the University of Central Lancashire. Led by Dr Nicole Willson, the project seeks to excavate stories of women in the Haitian Revolution. Spanning a 100-year trajectory, from 1750-1850, it broadens the conventional scope of the Haitian revolutionary calendar to encompass the radical acts of female insurgency and marronage that predate the Ogé Rebellion of 1790 and the insurgency of 1791, and extends beyond the birth of the Haitian Republic in 1804 to encompass the life cycle of Marie-Louise Christophe, first Queen of Haiti. It explores narratives of resistance articulated through spiritual practice, domestic labour, creativity, survival, subterfuge and armed combat. ![](https://lh4.googleusercontent.com/LMpLUlPQ2O950R3p4myxkDTtIuFwBOi-vJ7sTL6XhIoAKyPL4_r0BZVLbqVASWQSRP0Ah3JyZsskqOaSyV8Jrxr3K3lJ3G_OPtSMF15Xb-7eyfYC7tXl8vP73EULCd5TpC8IzHofCy8tfrfaZ4-nBg)
 
 <https://www.fanmrebel.com/> 
 
@@ -360,19 +366,17 @@ This subscription resource will search across many of the Library of Congress's 
 
 * * *
 
-**Equaldex (United States, Global, LGBTQ+ History, Queer History, Trans History, History of Same-Sex Marriage)** See a timeline of various LGBT rights issues, compare between regions, map differences, read survey data.  ![](https://lh4.googleusercontent.com/7Fl2w4gm65sZeTBnI3rdtHyrTXxoHnqeMVo6bFDJ0gzOd7DIGqEs6h65wlyqvH8UXtNnwZpFZMEeQl_yno77Rq86cJBHyyyaIft0wYYPw4KfuKOmhoCeG8I8eC2xVjS0ndX2ivKYwIT6Y54lrzHBBw)
+**Equaldex (United States, Global, LGBTQ+ History, Queer History, Trans History, History of Same-Sex Marriage)** See a timeline of various LGBT rights issues, compare between regions, map differences, read survey data.  ![](https://lh4.googleusercontent.com/tO728PPtEOwbpkyUecDOP8w81O2yqNtJSgK1udYcKDZy71SiPqDVuTera6c56DGVU2vaex0hQLGAePCA3SzYc4ld0wPuI0vDUgIjUfRh8tQLfeO7TeEFVMB2foP70f70DvRrVJmF_8_XO248v40Owg)
 
 * * *
 
-**Mapping Inequality: Redlining in New Deal America (United States, Race, Society, Housing, 20th Century)** Among the thousands of area descriptions created by agents of the federal government's Home Owners' Loan Corporation between 1935 and 1940, the one that was written for what is now called the Carver Heights neighborhood in Savannah, Georgia, stands out. HOLC staff members, using data and evaluations organized by local real estate professionals--lenders, developers, and real estate appraisers--in each city, assigned grades to residential neighborhoods that reflected their "mortgage security" that would then be visualized on color-coded maps. Neighborhoods receiving the highest grade of "A"--colored green on the maps--were deemed minimal risks for banks and other mortgage lenders when they were determining who should receive loans and which areas in the city were safe investments. Those receiving the lowest grade of "D," colored red, were considered "hazardous." ...![](https://lh5.googleusercontent.com/86J07P7BlXRQ84JbEp5B07FKlOZgX0oJvhGVYTFI044hWv9YJrJenL1NBc9Z6a92rVVW2n1ZxxTQoCjTmF-UlkA4pKwVjHTKZihouUvwp8qOIpnhl_9jtaipq0jHpH3lMMepsRkS69IgysiwHTyrfA)
+**Mapping Inequality: Redlining in New Deal America (United States, Race, Society, Housing, 20th Century)** Among the thousands of area descriptions created by agents of the federal government's Home Owners' Loan Corporation between 1935 and 1940, the one that was written for what is now called the Carver Heights neighborhood in Savannah, Georgia, stands out. HOLC staff members, using data and evaluations organized by local real estate professionals--lenders, developers, and real estate appraisers--in each city, assigned grades to residential neighborhoods that reflected their "mortgage security" that would then be visualized on color-coded maps. Neighborhoods receiving the highest grade of "A"--colored green on the maps--were deemed minimal risks for banks and other mortgage lenders when they were determining who should receive loans and which areas in the city were safe investments. Those receiving the lowest grade of "D," colored red, were considered "hazardous." ...![](https://lh3.googleusercontent.com/odzKKI3UJXFV391Bs6BVB3D7OjXL1ygPIKuGWnb0_T8oPq02GOAsQrJD8C20DrJs2KWWInTTIJdldZqa73B9U5AJrMGJU0z4R3WsUDzRaw1v4xXm7-1ak2srWQYd3YJArpgtzmRiz_j0TwMbhLooyQ)
 
 <https://dsl.richmond.edu/panorama/redlining/#loc=5/39.745/-97.217> 
 
 * * *
 
 **The Roaring Twenties (New York. 1920s. American History)** A leading example of the use of recordings to present a historical aural landscape is Emily Thompson, The Roaring ’Twenties: An Interactive Exploration of the Historical Soundscape of New York City, designed by Scott Mahoy, produced through multimedia journal Vectors 4, no. 1 (Fall 2013). <http://vectorsdev.usc.edu/NYCsound/777b.html?utm_source=fbia> (MAY BE RETIRED)
-
-* * *
 
 * * *
 
@@ -502,7 +506,7 @@ This subscription resource will search across many of the Library of Congress's 
 
 * * *
 
-![](https://lh4.googleusercontent.com/tQC5fRcgBdrp4o1yiHqCnee5LC-LBaJZ7sC8c0UMqYpbjz6i42w-2p_N_HOcU2JrqrphxLrTcHul-kt3qw0xs_c-iKfqOW3khAk4CPwzKaQL5lTceJtODT4wGEJ9s5m36pd7O6XJ3dZRGeYz5nzXSg)
+![](https://lh4.googleusercontent.com/iHS_drGujyylgeyYHDdScvjlNv5jwLeg4Z1dnDp5S3SsT1E6ZyBV3VLq7b7A-pPnjnZyoqDmWom3jnMRFT7aK0hTHBv-6V0TZ6JOSvlYVeWK_UmpZOf6sJHdrTjk1TtHSdgrrIhY6Cjdl-A3RLWR1A)
 
 **Palestinian Oral History Map (Middle East, 20th Century)**
 
@@ -510,11 +514,11 @@ This platform allows you to navigate geographically through the Palestinian Oral
 
 * * *
 
-**Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative**  This animated thematic map narrates the spatial history of the greatest slave insurrection in the eighteenth century British Empire.  To teachers and researchers, the presentation offers a carefully curated archive of key documentary evidence.  To all viewers, the map suggests an argument about the strategies of the rebels and the tactics of counterinsurgency, about the importance of the landscape to the course of the uprising, and about the difficulty of representing such events cartographically with available sources.  Although this cartographic narration cannot be taken as an exhaustive database—for instance, it does not examine major themes such as belonging and affiliation among the insurgents or the larger imperial context and interconnected Atlantic world— the map offers an illuminating interpretation of the military campaign’s spatial dynamics. <http://revolt.axismaps.com/> ![](https://lh3.googleusercontent.com/3AoZw5QyHe-fk-qOgSgzrstLQtsyjATXLio990LelL7C0sSFtKUX0D_z0D9_kp2zwByDxNTFu-7OctEu5sX6T-eMM9o6DnMBmbv5hQECboIwVHkMYDbEY55KGJqAn8b17b7V8hNhIP_Uiw0xUC-WzQ)
+**Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative**  This animated thematic map narrates the spatial history of the greatest slave insurrection in the eighteenth century British Empire.  To teachers and researchers, the presentation offers a carefully curated archive of key documentary evidence.  To all viewers, the map suggests an argument about the strategies of the rebels and the tactics of counterinsurgency, about the importance of the landscape to the course of the uprising, and about the difficulty of representing such events cartographically with available sources.  Although this cartographic narration cannot be taken as an exhaustive database—for instance, it does not examine major themes such as belonging and affiliation among the insurgents or the larger imperial context and interconnected Atlantic world— the map offers an illuminating interpretation of the military campaign’s spatial dynamics. <http://revolt.axismaps.com/> ![](https://lh4.googleusercontent.com/8GZrUdl3YE9wUBSTaW58FlRkKP6v5CUS6remZWNpLvXEHIxhwnw_jcUq80OjlmNE39CLjwLbYHKygq-54ulsFQQXPTpJVqNsst4BmVppIJoP7PWsYWSFF5e9qLnCXhb95_d32e9_qMXZ_nBJRQ08-w)
 
 * * *
 
-![](https://lh3.googleusercontent.com/-QpqFVAUMi6ln4NZokVNgEqtmTtycSZ57Za4nnRVu2BSTuDPE1UgzzKNECNZFy1YiKsPHOKBo4A8faDDRgWEyjaWp4-9ERPQuTivlivpCpXq4JcI3q39F5NK97DcB6oWvA_FCdNt69cO0fmP6a-RYg)
+![](https://lh6.googleusercontent.com/Y89oTECBn2W0KZCQejOcx9yvJ2_y9k_E0WM-KOMF2IzTS0aYLf7LRrhpjO88rj7yvfmhXzXatXPolVTUZ3t19dKJZHechzZp6IW6io-ZKVmEZXxqQjkkugfOjPu6nGZJqWIk9DA3jdUl4GAymhmmIQ)
 
 **Journey of Survival: Mapping Indian Removal (19th-Century, Native History, Arkansas)** Produced by the University of Arkansas at Little Rock’s Sequoyah National Research Center (home to the largest assemblage of Native American expression in the world), this interactive app displays the routes of Indian Removal through Arkansas. <http://www.journeyofsurvival.org/>
 
@@ -524,11 +528,11 @@ This platform allows you to navigate geographically through the Palestinian Oral
 
 * * *
 
-**Rowley Soviet Ephemera Collection (Soviet Union / Russian History, 20th Century)** The Rowley Soviet Ephemera Collection, curated by Professor Alison Rowley, explores aspects of early Soviet history that are reflected in mass media, with a special emphasis on the shifting representations of women and cultural symbols of power and society. The collection spans the period from 1899 through the end of World War II and comprises 470 items, including 247 stamps, 49 periodicals, 46 postcards, 39 photographs, 30 sheet music pieces, and a number of newspapers, posters, books, booklets, and documents. Of special interest are visually rich Soviet magazines, including Zhenskii Zhurnal (Women’s Magazine), Rabotnitsa i Krest’ianka (The Female Worker and Peasant), and Fizkul’tura i Sport (Fitness and Sport), which reflect the changing role of women in Soviet society from 1927 through the late 1940s. Some of the collection’s materials promote immediate technological and economic concerns, like the rapid industrialization of the 1920s–1940s (Pesni Sovetskikh Zheleznodorozhnikov (Songs of the Soviet Train Workers)) or reinvestment into the Soviet economy (lottery tickets). Others focus on social and lifestyle matters: Magazines like _Bezbozhnik_ (Without a God) served to reinforce the belief in the one-and-only Soviet state. Stamps connected the Soviet worker to distant frontiers, and presented an image of a strong and resilient Soviet citizen to the Western world. As diverse as it is visually stunning, this collection offers an incredible window into the idealized state that never quite caught up to its ambitions. <http://www.blavatnikarchive.org/collection/rowley> 
+**Rowley Soviet Ephemera Collection (Soviet Union / Russian History, 20th Century)** The Rowley Soviet Ephemera Collection, curated by Professor Alison Rowley, explores aspects of early Soviet history that are reflected in mass media, with a special emphasis on the shifting representations of women and cultural symbols of power and society. The collection spans the period from 1899 through the end of World War II and comprises 470 items, including 247 stamps, 49 periodicals, 46 postcards, 39 photographs, 30 sheet music pieces, and a number of newspapers, posters, books, booklets, and documents. Of special interest are visually rich Soviet magazines, including Zhenskii Zhurnal (Women’s Magazine), Rabotnitsa i Krest’ianka (The Female Worker and Peasant), and Fizkul’tura i Sport (Fitness and Sport), which reflect the changing role of women in Soviet society from 1927 through the late 1940s. Some of the collection’s materials promote immediate technological and economic concerns, like the rapid industrialization of the 1920s–1940s (Pesni Sovetskikh Zheleznodorozhnikov (Songs of the Soviet Train Workers)) or reinvestment into the Soviet economy (lottery tickets). Others focus on social and lifestyle matters: Magazines like Bezbozhnik (Without a God) served to reinforce the belief in the one-and-only Soviet state. Stamps connected the Soviet worker to distant frontiers, and presented an image of a strong and resilient Soviet citizen to the Western world. As diverse as it is visually stunning, this collection offers an incredible window into the idealized state that never quite caught up to its ambitions. <http://www.blavatnikarchive.org/collection/rowley> 
 
 * * *
 
-![](https://lh4.googleusercontent.com/x0A8DdatjaSHg0sRESYL5pY5Jon8DWDjNW1eZN0p6VFL_uAVct3jC3AitMUyBK7d15yxcwa1LCzhKCH1tEQZ3B-Lmkg_iy4ASS9cWW5_jUmYNws-ZcM3b3cZgKPIXaPPPsAcKG0axE5pv5M9xDF-AA)
+![](https://lh5.googleusercontent.com/ePOaXvMyIFhrkTW7u27i7zs_O7_hq1SQUKOd_rYdtnRcVy7n2UNUx5LKL1zuuc037fUEyxd2Kj42SHDUNhJ-u3aDMIrqIASfvreHFb50DLSzrNXKKuWOuzNozz_ZNliHnzs-RoAQtcoHyU5SofxeAQ)
 
 **Foreign-Born Population: A Nation of Overlapping Diasporas (Immigration, US, 1850-2010)** “At all points in its history, a significant proportion of the population of the United States had been born in other countries and regions. This being the case, American history can never be understood by just looking within its borders. The culture and politics of the US have always been profoundly shaped by the material and emotional ties many of its residents have had to the places where they were born. This map will allow you to begin to explore those connections at the basic level of demographic statistics.”  <https://dsl.richmond.edu/panorama/foreignborn/#decade=2010>
 
@@ -546,7 +550,7 @@ This platform allows you to navigate geographically through the Palestinian Oral
 
 * * *
 
-![](https://lh4.googleusercontent.com/Qd1V3KndsKwxJFhYXgNhrWJua9F9qMLpRxKz4m9jP-KZWwnSZzdNrq4XTtvs_JeU3gnN0KGQ0b8evPJ1W069GMdwmq1yTfnOHgd52haiX-CYmel-qkW2-aRm30CEuDH8rsV6y5IG8Dh8Y8YcFARGNQ)
+![](https://lh6.googleusercontent.com/dAUr3pA7nrpDXNk84ouYXkwePZnnTN93wJ2kmvTDNkDZFH1-FldzOgdGyWglKp510KNOajZTifRHY9gPSuIwBOhD9rcxhjOfeeAmmLEYbwoTh1Ji4ANw34TWS85Mr0W8tfs4aqWVPsHfrTon6ynK1w)
 
 **Lynchings in the United States, 1883-1941** This interactive map details lynchings that occurred during a fifty-eight-year time span in the United States. The map is color-coded and allows visitors to click on any county in the country and view how many lynchings occurred, the dates of the lynchings, and the names and ethnicities of the victims. <http://www.charlieseguin.com/lynching_map.html> 
 
@@ -556,26 +560,26 @@ This platform allows you to navigate geographically through the Palestinian Oral
 
 * * *
 
-**Iconothèque historique de l’Océan Indien** A project of the Archives départementales de La Réunion, the “Iconothèque” offers an extensive library of images from throughout the Indian Ocean world (drawings, paintings, engravings, and photographs), drawn from its collection as well as from those of private collectors and institutions. <https://ihoi.org/>
+**Iconothèque historique de l’Océan Indien** A project of the Archives départementales de La Réunion, the “Iconothèque” offers an extensive library of images from throughout the Indian Ocean world (drawings, paintings, engravings, and photographs), drawn from its collection as well as from those of private collectors and institutions. <https://ihoi.org/>
 
 * * *
 
 **Enslaved: Journal of Slavery and Data Preservation** The Journal of Slavery and Data Preservation is a digital academic journal that publishes original, peer-reviewed datasets about the lives of enslaved Africans and their descendants drawn from documents produced from the fifteenth to the early twentieth centuries. The Journal of Slavery and Data Preservation builds from and expands upon the pioneering digital scholarship on the transatlantic slave trade. As such, the journal elevates curated data to a first-class publication status, providing scholarly review, recognition, and credit to those who undertake the intellectual work involved in generating, cleaning, contextualizing, and describing digital records relating to bondage and freedom in Africa and the diaspora. <https://jsdp.enslaved.org/> 
 
   
-![](https://lh3.googleusercontent.com/_onRiAw-bxXfXV-2ipcUxAP4QnXjZxlUgSds6ShczVLsvfnfl-O6r-Sf5IRc8nqFhRkzstISPWnQ3MY7qOewJ0LDGPlSbABMQi-BLOS_LNLfqR8qfLAqcvJCU2G1vkgjICUwsoLB2avZbebRNpthvg)
+![](https://lh4.googleusercontent.com/zJ_rkNS7c_-tsaW1yWDLjlo_awnCmokfxZ1OD_-cpmNSwQ96H0gTtSRqKWD9Op9V_a9EpH2ykBhd-pSpvtgGz7y6LvyUiE41KgEDK71T2HtMcKPDGnOJoGw-O_qhVHU6tMTOjh-EyRopUayt2fUZNA)
 
 * * *
 
 **Library of Congress Digital Lab: Newspaper Navigator** Tool for searching images within digitized historical newspapers. <https://news-navigator.labs.loc.gov/search>  For more on the project, see a whitepaper describing its applications here: [https://arxiv.org/abs/2005.0158](https://arxiv.org/abs/2005.01583)
 
 
-# * * *![](https://lh3.googleusercontent.com/qkDPPlv_f6XaOGNI-mk_0NoJBr7Z2NlGYxxshDlrE1d4rj4iVSMdcYLBHiEyofrmDjcS9lc2mR5CaGKLYZN6O4_6fRIs4LMiKmDPxQZ31lZ8e9XWADNwQdHS6TsG2NBiVI5qneIGgvKJYJvrMqPozA)
+# * * *![](https://lh3.googleusercontent.com/icOLyJjJOb0XYyNjDp-8nLtPiiLgwNb55RqzYR5CsK4ahftmdty0WOKV7ftsRRSulvcgTCkVFoYRmdIAS6Tyjhkco-IkTF7d1-xYMelb_bVkfhFCQftliabfjw3d459UtmAUvBl2-B4l0tA1ayp9NA)
 
 **Virtual Angkor (Southeast Asia, Cambodia, 13th Century, Angkor Wat, Buddhism, Hinduism)** In the decade since it commenced, the Virtual Angkor project has evolved organically to encompass new technologies and approaches in an effort to present a comprehensive reconstruction of the city and its inhabitants. Virtual Angkor is a collaboration between archaeologists, historians and Virtual History specialists based in Australia, Cambodia and the United States. The project received the American Historical Association’s Roy Rosenzweig Prize for Innovation in Digital History in 2019 and the 2021 Digital Humanities and Multimedia Studies Prize from the Medieval Academy of America. <https://www.virtualangkor.com> 
 
 
-# * * *![](https://lh4.googleusercontent.com/gYRRtd714vhLivxt76tJ3yjZALUXycUsWZ3S-5nOLF3rfgvfVd_aw63ibMwogDi84gCRxN0SendAuoDpd0z30khqyol7JVjgozNomCZHKhQkdaX-XggYwt-2XO_dUmJK9eQ-Tl8v6mzmPNsR2NfhFw)
+# * * *![](https://lh6.googleusercontent.com/0izHC8WKjCNa7FKgApyiHcdMMugGaoG66VqpkpUjoUMIv30XExOUUY-cKpfJdOn7psysBbhh4jK_nRoGC5AxQVXumMa1ieiVxP5YBje39QmhEVIKU7Z7keXV37W0d4NQ3tsm3ISMMqIjuST3FWzPzA)
 
 **The Hart Island Project.** Since 1980, 71,907 people have been buried in mass graves on Hart Island. The Traveling Cloud Museum is a collection of their stories. Through this interactive map we invite you to explore the island with all its stories. By clicking on a plot number you can access records of individuals buried at that location. Each person has a clock measuring how long they have been buried on the island. You can stop their clock of anonymity and restore their history by adding a story to The Traveling Cloud Museum. Plot numbers in red indicate that a person with AIDS has been identified at that location. (More recently, a section has been added to help identify victims of Covid-19). Find out more about Hart Island and the interactive map by watching this short video. <https://www.hartisland.net/> 
 
@@ -602,13 +606,13 @@ https&#x3A;//doi.org/10.7281/T1/AZ8G3G
 
 * * *
 
-![](https://lh4.googleusercontent.com/GXG7lRg8jfiDAG6lKAQFFdQk_TTf1a7YEXCfemFblfUpZxRfpg_Aw8BfgJd79ClgtUHgQqcWBA5NYX_JwhJvGcwGBRL8myEexYdmRvJl_9zNm5EIcxp7rzBC3TOQzC1FzBe4g19OWyjRLlIqfQbOnA)
+![](https://lh5.googleusercontent.com/ki8Pz6RnP0RGkCJzfgQTV9yljOjIUGdfs0llcGTFLe-dW_uziatA5tedu-gbDi0s94jgqiImh4o3SXA9_NKbEzEOETOUrWo2aWx20-5wZuUC6ezNsCE7y6gGUovEXxQFZ0WHV0nsr683m-M5wm7ATg)
 
 **Interactive Atlas for HIST 4326 (History of the Atlantic World)** Prof. Marvin has created this app to visualize georeferenced historical maps. Use the search function to locate places described in our course materials and compare names and political claims to those places by toggling through historical maps. [Link to App](https://gisanddata.maps.arcgis.com/apps/3DScene/index.html?appid=09c674fab0c44f229039d39ed3ab9e2d) 
 
 * * *
 
-**Interactive Atlas: Mapping Ethnicity (1960s-2010)** Prof. Marvin designed this app for the exclusive use of his students. The app allows users to explore the minority and majority ethnic groups that exist within and across political borders. What do various groups call themselves? What is their primary religion and language, and how do these correspond (or not) to the "official" and "majority" religions/languages that exist in the modern nation-states they find themselves living within? Are there current locations consequences of empire-building? A note on the data: the layer marked “1964 Ethnic Groups” is derived from: Weidmann, Nils B., Jan Ketil Rød, and Lars-Erik Cederman. “Representing Ethnic Groups in Space: A New Dataset.” Journal of Peace Research 47, no. 4 (2010): 491–99. The authors of this study chose to use the detailed, well-researched Atlas Narodov Mira (ANM, Bruk & Apenchenko, 1964), based on the work of Soviet ethnographers in the 1960s. The layer marked “2000s Ethnic Groups” is derived from 2010 data gathered by the Joshua Project, a Christian organization based in Colorado Springs (http&#x3A;//www.joshuaproject.net/). [Link to 2D Version](https://gisanddata.maps.arcgis.com/apps/webappviewer/index.html?id=3b32ef01c34a4219a2b3780d915a1263) There is also a [3D version](https://gisanddata.maps.arcgis.com/apps/webappviewer3d/index.html?id=9e09efdeb95d4877bc69dac3e7b6fae9) (with fewer features).![](https://lh5.googleusercontent.com/r5NDjtGX8rxs9Ec0Gk3Hxc4DA4_ryzTj_xhCbIj5zUdp63_JuVmyEUJKuT3hRzT7RE977S3b8LLuQmKYp8CPugDQWGpHjPYtl153NUU-Q0OmslYwNag1xpCC3gWw8noHziwH_T5Bul3Ef_WAiGczTQ)
+**Interactive Atlas: Mapping Ethnicity (1960s-2010)** Prof. Marvin designed this app for the exclusive use of his students. The app allows users to explore the minority and majority ethnic groups that exist within and across political borders. What do various groups call themselves? What is their primary religion and language, and how do these correspond (or not) to the "official" and "majority" religions/languages that exist in the modern nation-states they find themselves living within? Are there current locations consequences of empire-building? A note on the data: the layer marked “1964 Ethnic Groups” is derived from: Weidmann, Nils B., Jan Ketil Rød, and Lars-Erik Cederman. “Representing Ethnic Groups in Space: A New Dataset.” Journal of Peace Research 47, no. 4 (2010): 491–99. The authors of this study chose to use the detailed, well-researched Atlas Narodov Mira (ANM, Bruk & Apenchenko, 1964), based on the work of Soviet ethnographers in the 1960s. The layer marked “2000s Ethnic Groups” is derived from 2010 data gathered by the Joshua Project, a Christian organization based in Colorado Springs (http&#x3A;//www.joshuaproject.net/). [Link to 2D Version](https://gisanddata.maps.arcgis.com/apps/webappviewer/index.html?id=3b32ef01c34a4219a2b3780d915a1263) There is also a [3D version](https://gisanddata.maps.arcgis.com/apps/webappviewer3d/index.html?id=9e09efdeb95d4877bc69dac3e7b6fae9) (with fewer features).![](https://lh6.googleusercontent.com/CCrcGwNAARW8LRZ0xseWVjgPUIi8IciD1Gm4u0Zj-JsJklb7DzjA4fsLrVMoTtewMLErlM69jmhj2a0slHRj1koDJjDz8OqiWpEUmcWC6j7Ip8GUVhSFzbiffMz90mmock5YlMhB6ViWTlOB-3T33w)
 
 * * *
 
@@ -616,7 +620,7 @@ https&#x3A;//doi.org/10.7281/T1/AZ8G3G
 
 * * *
 
-![](https://lh4.googleusercontent.com/kBgZ2m9Z7EyRKwKrtffJKkPzNJR6LDyOlv4cbVDwlnSBHqWAmUt3WTSYuLPT9bpH5ILL6r6WeXGyJgFbyv9HSN0NIFUGEK_B4CsCfRJSwPCJCtMD_X2OUWrsY6NpWneh5jewZH3J--dddUA5LT5mOA)
+![](https://lh6.googleusercontent.com/4JiOx1MZ2CJYawrhnDvBVYGIFeMDHAAzY-aPC2nRxG5xY1qg_z8zH9k9479OrDjB0rvJIKnQJTb48ec18SjAAptkttLn-RKcnnWgsqzXyg73v5cRZO7gJDfcMULnm-ie_yz3aKJmZt7NNCGkLQYFfg)
 
 **Founders Online** (American Revolution, War of American Independence, Early Republic, British Empire, United States History) “In 2010, the National Archives, through its National Historical Publications and Records Commission (NHPRC), entered into a cooperative agreement with The University of Virginia Press to create this site and make freely available online the historical documents of the Founders of the United States of America. Through this website, you can read and search through thousands of records from George Washington, Benjamin Franklin, Alexander Hamilton, John Jay, John Adams, Thomas Jefferson, and James Madison and see firsthand the growth of democracy and the birth of the Republic.”
 
@@ -667,7 +671,7 @@ https&#x3A;//doi.org/10.7281/T1/AZ8G3G
 
 * * *
 
-**Corpus of Early Francophone Literature from the Indian Ocean, Written and Oral, from the Origins to Independence (18th century– 1960)/Corpus de la Première Littérature francophone de l’océan Indien, écrite et orale, des origines aux indépendances (18e siècle–1960).** This database makes available the French- and creole-language literatures of the Indian Ocean, both written and oral, and is an invaluable resource for literary scholars and historians. Some of the most famous poets in the French language were born on Réunion (including Évariste de Parny, Guillaume Bertin, and Auguste Lacaussade); others, like the novelist Bernardin de Saint-Pierre, had spent time in the Mascarenes. In all cases, the colonial experiences of these authors influenced their writing.
+**Corpus of Early Francophone Literature from the Indian Ocean, Written and Oral, from the Origins to Independence (18th century– 1960)/Corpus de la Première Littérature francophone de l’océan Indien, écrite et orale, des origines aux indépendances (18e siècle–1960).** This database makes available the French- and creole-language literatures of the Indian Ocean, both written and oral, and is an invaluable resource for literary scholars and historians. Some of the most famous poets in the French language were born on Réunion (including Évariste de Parny, Guillaume Bertin, and Auguste Lacaussade); others, like the novelist Bernardin de Saint-Pierre, had spent time in the Mascarenes. In all cases, the colonial experiences of these authors influenced their writing.
 
 * * *
 
@@ -677,7 +681,7 @@ https&#x3A;//doi.org/10.7281/T1/AZ8G3G
 
 * * *
 
-**Mémoire des hommes et Archives du port de Lorient, and René Estienne, eds. Les armements au long cours de la deuxième Compagnie des Indes, 1717–1773: Tableaux tirés des sous-séries 1P et 2P. Paris: Service Historique de la Marine, 1996.** “Mémoire des hommes” is a unique collection of digitized items from the archives of the French navy and the archives of the French East India Company of the port of Lorient, headquarters of the French East India Company. <https://www.memoiredeshommes.sga.defense.gouv.fr/> 
+**Mémoire des hommes et Archives du port de Lorient, and René Estienne, eds. Les armements au long cours de la deuxième Compagnie des Indes, 1717–1773: Tableaux tirés des sous-séries 1P et 2P. Paris: Service Historique de la Marine, 1996.** “Mémoire des hommes” is a unique collection of digitized items from the archives of the French navy and the archives of the French East India Company of the port of Lorient, headquarters of the French East India Company. <https://www.memoiredeshommes.sga.defense.gouv.fr/> 
 
 * * *
 
@@ -730,10 +734,9 @@ The project builds on the work of historian Denyse Beaugrand-Champagne. Presents
 
 
 
-## **__**
+## ****
 
-
-## **_From the AHA’s “Digital Resources” Section_**
+From the AHA’s “Digital Resources” Section
 
 Issue Section: [Digital Resources](https://academic.oup.com/ahr/search-results?f_TocHeadingTitle=Digital%20Resources)
 
@@ -751,15 +754,11 @@ SLAVERY IMAGES: A VISUAL RECORD OF THE AFRICAN SLAVE TRADE AND SLAVE LIFE IN THE
 
 “This educational resource is a two-part website created for teachers, researchers, students and the general public. It exists to assist anyone interested in visualizing the experiences of Africans and their descendants who were enslaved and transported to slave societies around the world.” The website “is a digital archive for hundreds of historical images, paintings, lithographs, and photographs illustrating enslaved Africans and their descendants before c. 1900.
 
-CANADA AND THE UNITED STATES
-
 COUNTY TRIAL TRANSCRIPTS OF NEW YORK COUNTY COLLECTION (1883–1927)
 
 <https://www.lib.jjay.cuny.edu/special-collections/trial-transcripts>
 
 “The Lloyd Sealy Library’s The Trial Transcripts of the County of New York 1883--1927 collection includes the verbatim typewritten proceedings of 3,326 court cases, held in various courts of New York County, which included Manhattan and The Bronx until 1914 . . . These transcripts contain primary material important not only in the study of the interaction between persons accused of crimes and the criminal justice system but in the study of immigration patterns and urban development during this period.” A third of the transcripts are now available online as digitized images.
-
-CARIBBEAN AND LATIN AMERICA
 
 OPENING THE ARCHIVES
 
@@ -767,15 +766,11 @@ OPENING THE ARCHIVES
 
 “Dedicated to digitizing and indexing U.S. government documents related to Brazil from the 1960s–1980s, Opening the Archives is an ongoing effort to make primary sources available to the public. Student researchers, under the leadership of Professor James N. Green, have scanned thousands of records from the presidential libraries of John F. Kennedy, Lyndon Johnson, Richard M. Nixon, Gerald Ford, Jimmy Carter, and Ronald Reagan, as well as the State Department, USAID, the Peace Corps, among other institutions and organizations. With the ultimate goal of publishing 100,000 records, the project reflects Brown University’s deep commitment to fostering collaborative relationships in the study of Brazil while strengthening the university’s goal of becoming a leading center for the study of Brazil in the United States.”
 
-EUROPE: ANCIENT AND MEDIEVAL
-
 MANUSCRITS MÉDIÉVAUX
 
 <https://manuscrits-france-angleterre.org/>
 
 “Thanks to the patronage of the Polonsky Foundation, the Bibliothèque nationale de France and the British Library have engaged in a partnership which aims to digitise, scientifically catalogue and showcase an outstanding collection of 800 medieval manuscripts produced between the 8th and 12th centuries . . . The manuscripts have been selected for their historical significance in terms of relations between France and England during the Middle Ages. They are also of unique artistic, historical or literary interest. Produced between the eighth and the end of the twelfth century, they cover a wide range of subjects, illustrating intellectual production during the early middle ages and the Roman period.”
-
-EUROPE: EARLY MODERN AND MODERN
 
 THE MEDICI INTERACTIVE ARCHIVE PROJECT
 
@@ -801,15 +796,11 @@ THE HANNAH ARENDT PAPERS AT THE U.S. LIBRARY OF CONGRESS
 
 This extensive digital primary source collection allows visitors to browse or search the papers and correspondence of Hannah Arendt. The series includes both personal letters, postcards, and writings and professional documents, reports, notes, and transcripts related to Arendt’s publications, lectures, and speeches. Visitors can also access a variety of miscellaneous primary sources, such as financial records and statements, newspaper clippings, course materials, and other ephemera, mostly from her time in the United States.
 
-SUB-SAHARAN AFRICA
-
 UGANDA CHRISTIAN UNIVERSITY ARCHIVES
 
 <http://digital.library.yale.edu/cdm/landingpage/collection/1030_1>
 
 “Yale University Divinity School Library has partnered with Uganda Christian University (UCU) to archive and preserve Christian records in Uganda and the region. The archives of the Church of Uganda date back to its foundation, in 1877, by the Church Missionary Society of the Church of England. They include records on the growth, general administration and development of the church; on institutions established by the church, such as, schools, hospitals, and bookshops; and on the church’s relationship with the Church of England, the British government and other organizations.”
-
-COMPARATIVE/WORLD/TRANSNATIONAL
 
 CURIOSITY DIGITAL COLLECTIONS
 
@@ -823,15 +814,11 @@ THE NATIONAL ARCHIVES PALAEOGRAPHY TUTORIAL
 
 This interactive website provides a series of tutorials to help visitors learn how to transcribe old handwriting. The site includes background information on paleography, with an introduction and a reference guide. Each tutorial presents visitors with an English document dated from 1500 to 1800, and visitors can use a variety of interactive tools to inspect the document and attempt a transcription; tutorials include background information about the document, a glossary of terms, and an alphabet to assist users
 
-CANADA AND THE UNITED STATES
-
 COUNTY TRIAL TRANSCRIPTS OF NEW YORK COUNTY COLLECTION (1883–1927)
 
 <https://www.lib.jjay.cuny.edu/special-collections/trial-transcripts>
 
 “The Lloyd Sealy Library’s The Trial Transcripts of the County of New York 1883--1927 collection includes the verbatim typewritten proceedings of 3,326 court cases, held in various courts of New York County, which included Manhattan and The Bronx until 1914 . . . These transcripts contain primary material important not only in the study of the interaction between persons accused of crimes and the criminal justice system but in the study of immigration patterns and urban development during this period.” A third of the transcripts are now available online as digitized images.
-
-CARIBBEAN AND LATIN AMERICA
 
 OPENING THE ARCHIVES
 
@@ -839,15 +826,11 @@ OPENING THE ARCHIVES
 
 “Dedicated to digitizing and indexing U.S. government documents related to Brazil from the 1960s–1980s, Opening the Archives is an ongoing effort to make primary sources available to the public. Student researchers, under the leadership of Professor James N. Green, have scanned thousands of records from the presidential libraries of John F. Kennedy, Lyndon Johnson, Richard M. Nixon, Gerald Ford, Jimmy Carter, and Ronald Reagan, as well as the State Department, USAID, the Peace Corps, among other institutions and organizations. With the ultimate goal of publishing 100,000 records, the project reflects Brown University’s deep commitment to fostering collaborative relationships in the study of Brazil while strengthening the university’s goal of becoming a leading center for the study of Brazil in the United States.”
 
-EUROPE: ANCIENT AND MEDIEVAL
-
 MANUSCRITS MÉDIÉVAUX
 
 <https://manuscrits-france-angleterre.org/>
 
 “Thanks to the patronage of the Polonsky Foundation, the Bibliothèque nationale de France and the British Library have engaged in a partnership which aims to digitise, scientifically catalogue and showcase an outstanding collection of 800 medieval manuscripts produced between the 8th and 12th centuries . . . The manuscripts have been selected for their historical significance in terms of relations between France and England during the Middle Ages. They are also of unique artistic, historical or literary interest. Produced between the eighth and the end of the twelfth century, they cover a wide range of subjects, illustrating intellectual production during the early middle ages and the Roman period.”
-
-EUROPE: EARLY MODERN AND MODERN
 
 THE MEDICI INTERACTIVE ARCHIVE PROJECT
 
@@ -881,8 +864,6 @@ UGANDA CHRISTIAN UNIVERSITY ARCHIVES
 
 This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (<https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model>)
 
-COMPARATIVE/WORLD/TRANSNATIONAL
-
 COLONIALISM AND AFRICAN DIASPORA ON PICTURE POSTCARDS
 
 <https://www.ub.uni-koeln.de/collections/bildpostkarten/index_eng.html>
@@ -907,15 +888,11 @@ INTERNATIONAL CHILDREN’S DIGITAL LIBRARY
 
 The purpose of this digital library is “to create a collection of more than 10,000 books in at least 100 languages that is freely available to children, teachers, librarians, parents, and scholars throughout the world via the Internet. The materials included in the collection reflect similarities and differences in cultures, societies, interests, lifestyles, and priorities of peoples around the world. The collection’s focus is on identifying materials that help children to understand the world around them and the global society in which they live.”
 
-ASIA
-
 SOUTH ASIA OPEN ARCHIVES
 
 <https://www.jstor.org/site/saoa/>
 
 “The South Asia Open Archives (SAOA), a subset of the South Asia Materials Project (SAMP), creates and maintains a collection of open access materials for the study of South Asia. This major collaborative initiative is aimed at addressing the current scarcity of digital resources pertinent to South Asia studies and at making collections more widely accessible both to North American scholars and to researchers worldwide.”
-
-CANADA AND THE UNITED STATES
 
 THE BALDWIN LIBRARY OF HISTORICAL CHILDREN’S LITERATURE
 
@@ -929,8 +906,6 @@ THE FREEDOM ARCHIVES
 
 “The Freedom Archives contains over 12,000 hours of audio and video recordings which date from the late-1960s to the mid-90s and chronicle the progressive history of the Bay Area, the United States, and international movements . . . \[the] collection includes weekly news, poetry, music programs; in-depth interviews and reports on social and cultural issues; numerous voices from behind prison walls; diverse activists; and pamphlets, journals and other materials from many radical organizations and movements.”
 
-CARIBBEAN AND LATIN AMERICA
-
 LATIN AMERICAN TRAVELOGUES
 
 <https://library.brown.edu/cds/travelogues/>
@@ -943,15 +918,11 @@ RECORDS RELATING TO HUMAN RIGHTS ABUSES IN ARGENTINA
 
 “A Presidential Tasking from the Executive Secretary of the National Security Council (NSC) on June 13, 2016, directed various Executive branch departments and agencies, including the National Archives and Records Administration (NARA), to search for records relating to human rights abuses committed in Argentina between January 1, 1975, and December 31, 1984, and to review responsive records for public access. In response, NARA assembled staff, including archivists from the National Declassification Center (NDC), the Presidential Libraries, and the Center for Legislative Archives to conduct this search and review.” This archive makes these records publicly available with a searchable interface, and it includes governmental intelligence reports, memos, letters, telegrams, and cables.
 
-EUROPE: EARLY MODERN AND MODERN
-
 EUROPEAN HISTORY PRIMARY SOURCES
 
 <http://primary-sources.eui.eu/>
 
 “The purpose of EHPS is to provide an easily searchable index of scholarly digital repositories that contain primary sources for the history of Europe. As the number of digital archives on the internet continues to grow, finding and selecting digital repositories becomes increasingly difficult. EHPS strives to fill that gap by listing the most important collections of digital primary sources for the history of Europe, either as a whole or for single countries.”
-
-SUB-SAHARAN AFRICA
 
 AFRICA SOUTH OF THE SAHARA
 
@@ -959,15 +930,11 @@ AFRICA SOUTH OF THE SAHARA
 
 This resource provides an extensive listing of links to websites and digital primary sources related to the history and historiography of Sub-Saharan Africa. Visitors can browse by country or by topic, and topics also include disciplines and areas beyond history: art, film, literature, and music; environment and nature; education, health, food, work, and leisure; and media, politics, religion, and science.
 
-COMPARATIVE/WORLD/TRANSNATIONAL
-
 HISTORY OF CHRISTIANITY TEACHING AND RESEARCH RESOURCE ARCHIVE
 
 <https://aschresources.org/>
 
 “The American Society of Church History curates an archive of resources covering the history of Christianity and its cultural contexts in all places and times, including its non-Western expressions.” The society “encourage\[s] projects which engage in interdisciplinary discussion, place theological ideas and lived religious practices in historical context, \[and] examine particular genres, source materials or methods, including the use of digital humanities and non-textual sources.”
-
-ASIA
 
 RARE AND SPECIAL E-ZONE
 
@@ -981,21 +948,11 @@ CHINESE POSTERS: PROPAGANDA, POLITICS, HISTORY, ART
 
 “This website aims to present Chinese propaganda posters through virtual exhibitions, theme presentations and a web-database. It also provides additional information in the form of biographical notes of poster artists, resources, etc.” The website is “continually growing to become an ever better showcase for one of the most fascinating chapters in the history of poster propaganda, and a visual chronicle of the history of modern China.”
 
-CANADA AND THE UNITED STATES
-
 WHAT’S ON THE MENU?
 
 <http://menus.nypl.org/menus/>
 
 “With approximately 45,000 menus dating from the 1840s to the present, The New York Public Library’s restaurant menu collection is one of the largest in the world, used by historians, chefs, novelists and everyday food enthusiasts.” The website includes images of menus and a growing collection of searchable transcriptions of the menus.
-
- 
-
-COLORED CONVENTIONS
-
-<http://coloredconventions.org/>
-
-“From 1830 until the 1890s, already free and once captive Black people came together in state and national political meetings called ‘Colored Conventions’ . . . The delegates to these meetings included the most well-known, if mostly male, writers, organizers, church leaders, newspaper editors, and entrepreneurs in the canon of early African-American leadership.” The website offers “rare proceedings, newspaper coverage, and petitions that have never before been collected in one place,” documenting the work of both the men and the women involved in these conventions.
 
 CHINESE RAILROAD WORKERS IN NORTH AMERICA PROJECT
 
@@ -1019,15 +976,11 @@ DOMESTIC DIVERSITY AND OTHER SUBVERSIVE ACTIVITIES: LIBERATOR MAGAZINES
 
 This primary source collection contains digitized copies of Liberator magazine, offering issues from March 1961 to October 1965, when Lowell P. Beveridge Jr. was the magazine’s editor. Visitors can browse individual issues, download the full collection, or browse an index of individual article titles and authors.
 
-EUROPE: ANCIENT AND MEDIEVAL
-
 PARKER LIBRARY ON THE WEB
 
 <https://parker.stanford.edu/parker/>
 
 “Parker Library on the Web \[is] a digital exhibit designed to support use and study of the manuscripts in the historic Parker Library at Corpus Christi College, Cambridge. The Parker Library is a treasure trove of rare medieval and Renaissance manuscripts, as well as early printed books. Almost all manuscripts in the Parker Library collection have been fully digitised and are available in this exhibit, along with associated bibliographic references and annotations made by scholars from around the world.”
-
-EUROPE: EARLY MODERN AND MODERN
 
 THE BREXIT COLLECTION
 
@@ -1043,8 +996,6 @@ DIGITAL INNOVATION SOUTH AFRICA
 
 (<https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model>)
 
-COMPARATIVE/WORLD/TRANSNATIONAL
-
 LIVINGSTONE ONLINE
 
 <http://livingstoneonline.org/>
@@ -1057,8 +1008,6 @@ MANUSCRIPTORIUM
 
 “Manuscriptorium is a freely accessible digital library which enables ready access to concentrated information on historical resources via sophisticated search tools. The objective of the project is to provide access to existing digital content via integrated tools in order to make it as readily accessible as possible. The digital library therefore aggregates documents from many renowned institutions, extending beyond the countries of the European Union.”
 
-ASIA
-
 CHINESE TEXT PROJECT
 
 <https://ctext.org/>
@@ -1070,8 +1019,6 @@ PHOTO LIBRARY OF THE FRENCH SCHOOL OF ASIAN STUDIES
 <http://collection.efeo.fr/>
 
 “The EFEO \[École française d’Extrême-Orient] Photo Library contains over 180,000 pictures. The materials used, a reflection of the evolution of photographic techniques, are of various kinds, including silver bromide-gelatin glass negatives, most of them stereoscopic; negatives; slides; silver and colour prints; digital images. The themes addressed illustrate the breadth of disciplines in which the EFEO is active, encompassing architecture, archaeology, epigraphy, ethnography, and art history. For historical reasons associated with the geographical locations of the EFEO’s original missions, Cambodia and Vietnam are particularly well represented in the Photo Library, as is, to a lesser degree, Laos.”
-
-CANADA AND THE UNITED STATES
 
 CANADIANA
 
@@ -1103,15 +1050,11 @@ CULTURAL EQUITY SOUND RECORDINGS CATALOGUE
 
 “The Sound Recordings catalog comprises over 17,400 digital audio files, beginning with \[Alan] Lomax’s first recordings onto (newly invented) tape in 1946 and tracing his career into the 1990s. In addition to a wide spectrum of musical performances from around the world, it includes stories, jokes, sermons, personal narratives, interviews conducted by Lomax and his associates, and unique ambient artifacts captured in transit from radio broadcasts, sometimes inadvertently, when Alan left the tape machine running.”
 
-CARIBBEAN AND LATIN AMERICA
-
 LINHAS DE LUTA: CARTOS AO PRESIDENTE LULA
 
 <http://www.linhasdeluta.org/index.php>
 
 This digital collection contains thousands of letters written to former Brazilian president Luiz Inácio Lula da Silva (2003–2010) following his imprisonment in 2018. Written in solidarity by citizens from across Brazil, “the letters, translated into English, French, Spanish, and Italian, are directed toward anyone in the world who is searching for other points of view about the tragedy Brazil is living today.
-
-MIDDLE EAST AND NORTHERN AFRICA
 
 DIGITAL LIBRARY OF THE MIDDLE EAST
 
@@ -1125,23 +1068,17 @@ PRINCETON DIGITAL LIBRARY OF ISLAMIC MANUSCRIPTS
 
 “The Princeton University Library created Voyager cataloging records for most of the approximately 9,500 Islamic manuscripts in the Manuscripts Division, which are from Robert Garrett (Class of 1897) and other sources. This is the premier collection of Arabic, Persian, Ottoman Turkish, and other Islamic manuscripts in the Western Hemisphere . . . The manuscripts digitized from microfilm include all texts (chiefly New Series) on Shia law and theology; texts related to other non-Sunni sects, such as the Druze and Kharijites; and more than 750 other manuscripts (Garrett Yahuda Series) on a variety of subjects.”
 
-COMPARATIVE/WORLD/TRANSNATIONAL
-
 WORLD DIGITAL LIBRARY
 
 <https://www.wdl.org/en/>
 
 “The World Digital Library (WDL) is a project of the U.S. Library of Congress, carried out with the support of the United Nations Educational, Cultural and Scientific Organization (UNESCO), and in cooperation with libraries, archives, museums, educational institutions, and international organizations from around the world. The WDL makes available on the Internet, free of charge and in multilingual format, significant primary materials from all countries and cultures.”
 
-OCEANIA AND THE PACIFIC ISLANDS
-
 OCEANIA DIGITAL COLLECTION
 
 <https://library.ucsd.edu/dc/collection/bb1025280p>
 
 “Drawn primarily from the Tuzin Archive for Melanesian Anthropology, this collection illuminates aspects of the vibrant cultures and diverse peoples of the Pacific Islands through 20th-century photographs, dissertations, and films.” Visitors can browse primary source collections or search by format, creator, date, or topic.
-
-CANADA AND THE UNITED STATES
 
 WHAT AMERICA ATE
 
@@ -1181,8 +1118,6 @@ BIRMINGHAM \[ALABAMA] PUBLIC LIBRARY DIGITAL COLLECTIONS
 
 “The Digital Collections of Birmingham Public Library were created to preserve and make available the local history of Birmingham \[Alabama] and the surrounding area. These resources may help students, teachers, genealogists, historians and interested citizens learn more about the history of Birmingham.”
 
-CARIBBEAN AND LATIN AMERICA
-
 COLECCIÓN PUERTORRIQUEÑA
 
 <https://issuu.com/coleccionpuertorriquena/>
@@ -1201,15 +1136,11 @@ MEMORIA CHILENA
 
 This collection offers digitized documents from the National Library of Chile, focusing on issues of cultural identity in Chile. This Spanish-language resource is multidisciplinary and provides a wide range of information and sources on Chile and Chilean cultural heritage, including primary sources, articles, literary manuscripts, photographs, and more; it can be browsed by place, theme, format, and date.
 
-EUROPE: EARLY MODERN AND MODERN
-
 LETTERS, 1916–1923
 
 <http://letters1916.maynoothuniversity.ie/>
 
 “This digital collection includes letters held at institutions in Ireland and abroad alongside those in private collections. There are thousands of letters connecting hundreds of lives commenting on a wide range of topics, from wars and violence at home and abroad including the Easter Rising, The Great War, The Anglo-Irish and Civil War, literature and art, love, politics, business, and ordinary life.” Visitors can browse the collection and even help the project by transcribing extant letters, in full or in part.
-
-SUB-SAHARAN AFRICA
 
 AFRICAN ONLINE DIGITAL COLLECTIONS
 
@@ -1231,23 +1162,13 @@ The American Historical Review, Volume 125, Issue 2, April 2020, Pages 587–589
 
 Published: 13 April 2020
 
-Since the 2004 efforts of Brown University and the University of Alabama, a number of universities and colleges, including Universities Studying Slavery (USS) consortium members, have systematically engaged with researching and reconciling their institutional ties to slavery and its legacies. A growing number of these institutions have also developed digital repositories of their efforts. These digital humanities projects have proved instrumental for providing the necessary tools for engagement, demonstrating the transparency of the reconciliation work, connecting enslaved laborers’ descendants with the current campus communities, and encouraging difficult conversations reflective of the racially inclusive and diverse campuses. Of the existing digital humanities campus history projects, the Georgetown Slavery Archive is an exemplar for its democratization of the archives and for involving African American descendants in the campus reconciliation efforts. Created in 2016, this digital humanities project offers a model for institutions embarking on similar projects.
-
-At the core of this Omeka-supported digital humanities campus history project are the documents surrounding the 1838 sale of 272 enslaved men, women, and children (the so-called GU272, an identification number Georgetown uses to refer to this specific sale) by the president of Georgetown, the nature of slavery practiced on plantations owned by the Maryland Jesuits and at Georgetown University before and after the 1838 sale, and the post-sale fates of enslaved individuals in Louisiana and their descendants. These documents are centrally placed under the “Items” tab. As a repository of materials, the Georgetown Slavery Archive encourages individuals to explore these items before the other tabs. At present, the over 380 documents featured have clear titles and general descriptions contextualizing the items; the records list the creators of the documents and identify other source publication details. Some digital files are provided without correction, but there are also searchable transcriptions provided for handwritten sources. Documents are arranged both by identifier number and alternatively on an inventory timeline based on the creation date. The latter allows for individuals to easily locate documents produced during specific time periods. The home page also draws attention to all recent additions to this section.
+Since the 2004 efforts of Brown University and the University of Alabama, a number of universities and colleges, including Universities Studying Slavery (USS) consortium members, have systematically engaged with researching and reconciling their institutional ties to slavery and its legacies. A growing number of these institutions have also developed digital repositories of their efforts. These digital humanities projects have proved instrumental for providing the necessary tools for engagement, demonstrating the transparency of the reconciliation work, connecting enslaved laborers’ descendants with the current campus communities, and encouraging difficult conversations reflective of the racially inclusive and diverse campuses. Of the existing digital humanities campus history projects, the Georgetown Slavery Archive is an exemplar for its democratization of the archives and for involving African American descendants in the campus reconciliation efforts. Created in 2016, this digital humanities project offers a model for institutions embarking on similar projects. At the core of this Omeka-supported digital humanities campus history project are the documents surrounding the 1838 sale of 272 enslaved men, women, and children (the so-called GU272, an identification number Georgetown uses to refer to this specific sale) by the president of Georgetown, the nature of slavery practiced on plantations owned by the Maryland Jesuits and at Georgetown University before and after the 1838 sale, and the post-sale fates of enslaved individuals in Louisiana and their descendants. These documents are centrally placed under the “Items” tab. As a repository of materials, the Georgetown Slavery Archive encourages individuals to explore these items before the other tabs. At present, the over 380 documents featured have clear titles and general descriptions contextualizing the items; the records list the creators of the documents and identify other source publication details. Some digital files are provided without correction, but there are also searchable transcriptions provided for handwritten sources. Documents are arranged both by identifier number and alternatively on an inventory timeline based on the creation date. The latter allows for individuals to easily locate documents produced during specific time periods. The home page also draws attention to all recent additions to this section.
 
 This digital humanities project does not merely include traditional documents associated with the white Jesuit and university participants in the institution of slavery, such as bills of sale, inventories, newspaper advertisements, invoices, and playbills for antebellum campus performances of minstrel shows. Rather, the site fully incorporates sources demonstrating the enslaved and post-emancipation experiences of African Americans and their descendants, such as court testimonies, photographs, obituaries, oral histories, biographical profiles, ephemera, and multimedia recordings. By including these rich African American archival sources, the site moves beyond documenting the victimization of the enslaved campus laborers and beyond the promotion of a self-congratulatory narrative of Georgetown University embracing its slave past. This inclusion reveals a fuller and more nuanced narrative of how both white and African American historical actors navigated the racial geographies created by the institution of slavery at the Maryland Jesuit plantations and at the Georgetown University campus, and how they navigated the legacies of slavery for the affected communities. In addition to primary sources, the inventory includes relevant secondary sources, specifically book chapters and articles.
 
-By privileging these basic building blocks immediately following the home page, the site encourages different levels of engagement and contemporary conversations from academics, current campus faculty, students, and administrators, and African American descendants. Moreover, the placement and content of the “Items” tab demonstrate the vision of the Archives Subgroup of the Georgetown University Working Group on Slavery, Memory, and Reconciliation and the fulfillment of a suggested recommendation of the broader Georgetown University Slavery, Memory, and Reconciliation initiative (the full report can be found on the website). It also highlights the role of education as an essential component in finding inclusive and sustainable community-based solutions to current debates over the memory of slavery and its legacy.
+By privileging these basic building blocks immediately following the home page, the site encourages different levels of engagement and contemporary conversations from academics, current campus faculty, students, and administrators, and African American descendants. Moreover, the placement and content of the “Items” tab demonstrate the vision of the Archives Subgroup of the Georgetown University Working Group on Slavery, Memory, and Reconciliation and the fulfillment of a suggested recommendation of the broader Georgetown University Slavery, Memory, and Reconciliation initiative (the full report can be found on the website). It also highlights the role of education as an essential component in finding inclusive and sustainable community-based solutions to current debates over the memory of slavery and its legacy. The “Collections” section of the Georgetown Slavery Archive provides a manageable, accessible, and well-organized way to navigate historical documents contained in the items inventory. The six collections bridge the past with the present. The collections are “Memory and Reconciliation,” “Descendants’ Stories,” “The Maryland Province Slaves in Louisiana, and Their Descendants,” “Slavery at Georgetown College,” “Slavery in the Maryland Province,” and “Sale of Maryland Jesuit Slaves to Louisiana in 1838”; the latter collections contain current discussions of memory, reconciliation, and reparations. Again, the order of the digitized collections demonstrates the larger reconciliation aims for sustaining dialogues between the institution, the current campus community, and African American descendants. Rather than privilege the enslavers’ voices and perspectives, the “Memory and Reconciliation” and “Descendants’ Stories” collections are listed first. Although individuals can opt to ignore these collections, their placement reverses a common historical and current experience of African Americans forced to navigate a commemorative campus landscape of the enslavers and a broader regional commemorative landscape defined by the United Daughters of the Confederacy’s Lost Cause memorial projects. The subtle subversion of historical power hierarchies signals that the reconciliation efforts are not mere lip service to the GU272 and other African American descendants of former enslaved campus laborers. Here, the designers of the repository brilliantly display their scholarly understanding of the need to overcome the previous silences of the archives designed for the study of the enslavers and white elites; this also stands as an example of the archival democratization possibilities afforded by the digital humanities, as argued by Moya Bailey, Tara McPherson, Vincent Brown, and Jessica Marie Johnson. (For specific readings, see Bailey, “All the Digital Humanists Are White, All the Nerds Are Men, but Some of Us Are Brave,” Journal of Digital Humanities 1, no. 1 \[2011]; McPherson, “Why Are the Digital Humanities So White? Or, Thinking the Histories of Race and Computation,” in Matthew K. Gold, ed., Debates in the Digital Humanities \[2012], 139–160; Brown, “Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery,” Social Text 33, no. 4 \[2015]: 134–141; and Johnson, “Markup Bodies: Black \[Life] Studies and Slavery \[Death] Studies at the Digital Crossroads,” Social Text 36, no. 4 \[2018]: 57–79.)
 
-The “Collections” section of the Georgetown Slavery Archive provides a manageable, accessible, and well-organized way to navigate historical documents contained in the items inventory. The six collections bridge the past with the present. The collections are “Memory and Reconciliation,” “Descendants’ Stories,” “The Maryland Province Slaves in Louisiana, and Their Descendants,” “Slavery at Georgetown College,” “Slavery in the Maryland Province,” and “Sale of Maryland Jesuit Slaves to Louisiana in 1838”; the latter collections contain current discussions of memory, reconciliation, and reparations. Again, the order of the digitized collections demonstrates the larger reconciliation aims for sustaining dialogues between the institution, the current campus community, and African American descendants. Rather than privilege the enslavers’ voices and perspectives, the “Memory and Reconciliation” and “Descendants’ Stories” collections are listed first. Although individuals can opt to ignore these collections, their placement reverses a common historical and current experience of African Americans forced to navigate a commemorative campus landscape of the enslavers and a broader regional commemorative landscape defined by the United Daughters of the Confederacy’s Lost Cause memorial projects. The subtle subversion of historical power hierarchies signals that the reconciliation efforts are not mere lip service to the GU272 and other African American descendants of former enslaved campus laborers. Here, the designers of the repository brilliantly display their scholarly understanding of the need to overcome the previous silences of the archives designed for the study of the enslavers and white elites; this also stands as an example of the archival democratization possibilities afforded by the digital humanities, as argued by Moya Bailey, Tara McPherson, Vincent Brown, and Jessica Marie Johnson. (For specific readings, see Bailey, “All the Digital Humanists Are White, All the Nerds Are Men, but Some of Us Are Brave,” Journal of Digital Humanities 1, no. 1 \[2011]; McPherson, “Why Are the Digital Humanities So White? Or, Thinking the Histories of Race and Computation,” in Matthew K. Gold, ed., Debates in the Digital Humanities \[2012], 139–160; Brown, “Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery,” Social Text 33, no. 4 \[2015]: 134–141; and Johnson, “Markup Bodies: Black \[Life] Studies and Slavery \[Death] Studies at the Digital Crossroads,” Social Text 36, no. 4 \[2018]: 57–79.)
-
-These archival democratization and reconciliation aims are further extended in the “Descendants” section. The page provides a historical account of the university’s efforts to locate and involve descendants. The simple text page includes the names and contact information for staff at Georgetown working to trace the descendants of those enslaved by the institution. More importantly, it offers a simple genealogical guide for individuals seeking information on their possible connection to the GU272. While focused on the GU272, this guide can be employed by others attempting African American genealogy prior to abolition and emancipation. As an ongoing project, this section on the site would be strengthened by the inclusion of links to the GU272 Descendants Association website and research on African American descendants of the unsold campus laborers.
-
-The remaining sections showcase student research and possible further research directions. Using student-created podcasts and videos, the “Multimedia” section features Georgetown University students as both the creators of knowledge and important participants in the overall campus reconciliation efforts. Although featuring only a limited number of items and lacking contextualizing editorial content, the “Gallery” section is a curated selection of primary sources that might be incorporated in teaching and student assignments at the K-12 and collegiate levels. The “Map” section allows for a geospatial analysis of the archives and reinforces the consequences of the 1838 sale for both the university and the individuals sold to Louisiana. Similar to the “Gallery” section, more guidance on usage would allow for expanded incorporation into classroom teaching. Lastly, the “Further Readings” section offers a simple bibliography of secondary sources that will help deepen understanding of the archival material and guide further exploration of the historical topics presented.
-
-The Georgetown Slavery Archive is a valuable digital humanities project. While it reflects the interests of current Georgetown University stakeholders, this free and visually appealing open-access site provides a model for other institutions doing comparable work. It equips diverse communities engaged in the current debates over slavery and memory with necessary digital tools and scholarly expertise, and it promotes community-based solutions to current debates over slavery and memory. It also encourages future research by academics, descendants, and the broader public while facilitating ongoing campus reconciliation efforts. The inclusive and democratic vision undergirding the Georgetown Slavery Archive is worthy of replication.
-
-© The Author 2018. Published by Oxford University Press.
+These archival democratization and reconciliation aims are further extended in the “Descendants” section. The page provides a historical account of the university’s efforts to locate and involve descendants. The simple text page includes the names and contact information for staff at Georgetown working to trace the descendants of those enslaved by the institution. More importantly, it offers a simple genealogical guide for individuals seeking information on their possible connection to the GU272. While focused on the GU272, this guide can be employed by others attempting African American genealogy prior to abolition and emancipation. As an ongoing project, this section on the site would be strengthened by the inclusion of links to the GU272 Descendants Association website and research on African American descendants of the unsold campus laborers. The remaining sections showcase student research and possible further research directions. Using student-created podcasts and videos, the “Multimedia” section features Georgetown University students as both the creators of knowledge and important participants in the overall campus reconciliation efforts. Although featuring only a limited number of items and lacking contextualizing editorial content, the “Gallery” section is a curated selection of primary sources that might be incorporated in teaching and student assignments at the K-12 and collegiate levels. The “Map” section allows for a geospatial analysis of the archives and reinforces the consequences of the 1838 sale for both the university and the individuals sold to Louisiana. Similar to the “Gallery” section, more guidance on usage would allow for expanded incorporation into classroom teaching. Lastly, the “Further Readings” section offers a simple bibliography of secondary sources that will help deepen understanding of the archival material and guide further exploration of the historical topics presented. The Georgetown Slavery Archive is a valuable digital humanities project. While it reflects the interests of current Georgetown University stakeholders, this free and visually appealing open-access site provides a model for other institutions doing comparable work. It equips diverse communities engaged in the current debates over slavery and memory with necessary digital tools and scholarly expertise, and it promotes community-based solutions to current debates over slavery and memory. It also encourages future research by academics, descendants, and the broader public while facilitating ongoing campus reconciliation efforts. The inclusive and democratic vision undergirding the Georgetown Slavery Archive is worthy of replication. © The Author 2018. Published by Oxford University Press.
 
 This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (<https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model>)
 
@@ -1267,19 +1188,13 @@ Issue Section: [Digital History Reviews](https://academic.oup.com/ahr/search-res
 
 Launched by the French Atlantic History Group some ten years ago, under the direction of Jean-Paul Le Glaunec and Léon Robichaud, the website Marronnage in Saint-Domingue (Haïti) is devoted to the study of fugitive slaves in the eighteenth-century Caribbean’s most important colony. (Derived from the Spanish cimarronaje, the spellings marronnage and marronage are used in French; “marronage” and “maroonage” are used in English. The term covers the identity and activities of runaway slaves.) In the last year, the site has been undergoing major expansion. At the time of writing (and of publication), the project remains incomplete and several parts of site have become inaccessible. What follows, therefore, is a slightly anachronistic review of a work in progress. (Those with a proficiency in French may have better luck visiting the French-language side of the site, which has increased accessibility at time of publication.)
 
-Historians of slavery in the Americas have long been drawn to the advertisements for escaped slaves that their owners placed in local newspapers. They have proved a rich source for analysis. Besides documenting one of the most widespread types of resistance to enslavement, they often contain details about the physical appearance of enslaved persons (height, bodily markings and injuries, dentition, clothing), their language skills and manner of talking, supposed personality traits, and social contacts. In no other type of document do so many of the enslaved appear as distinct individuals. Although property records par excellence, couched in the slave owner’s usually disdainful language, such advertisements offer rare glimpses of the slave’s humanity.
-
-For much of the eighteenth century, the French colony of Saint-Domingue was Europe’s main source of tropical produce. On the eve of its destruction during the Haitian Revolution, it contained the third largest slave population in the Americas and rivaled Brazil as the principal destination of the Atlantic slave trade. The colony’s slavery records are particularly valuable because of their unusual degree of specificity regarding the ethnic origins of African-born captives, who constituted more than half of the colony’s enslaved workers. The local newspaper, Les Affiches Américaines, is the website’s sole source of Saint-Domingue material, and following the website’s expansion in scope, this newspaper remains its principal source of material. The Affiches ran from 1766 to 1791, and one fairly complete collection exists in the Bibliothèque Nationale de France, in Paris. It is not quite as inaccessible a resource as the website’s directors seem to believe; the University of Florida had the collection microfilmed in 1993, and that microfilm was later digitized and made available online by the Law Library Microform Consortium (today LLMC Digital) and subsequently by the Digital Library of the Caribbean.
+Historians of slavery in the Americas have long been drawn to the advertisements for escaped slaves that their owners placed in local newspapers. They have proved a rich source for analysis. Besides documenting one of the most widespread types of resistance to enslavement, they often contain details about the physical appearance of enslaved persons (height, bodily markings and injuries, dentition, clothing), their language skills and manner of talking, supposed personality traits, and social contacts. In no other type of document do so many of the enslaved appear as distinct individuals. Although property records par excellence, couched in the slave owner’s usually disdainful language, such advertisements offer rare glimpses of the slave’s humanity. For much of the eighteenth century, the French colony of Saint-Domingue was Europe’s main source of tropical produce. On the eve of its destruction during the Haitian Revolution, it contained the third largest slave population in the Americas and rivaled Brazil as the principal destination of the Atlantic slave trade. The colony’s slavery records are particularly valuable because of their unusual degree of specificity regarding the ethnic origins of African-born captives, who constituted more than half of the colony’s enslaved workers. The local newspaper, Les Affiches Américaines, is the website’s sole source of Saint-Domingue material, and following the website’s expansion in scope, this newspaper remains its principal source of material. The Affiches ran from 1766 to 1791, and one fairly complete collection exists in the Bibliothèque Nationale de France, in Paris. It is not quite as inaccessible a resource as the website’s directors seem to believe; the University of Florida had the collection microfilmed in 1993, and that microfilm was later digitized and made available online by the Law Library Microform Consortium (today LLMC Digital) and subsequently by the Digital Library of the Caribbean.
 
 The fugitive slave material is also nowhere near as neglected as the website claims. To judge from the (currently closed) bibliography that the site hosted, the site’s organizers were unaware of some of the most relevant Saint-Domingue scholarship of the previous twenty-five years. Nevertheless, though they greatly exaggerate in claiming the maroon advertisements in the Affiches as “unexplored,” the website represents a great step forward for the history of both maroonage and Saint-Domingue. It presents an unusually large dataset in a stylishly designed format that allows for easy interrogation. A strong feature of the site is that it provides a photo of each individual document in JPEG form alongside a machine-readable transcription. This enhances the project’s aesthetic appeal and preserves some of the feel of working with the original paper while permitting high-speed content analysis. Versions of the site in English and French are available, although the primary sources themselves are not translated.
 
 For most of the website’s history it has displayed only advertisements for missing slaves. Now a second type of document is being added: jail lists of recaptured fugitives. There are 6,535 lists and 10,772 adverts, but as the lists contain many more names than the adverts, this addition represents a big expansion in the corpus of fugitives. It should also illustrate, through comparison of the missing and recaptured, the differential success in maroonage of different segments of the enslaved population. Historians have rarely investigated the issue, as jail lists seem to be unique to the French colonies. The site provides a search tool that includes filters for type of document, year, newspaper, and slaves’ names and sexes. Different criteria can be combined and, as all words in the transcribed documents can be searched, the potential field of inquiry is very broad. Its ease of use, for those with enough French, makes it suitable for undergraduate projects, as well for more extensive research.
 
-Another way in which the Saint-Domingue material might be expanded would be to add the issues of Les Affiches Américaines’ two predecessors, Gazette de Saint-Domingue and Avis Divers et Petites Affiches Américaines, which were published in 1764–1765 and are accessible online at LLMC Digital and at the Digital Library of the Caribbean. Similarly, the many rivals and successors of the Affiches that sprang up in the period from 1790 to 1793 could provide more data, albeit at the risk of duplicating material that appeared in different newspapers. Finally, as the Bibliothèque Nationale’s collection of the Affiches Américaines contains gaps (a few of which at least can be filled by isolated copies held by other institutions, such as Harvard University, the John Carter Brown Library, etc.), one hopes they will be eventually added to the database.
-
-Meanwhile, the Marronnage in Saint-Domingue website has embarked on a different sort of expansion. After integrating similar material from newspapers in Guadeloupe (1815–1833), Guyane (1829), Jamaica (1800–1815), Louisiana (1801–1815), Lower Canada (1765–1810), and South Carolina (1802–1815), the site will become Marronnage in the Atlantic World: Sources and Life Trajectories. These additions bring the total number of advertisements to 15,638 and that of jail lists to 6,846. The figure currently given for the total number of slaves identified, 22,638, seems to be an error and presumably concerns only the advertisements. These ads usually mentioned only one slave, and occasionally a few, whereas jail lists were generally longer—and sometimes much longer. The total number of fugitives recorded therefore must be much higher.
-
-The relationship between the number of slaves who escaped in a given year and the number of those mentioned in the press is highly uncertain. The newspaper adverts inflate the phenomenon somewhat, because slave owners sometimes paid to have the same ad repeated in successive issues of a newspaper. (Les Affiches Américaines marked such duplicate advertisements, but the website does not.) On the other hand, most fugitives probably never became the subject of an advertisement, especially if they were captured (or returned) quickly, or if their owner lived far from the newspaper’s place of publication. Similarly, not all recaptured maroons passed via a jail. Plantation accounts and correspondence can help with these issues somewhat; they therefore form a vital complement to the newspaper data in maroonage research. The newspaper press, however, provides the best overview of slave desertion in a particular locale, which is why this website is such a valuable resource. Even after the website’s recent extension in geographical range, Saint-Domingue continues to dominate the project, but the scope for further expansion of this sort is considerable.
+Another way in which the Saint-Domingue material might be expanded would be to add the issues of Les Affiches Américaines’ two predecessors, Gazette de Saint-Domingue and Avis Divers et Petites Affiches Américaines, which were published in 1764–1765 and are accessible online at LLMC Digital and at the Digital Library of the Caribbean. Similarly, the many rivals and successors of the Affiches that sprang up in the period from 1790 to 1793 could provide more data, albeit at the risk of duplicating material that appeared in different newspapers. Finally, as the Bibliothèque Nationale’s collection of the Affiches Américaines contains gaps (a few of which at least can be filled by isolated copies held by other institutions, such as Harvard University, the John Carter Brown Library, etc.), one hopes they will be eventually added to the database. Meanwhile, the Marronnage in Saint-Domingue website has embarked on a different sort of expansion. After integrating similar material from newspapers in Guadeloupe (1815–1833), Guyane (1829), Jamaica (1800–1815), Louisiana (1801–1815), Lower Canada (1765–1810), and South Carolina (1802–1815), the site will become Marronnage in the Atlantic World: Sources and Life Trajectories. These additions bring the total number of advertisements to 15,638 and that of jail lists to 6,846. The figure currently given for the total number of slaves identified, 22,638, seems to be an error and presumably concerns only the advertisements. These ads usually mentioned only one slave, and occasionally a few, whereas jail lists were generally longer—and sometimes much longer. The total number of fugitives recorded therefore must be much higher. The relationship between the number of slaves who escaped in a given year and the number of those mentioned in the press is highly uncertain. The newspaper adverts inflate the phenomenon somewhat, because slave owners sometimes paid to have the same ad repeated in successive issues of a newspaper. (Les Affiches Américaines marked such duplicate advertisements, but the website does not.) On the other hand, most fugitives probably never became the subject of an advertisement, especially if they were captured (or returned) quickly, or if their owner lived far from the newspaper’s place of publication. Similarly, not all recaptured maroons passed via a jail. Plantation accounts and correspondence can help with these issues somewhat; they therefore form a vital complement to the newspaper data in maroonage research. The newspaper press, however, provides the best overview of slave desertion in a particular locale, which is why this website is such a valuable resource. Even after the website’s recent extension in geographical range, Saint-Domingue continues to dominate the project, but the scope for further expansion of this sort is considerable.
 
 © The Author 2018. Published by Oxford University Press.
 
@@ -1294,9 +1209,7 @@ The Slave Societies Digital Archive
 
 <https://www.slavesocieties.org/>
 
-Elena A. Schneider
-
-Reviewed in The American Historical Review, Volume 125, Issue 2, April 2020, Pages 579–581, <https://doi.org/10.1093/ahr/rhz750>: The Slave Societies Digital Archive (SSDA) is one of the longest-running digital projects on the history of Africans and their descendants in the Atlantic World. Formerly known as Ecclesiastical and Secular Sources for Slave Societies, the digital project was launched in 2003 as an NEH-funded collaboration between Jane Landers of Vanderbilt University, Mariza de Carvalho Soares of Universidade Federal Fluminense, and Paul E. Lovejoy of York University. It arrived on the web shortly after Gwendolyn Midlo Hall’s Louisiana Slave Database and the Trans-Atlantic Slave Trade Database (today Slave Voyages) initiated by David Richardson and David Eltis. Unlike these other digital history projects, though, from the beginning SSDA’s core mission has been archival preservation. Landers and her team have focused their resources and energy on identifying, cataloguing, and digitally preserving endangered archival materials located in local parishes in formerly slaveholding societies in Latin America and the Caribbean. The scope of this sixteen-year project is vast. The digital archive now holds approximately seven hundred thousand images of written documents dating from the sixteenth to the nineteenth century, with a focus on Brazil, Cuba, Colombia, and Spanish Florida. Its earliest sources hail from Cuba and Spanish Florida in the 1590s, and its most recent ones date from the end of slavery in Brazil in 1888. According to its creators, in total the SSDA records the lives of approximately six million free and enslaved Africans and their descendants, along with the indigenous, European, and Asian populations with whom they interacted. What the SSDA has preserved is a treasure trove of material stored primarily in Catholic Church records about the lives and social worlds of Africans and their descendants in the Americas. These sources include baptismal records, wills, marriage certificates, burial records, and sometimes even records of annulments—documents that allow scholars to explore the African identities of diasporic populations and the social, political, and economic networks Africans and their descendants constructed in the Americas. Baptismal records usually list the name, age cohort, African “nation” or ethnicity of the person baptized, their parents (if known), their owner (if enslaved), and the profiles of any godparents participating in the ceremony. Marriage records, in turn, marked down names and “nations” of brides, grooms, their sponsors (often referred to as godparents), and witnesses. Taken together with wills and other secular documents collected by the SSDA, these materials offer an unparalleled view of African “personhood” and community social life in American slave societies. They also provide a powerful counterpoint to the abundant but violently reductive commercial records produced by the transatlantic slave trade and slaveholders’ bookkeeping practices in plantation societies….
+Elena A. Schneider. Reviewed in The American Historical Review, Volume 125, Issue 2, April 2020, Pages 579–581, <https://doi.org/10.1093/ahr/rhz750>: The Slave Societies Digital Archive (SSDA) is one of the longest-running digital projects on the history of Africans and their descendants in the Atlantic World. Formerly known as Ecclesiastical and Secular Sources for Slave Societies, the digital project was launched in 2003 as an NEH-funded collaboration between Jane Landers of Vanderbilt University, Mariza de Carvalho Soares of Universidade Federal Fluminense, and Paul E. Lovejoy of York University. It arrived on the web shortly after Gwendolyn Midlo Hall’s Louisiana Slave Database and the Trans-Atlantic Slave Trade Database (today Slave Voyages) initiated by David Richardson and David Eltis. Unlike these other digital history projects, though, from the beginning SSDA’s core mission has been archival preservation. Landers and her team have focused their resources and energy on identifying, cataloguing, and digitally preserving endangered archival materials located in local parishes in formerly slaveholding societies in Latin America and the Caribbean. The scope of this sixteen-year project is vast. The digital archive now holds approximately seven hundred thousand images of written documents dating from the sixteenth to the nineteenth century, with a focus on Brazil, Cuba, Colombia, and Spanish Florida. Its earliest sources hail from Cuba and Spanish Florida in the 1590s, and its most recent ones date from the end of slavery in Brazil in 1888. According to its creators, in total the SSDA records the lives of approximately six million free and enslaved Africans and their descendants, along with the indigenous, European, and Asian populations with whom they interacted. What the SSDA has preserved is a treasure trove of material stored primarily in Catholic Church records about the lives and social worlds of Africans and their descendants in the Americas. These sources include baptismal records, wills, marriage certificates, burial records, and sometimes even records of annulments—documents that allow scholars to explore the African identities of diasporic populations and the social, political, and economic networks Africans and their descendants constructed in the Americas. Baptismal records usually list the name, age cohort, African “nation” or ethnicity of the person baptized, their parents (if known), their owner (if enslaved), and the profiles of any godparents participating in the ceremony. Marriage records, in turn, marked down names and “nations” of brides, grooms, their sponsors (often referred to as godparents), and witnesses. Taken together with wills and other secular documents collected by the SSDA, these materials offer an unparalleled view of African “personhood” and community social life in American slave societies. They also provide a powerful counterpoint to the abundant but violently reductive commercial records produced by the transatlantic slave trade and slaveholders’ bookkeeping practices in plantation societies….
 
   
 
@@ -1447,9 +1360,6 @@ In his article published by Zócalo Public Square, Graham Hodges explores the li
 
 Published by The New York Times, Jake Silverstein’s article, “An Update to the 1619 Project,” makes a clarification to a passage in an essay from The 1619 Project that sparked a great deal of online debate. Learn more [here](https://www.nytimes.com/2020/03/11/magazine/an-update-to-the-1619-project.html).
 
-  
-
-
 Nearly 6,000 Confederate Slave Payroll records have been digitized by the U.S. National Archives in a multiyear project that concluded in January. The entire collection can now be viewed online. Learn more [here](https://www.archives.gov/news/articles/confederate-slave-payrolls-digitized). 
 
  
@@ -1467,9 +1377,6 @@ New digital tools, including time lapse features and three-dimensional imagery, 
 Amy Murrell Taylor, Professor of History at the University of Kentucky, presented “Freedom Found: Untold Stories of the Civil War’s Refugees from Slavery” on January 26, 2020, in Philadelphia.
 
 Taylor’s newest book, “Embattled Freedom: Journeys through the Civil War’s Slave Refugee Camps” (UNC Press, 2018), has been honored with multiple prizes, including the Frederick Douglass Prize given by the Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition; the Avery O. Craven Award and the Merle Curti Social History Award from the Organization of American Historians; and the Tom Watson Brown Prize from the Society of Civil War Historians. Her full presentation is available to view here: <https://www.readex.com/videos/freedom-found-untold-stories-civil-war%E2%80%99s-refugees-slavery> 
-
-  
-
 
 **The Trans-Atlantic Slave Trade Database**
 
@@ -1624,9 +1531,6 @@ Throughout the 250-year history of slavery in North America, enslaved people tri
 
 African Origins contains information about the migration histories of Africans forcibly carried on slave ships into the Atlantic. Using the personal details of 91,491 Africans liberated by International Courts of Mixed Commission and British Vice Admiralty Courts, this resource makes possible new geographic, ethnic, and linguistic data on peoples captured in Africa and pulled into the slave trade. The African Origins project arose directly from the work of G. Ugo Nwokeji and David Eltis, who in 2002 used audio recordings of names found in Courts of Mixed Commission records for Havana, Cuba, and Freetown, Sierra Leone, to identify likely ethno-linguistic origins. The names in these recordings were pronounced by speakers of the same language and accent that the Courts of Mixed Commission registrars would likely have had (e.g., if the name was written in a Havana register, Eltis and Nwokeji had the name pronounced by a Spanish speaker with a Havana accent). This helped connect the sound of the name to its spelling and thus enabled a more accurate assessment of the name’s possible ethnic origins than provided by its written counterpart alone. Those with knowledge of African languages, cultural naming practices, and ethnic groups can assist in identifying these Africans' origins by drawing on their own expertise to identify the likely ethno-linguistic origin of an individual's name.
 
-  
-
-
 **Slave Biographies**
 
 <http://slavebiographies.org/> 
@@ -1661,7 +1565,7 @@ French-language resources dedicated to the history of Saint-Barthelemy. Document
 
 [http://www.inmotionaame.org](http://www.inmotionaame.org/)
 
-_In Motion: The African-American Migration Experience_ presents more than 16,500 pages of texts, 8,300 illustrations, and more than 60 maps. The Web site is organized around thirteen defining migrations that have formed and transformed African America and the nation.
+In Motion: The African-American Migration Experience presents more than 16,500 pages of texts, 8,300 illustrations, and more than 60 maps. The Web site is organized around thirteen defining migrations that have formed and transformed African America and the nation.
 
 **Digital Library of the Caribbean** 
 
@@ -1672,9 +1576,6 @@ The Digital Library of the Caribbean (dLOC) is a cooperative of partners within 
 **The Atlantic Slave Trade and Slave Life in the Americas: A Visual Record (by the Virginia Foundation for the Humanities, the Digital Media Lab at the University of Virginia Library)**
 
 <http://hitchcock.itc.virginia.edu/Slavery/index.php>
-
-  
-
 
 [Primary Source Sets](https://www.loc.gov/teachers/classroommaterials/primarysourcesets/)
 
@@ -1751,7 +1652,7 @@ The Durham Consistory Court Cause Papers are great for a bit of local gossip and
 
 <http://iiif.durham.ac.uk/jalava/#index/t1cnv935284t/t2c5138jd859/t1c5t34sj56r> 
 
-![](https://lh3.googleusercontent.com/ZUo8eus-IeqBPZybyQZ4-UMwkTP5fFJnXNNLwg7mLvuwGgV_vK5RplIo3xYHjRRLxYClVrJwqI-F6CEFSo0Y2jR1_HgV69nSz3OakKGvPQI78WYY0E4l9UlSrobG7t1lTr8prp9-Svz6GFrM-RLQBw)
+![](https://lh5.googleusercontent.com/ny2ayqZRSEIzjR0-uNBWIKaTPUGBJmw0cN_XkFriFQ935KOzrxQ_RWsLVQR0So4wOD2iikxi2glIWV4Hi_s_mnjki52SmmAV2HNa6sUrOTQdBbmAvTN3NM65upWLNDQc4zSZj3LtTtYUF6na1xv2dw)
 
 
 # 
@@ -1795,33 +1696,34 @@ The Durham Consistory Court Cause Papers are great for a bit of local gossip and
 # 
 
 
-# IMMERSIVE _and_ SPECULATIVE TECHNOLOGIES
+# IMMERSIVE and SPECULATIVE TECHNOLOGIES
 
   
-![](https://lh5.googleusercontent.com/VXrA3rO1h8hJOgDwyFSIkU3HBXt08iZrhEtEZwCthDtBPfgArjpPxHbsxqa5ZTgwaAbRQlmSZA7lKBxW6nHvYi0UIIiIzkdrMiBqYlkuzbPvrWYYtZL91Ti8jyT28pgUMAXcbXt2w8yXOQy9Rop-tA)
+![](https://lh5.googleusercontent.com/AxpSsH1oOAkE78hNadSVVBRcj9oUidH8nHF69_9T5zpTZOUGiofmcfL7vUyodXbPc8UzIncsELLa8qRFTHQD_PPIpmXbl2kPTtCCC4ziG0eQxyuunMwCmh1adxyjNDRC6lBAblXgSHpkw_FaOEFxWQ)
 
-
-## **_Fun with Counterfactuals_**
+Fun with Counterfactuals
 
 What if every separatist movement in North America had succeeded? A counterfactual map and timeline: ​​<http://users.erols.com/mwhite28/misc/balkanus.htm> 
 
+  
 
 
+Articles
 
-## **_Articles_**
+Coates, Charlotte. “How Museums Are Using Augmented Reality.” MuseumNext (blog), July 17, 2021.[ https://www.museumnext.com/article/how-museums-are-using-augmented-reality/](https://www.museumnext.com/article/how-museums-are-using-augmented-reality/).
 
-Coates, Charlotte. “How Museums Are Using Augmented Reality.” _MuseumNext_ (blog), July 17, 2021.[ https://www.museumnext.com/article/how-museums-are-using-augmented-reality/](https://www.museumnext.com/article/how-museums-are-using-augmented-reality/).
+Stevens, Tess. “History in Augmented Reality.” Medium (blog), January 27, 2020.[ https://medium.com/@tesshstevens/history-in-augmented-reality-1bb1f59adb41](https://medium.com/@tesshstevens/history-in-augmented-reality-1bb1f59adb41).
 
-Stevens, Tess. “History in Augmented Reality.” _Medium_ (blog), January 27, 2020.[ https://medium.com/@tesshstevens/history-in-augmented-reality-1bb1f59adb41](https://medium.com/@tesshstevens/history-in-augmented-reality-1bb1f59adb41).
-
-Javornik, Ana. “The Mainstreaming of Augmented Reality: A Brief History.” _Harvard Business Review_, October 4, 2016.[ https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history](https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history).
+Javornik, Ana. “The Mainstreaming of Augmented Reality: A Brief History.” Harvard Business Review, October 4, 2016.[ https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history](https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history).
 
 Mäkilä, Tuomas, Seppo Helle, Lauri Viinikkala, Teijo Lehtonen, Juha-Pekka Arimaa, Olli Heimo, Päivi Nikkola, Timo Korkalainen, and Veijo Pönni. “The Futuristic History Project: Recreating History with Augmented Reality Solutions,” n.d., 5. <http://repo.nodem.org/uploads/The%20Futuristic%20History%20project.pdf> 
 
+  
 
 
+* * *
 
-## **_Augmented Reality (AR) and Virtual Reality (VR) for Education/Entertainment_**
+Augmented Reality (AR) and Virtual Reality (VR) for Education/Entertainment
 
 **Notable Women (Mobile App)** is an augmented reality app that lets anyone see 100 historic American women where they’ve historically been left out: U.S. currency. Discover the accomplishments of activists, artists, scientists, business leaders, writers, civic leaders and more—right on the money in your wallet. <https://apps.apple.com/us/app/notable-women-ar/id1425071635> 
 
@@ -1850,10 +1752,12 @@ Mäkilä, Tuomas, Seppo Helle, Lauri Viinikkala, Teijo Lehtonen, Juha-Pekka Arim
 # 
 
 
-# CONTEMPORARY
 
 
-## * * ***_Social Sciences and Humanities for Social Justice and Public Service_**
+# * * *
+
+
+# COMMUNITY ENGAGEMENT
 
 **Fair and Inclusive Redistricting Mapping Resources**
 
@@ -1894,11 +1798,16 @@ Grinnell College: “We are working our way back in time, beginning with the cur
 
 <https://boardingschoolhealing.org/about-us/> 
 
+  
+
+
+* * *
+
 
 # SOUNDS
 
+  
 
-## **_Recordings Archives_**
 
 **International Dialects of English Archive** is a ****free, online archive of primary-source dialect and accent recordings of the English language. The archive was founded by Paul Meier in 1997 at the University of Kansas and includes hundreds of recordings of English speakers throughout the world. <https://www.dialectsarchive.com/> 
 
@@ -1906,10 +1815,15 @@ Grinnell College: “We are working our way back in time, beginning with the cur
 
 **Excavated Shellac: An Alternative History of the World’s Music (1907-1967)**, project to preserve rare musical recordings from around the world. <https://dust-digital.com/products/excavated-shellac-an-alternate-history-of-the-world-s-music-1907-1967> 
 
+  
 
 
+* * *
 
-## **_Podcasts_**
+  
+
+
+Podcasts
 
 **One From the Vaults (Queer History, Trans History, History of Gender and Sexuality)** is “a trans history podcast by Morgan M Page. We bring you all the dirt, gossip, and glamour from trans history.” <https://soundcloud.com/onefromthevaultspodcast> 
 
