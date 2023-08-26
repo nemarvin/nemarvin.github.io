@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-![National River Park Arkansas](fotoreminismall.jpg){: style="max-width: 50%;"}
+<img src="fotoreminismall.jpg" alt="National River Park Arkansas" width="50%">
 
 I am a cultural and social historian interested in race & religion, slavery & resistance throughout the French colonial world. I teach history at the University of Arkansas at Little Rock, where I am also a Gender Studies affiliate faculty member. In addition to my survey courses on world history, I offer seminars on historical research & digital methods, the Haitian Revolution, Modern France through Film, Global Perspectives on Race, and Revolutions in World History.
 
