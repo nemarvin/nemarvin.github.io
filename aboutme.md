@@ -9,4 +9,4 @@ My current book manuscript examines the politics of whiteness on the Indian Ocea
 
 I am originally from the Piscataqua Region of New England. I live and work in Central Arkansas.
 
-<img src="fotoreminismall.jpg" alt="National River Park Arkansas" width="50%">
+![National_River_Park_Arkansas](fotoreminismall.jpg){width=50%}
