@@ -12,5 +12,5 @@ I am originally from the Piscataqua Region of New England. I live and work in Ce
 ---
 
 <div style="text-align: center;">
-  ![National River Park Arkansas](fotoreminismall.jpg){: style="max-width: 50%;"}
+  ![National River Park Arkansas](fotoreminismaller.jpg)
 </div>
