@@ -6,14 +6,14 @@ title: "Teaching"
 
 # Selected Syllabi
 
-- World History From 1500 ([Link](https://docs.google.com/document/d/12tLsNfJ0I5Fx5eoxqmc_oJ4VGp4EX7ep/preview)))
-- Modern France Through Film (1789-Present) ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
-- Twentieth-Century Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo3fPuFenxel/preview))
-- History of the Atlantic World ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
-- Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
+- Survey: World History From 1500 ([Link](https://docs.google.com/document/d/12tLsNfJ0I5Fx5eoxqmc_oJ4VGp4EX7ep/preview)))
+- Upper Level: Modern France Through Film (1789-Present) ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
+- Upper Level: Twentieth-Century Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo3fPuFenxel/preview))
+- Upper Level: History of the Atlantic World ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
+- Upper Level: Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
 - Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview))
 - Seminar in World History: Global Perspectives on Race (DH Project-Base Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
-- Historical Methods Seminar (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview)) 
+- Seminar on Historical Methods (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview)) 
 
 # Original Materials
 - List of Digital History Resources for Students ([Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit?usp=sharing))
