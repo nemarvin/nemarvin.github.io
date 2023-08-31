@@ -4,7 +4,7 @@ title: "Teaching"
 
 ---
 
-# Selected Syllabi
+# Syllabi
 
 - World History From 1500 ([Link](https://docs.google.com/document/d/12tLsNfJ0I5Fx5eoxqmc_oJ4VGp4EX7ep/preview)))
 - Modern France Through Film (1789-Present) ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
