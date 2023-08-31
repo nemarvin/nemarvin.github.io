@@ -11,8 +11,8 @@ title: "Teaching"
 - Twentieth-Century Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo3fPuFenxel/preview))
 - History of the Atlantic World ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
 - Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
-- Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/e/2PACX-1vT9byjTUHbWRQB5c_eBbvOr0rRbNFD1_HxeGXJy-mgL5BecIjxvQr5i86LuWl-JHw/pub))
-- Global Perspectives on Race (DH Project-Base Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
+- Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/1vT9byjTUHbWRQB5c_eBbvOr0rRbNFD1_HxeGXJy-mgL5BecIjxvQr5i86LuWl-JHw/preview))
+- Seminar in World History: Global Perspectives on Race (DH Project-Base Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
 - Historical Methods Seminar (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)) 
 
 # Original Materials
