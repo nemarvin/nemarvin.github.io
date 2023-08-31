@@ -13,7 +13,7 @@ title: "Teaching"
 - Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
 - Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/1vT9byjTUHbWRQB5c_eBbvOr0rRbNFD1_HxeGXJy-mgL5BecIjxvQr5i86LuWl-JHw/preview))
 - Seminar in World History: Global Perspectives on Race (DH Project-Base Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
-- Historical Methods Seminar (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)) 
+- Historical Methods Seminar (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview)) 
 
 # Original Materials
 - List of Digital History Resources for Students ([Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/edit?usp=sharing))
