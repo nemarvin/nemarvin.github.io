@@ -6,7 +6,8 @@ title: "Teaching"
 
 # Syllabi
 
-- World History From 1500 ([Link](https://docs.google.com/document/d/12tLsNfJ0I5Fx5eoxqmc_oJ4VGp4EX7ep/preview)))
+- World History From 1500 (online/asynchronous) ([Link](https://docs.google.com/document/d/12tLsNfJ0I5Fx5eoxqmc_oJ4VGp4EX7ep/preview)))
+- World History From 1500 (in person) ([Link](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview))
 - Modern France Through Film (1789-Present) ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
 - Twentieth-Century Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo3fPuFenxel/preview))
 - History of the Atlantic World ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
