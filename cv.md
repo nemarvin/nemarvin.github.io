@@ -5,7 +5,8 @@ title: "CV"
 ---
 
 [Link to Formatted PDF Version](https://docs.google.com/document/d/10En4En17DeJadPC6YplzNeQgRdE76q0k/preview)  
-Markdown Version:
+   
+Markdown Version...
 
 # Nathan Elliot Marvin
 
