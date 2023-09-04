@@ -35,9 +35,6 @@ title: "Teaching"
 
 # Original Materials
 
-- List of Digital History Resources for Students ([Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/preview))
-<p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/preview"></iframe></p>
-
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview))
 <p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview"></iframe></p>
 
@@ -49,5 +46,8 @@ title: "Teaching"
 
 - Digital Exhibit Sample: "Arkansas Créole: Rediscovering a Lost Vernacular Landscape" ([Link](https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c))
 <p><iframe style="width: 100%; height: 400px;" src="https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c"></iframe></p>
+
+- List of Digital History Resources for Students ([Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/preview))
+<p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/preview"></iframe></p>
 
 <img src="{{ site.baseurl }}/arles.gif">
