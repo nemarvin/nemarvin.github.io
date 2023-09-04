@@ -14,7 +14,7 @@ Markdown Version:
 Little Rock, Arkansas 72204 |
 Telephone: +1 501-916-6133 |
 Email: nemarvin@ualr.edu |
-Portfolio Website: [nemarvin on github](https://nemarvin.github.io/)
+Portfolio Website: [nemarvin.github.io](https://nemarvin.github.io/)
 
 ## Academic Appointments
 
