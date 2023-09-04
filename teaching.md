@@ -41,13 +41,13 @@ title: "Teaching"
 - Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview))
 <p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview"></iframe></p>
 
+- Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
+<p><iframe style="width: 100%; height: 400px;" src="https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd"></iframe></p>
+
 - Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?" ([Link](https://docs.google.com/document/d/1UW6d3K77pzmF_aZJLdBuh1gwqzq8VWRb/preview))
 <p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1UW6d3K77pzmF_aZJLdBuh1gwqzq8VWRb/preview"></iframe></p>
 
-- Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
-<p><iframe style="width: 100%; height: 600px;" src="https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd"></iframe></p>
-
 - Digital Exhibit Sample: "Arkansas Créole: Rediscovering a Lost Vernacular Landscape" ([Link](https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c))
-<p><iframe style="width: 100%; height: 600px;" src="https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c"></iframe></p>
+<p><iframe style="width: 100%; height: 400px;" src="https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c"></iframe></p>
 
 <img src="{{ site.baseurl }}/arles.gif">
