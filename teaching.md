@@ -24,14 +24,14 @@ title: "Teaching"
 - Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
 <p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview"></iframe></p>
 
-- Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview))
-<p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview"></iframe></p>
-
 - Seminar in World History: Global Perspectives on Race (DH Project-Base Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
 <p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview"></iframe></p>
 
 - Seminar on Historical Methods (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview))
 <p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview"></iframe></p>
+
+- Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview))
+<p><iframe style="width: 100%; height: 600px;" src="https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview"></iframe></p>
 
 # Original Materials
 
