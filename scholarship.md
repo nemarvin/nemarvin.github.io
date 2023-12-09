@@ -18,8 +18,8 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 
 ## Manuscripts
 
-- Dissertation: “Église, État, et Esclavage : Les familles vendues comme « biens nationaux » à l’île de La Réunion pendant la Révolution française” [Link](https://drive.google.com/file/d/1ywHXi5mUUO-OqxAZwqNq_DLvdJ8_UHwt/view?usp=sharing)
-- Essai: “Incertaines catégories raciales” [Link](https://docs.google.com/document/d/1CzxLLipZtUhSqbbFU-m2okYH0g2eXzWX/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true)
+- Dissertation: “Bourbon Island Creoles: Race and Revolution in the French Indian Ocean Colony of Réunion, 1767-1803” [Link](https://drive.google.com/file/d/1ywHXi5mUUO-OqxAZwqNq_DLvdJ8_UHwt/view?usp=drive_link)
+- Essai: “Église, État, et Esclavage : Les familles vendues comme « biens nationaux » à l’île de La Réunion pendant la Révolution française” [Link](https://drive.google.com/file/d/1ywHXi5mUUO-OqxAZwqNq_DLvdJ8_UHwt/view?usp=sharing)
   
 <img src="{{ site.baseurl }}/montstmichel.gif">    
 
