@@ -19,6 +19,8 @@ title: "Teaching"
 - Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
 
 - Seminar in World History: Global Perspectives on Race (DH Project-Base Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
+  
+- The Historian's Craft ([Link](https://docs.google.com/document/d/1p-3HZ_d7Tx7nQX9UHappycZKM5oANXx1/preview))
 
 - Seminar on Historical Methods (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview))
 
