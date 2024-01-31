@@ -9,6 +9,7 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 
 ## Publications
 
+- Book chapter: "Gender, Family, and Social Control: The Catholic Clergy and Slavery in the Eighteenth-Century Mascarenes" [Link] (https://drive.google.com/file/d/1wrS2phtMkgjha5g6sPnsUbgIQzGT8S3Z/view?usp=sharing)
 - Book chapter: “‘Free and Naturalized Frenchwomen’: Gender and the Politics of Race on Revolution-Era Bourbon Island” [Link](https://drive.google.com/file/d/1cMVdzSqllaTQOwYEjVO4FyYmCj5_VFts/view?usp=sharing)
 - Essai: “Incertaines catégories raciales” [Link](https://drive.google.com/file/d/1X4gHCJ25a7Ik6ZrJXyfjogHcZ3ewZH4j/view?usp=sharing)
 - Bibliographical Essay: “France and its Empire in the Indian Ocean” [Link](https://drive.google.com/file/d/1E-aXR8FHurDIJGhWrcERDPEunQA0EhkR/view?usp=sharing)
