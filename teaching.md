@@ -28,7 +28,7 @@ title: "Teaching"
 
 # Original Materials
 
-- Primary Source Reader: "The French Indian Ocean World in the Age of Revolution" ([Link](https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview))
+- Primary Source Reader: "Freedom Deferred: Slavery, Resistance, and Revolution in the French Indian Ocean World" ([Link](https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview))
 
 - Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
 
