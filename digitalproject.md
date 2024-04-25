@@ -3,7 +3,7 @@ layout: page
 title: "Digital Projects"
 ---
 
-Digital humanities projects-in-progress. I welcome suggestions for improvements or corrections.
+Digital humanities projects-in-progress. I welcome suggestions for improvements or corrections. All are featured **[here](https://gislabualr.maps.arcgis.com/home/user.html?user=nmarvin1_GISandData).**
 
 ## Projects Overview
 
