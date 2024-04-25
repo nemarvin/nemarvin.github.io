@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Digital Project"
+title: "Digital Projects"
 
 ---
-I am interested in harnessing the power of digital humanities applications to tell complex and meaningful stories about the past. All of the projects below are works-in-progress, and I welcome feedback, suggestions, and corrections.
+Below are works-in-progress that leverage digital humanities tools to tell stories based on historical data. Your insights, feedback, and suggestions are appreciated.
 
 **Enslaved by the Church**
 
