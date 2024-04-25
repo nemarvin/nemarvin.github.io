@@ -3,7 +3,7 @@ layout: page
 title: "Digital Projects"
 
 ---
-Below are works-in-progress that leverage digital humanities tools to tell stories based on historical data. Your insights, feedback, and suggestions are appreciated.
+Below are works-in-progress that leverage digital humanities tools to tell stories based on historical data. Please send me your suggestions for improvements, additions, and corrections.
 
 **Enslaved by the Church**
 
