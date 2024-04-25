@@ -24,8 +24,7 @@ Map App: ([Link](https://gisanddata.maps.arcgis.com/home/item.html?id=7e0613a6a0
 
 **French Maritime Connections between Atlantic and Indian Ocean**
 
-"This Unalterable Friendship" ([Link](https://gisanddata.maps.arcgis.com/home/item.html?id=f7eb9937a53846c4ab0f1f1812d24a7c))
-"Creoles Far From Our Land" ([Link](https://gisanddata.maps.arcgis.com/home/item.html?id=a4727bb429634c28a27c7b217e345419))
+"This Unalterable Friendship" ([Link](https://gisanddata.maps.arcgis.com/home/item.html?id=f7eb9937a53846c4ab0f1f1812d24a7c)) || "Creoles Far From Our Land" ([Link](https://gisanddata.maps.arcgis.com/home/item.html?id=a4727bb429634c28a27c7b217e345419))
 
 Two digital history projects that explore the maritime connections between Mauritius and the Atlantic world during significant historical transitions. The first project, "Creoles Far From Our Land," focuses on J. B. Tabardin, a Mauritian sailor whose early 19th-century memoirs provide insights into the era of the Revolutionary Wars. His accounts offer a unique perspective on the global repercussions of the Atlantic Revolutions, highlighting their impact on Creoles of color and discussing themes of race, national belonging, and masculinity.
 
