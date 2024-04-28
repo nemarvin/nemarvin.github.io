@@ -5,7 +5,7 @@ title: "Digital Projects"
 
 Digital humanities projects-in-progress. I welcome suggestions for improvements or corrections. All projects and their descriptions are featured **[here](https://gislabualr.maps.arcgis.com/home/user.html?user=nmarvin1_GISandData).**
 
-## Projects Overview
+## Quick Links
 
 ### Enslaved by the Church
 - **[English Version](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048)**
