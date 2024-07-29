@@ -16,7 +16,7 @@ Digital humanities projects-in-progress. I welcome suggestions for improvements 
 ### French Maritime Connections between the Atlantic and Indian Ocean Worlds
 ["This Unalterable Friendship"](https://storymaps.arcgis.com/stories/5a50f7f5c7824506a3256a0e8b496dcf), ["Creoles Far From Our Land"](https://storymaps.arcgis.com/stories/a4727bb429634c28a27c7b217e345419)
 
-![Image description needed]({{ site.baseurl }}/caen2.gif)
+![garden, abbaye-aux-hommes, caen, normandie]({{ site.baseurl }}/caen2.gif)
 
 *Please check back for updates.*
 
