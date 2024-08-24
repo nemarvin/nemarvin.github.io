@@ -6,7 +6,7 @@ title: "Teaching"
 
 # Syllabi
 
-- World History From 1500 (in person) ([Link](https://docs.google.com/document/d/1ygubXu9zywnS6dW1aNrCxbtlq1E-tj9t/preview))
+- World History From 1500 (in person) ([Link](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview))
 
 - World History From 1500 (asynchronous) ([Link](https://docs.google.com/document/d/1QJX575XygLDytb94CZhHcAjSrAwDWxPj/preview))
 
