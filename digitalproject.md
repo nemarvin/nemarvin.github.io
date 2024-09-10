@@ -11,6 +11,7 @@ Digital humanities projects-in-progress. I welcome suggestions for improvements 
 - [Map App](https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e89b39a7dadf4f6fb5184b7c694f02ac)  
 - [StoryMap Narrative (English)](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048)  
 - [StoryMap Narrative (Français)](https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422)  
+- [StoryMap Detail ("Les Ventes / 1793")](https://arcg.is/1SKG4u0)
 
 ### Arkansas Créole
 - [Map App](https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336)  
