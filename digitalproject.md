@@ -14,7 +14,7 @@ Digital humanities projects-in-progress. I welcome suggestions for improvements 
 
 ### Arkansas Créole
 - [Map App](https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336)  
-- [StoryMap Narrative](https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c)  
+- [StoryMap Narrative](https://storymaps.arcgis.com/stories/ab8d60a903104d4ba8e2f21e60602b5d)  
 
 ### French Indian Ocean World
 - ["This Unalterable Friendship"](https://storymaps.arcgis.com/stories/5a50f7f5c7824506a3256a0e8b496dcf)  
