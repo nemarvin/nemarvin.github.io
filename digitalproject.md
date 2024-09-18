@@ -37,6 +37,7 @@ Why was this distant island port such a draw for Yankee captains? This map-based
 American merchants also witnessed the ripple effects of the Haitian Revolution and France's 1794 Abolition Decree. In 1796, Mauritius saw a revolt where local elites expelled French commissioners sent to enforce abolition. American merchants, driven by economic interests, supported the coup. This episode highlights the global dimensions of the early United States' Indian Ocean ventures in all their complexity. Research for this project was made possible in part by a Boston Athenaeum Library Fellowship from the American Society of Eighteenth-Century Studies.
 
 ![Screenshots from "This Unalterable Friendship" with key locations from the pro-slavery coup of 1796 in Port-Louis (Mauritius) superimposed onto georeferenced historic maps. Accessed September 9, 2024.](image6.png)
+![Screenshots from "This Unalterable Friendship" with key locations from the pro-slavery coup of 1796 in Port-Louis (Mauritius) superimposed onto georeferenced historic maps. Accessed September 9, 2024.](image5.png)
 
 ### Explore
 - [This Unalterable Friendship](https://storymaps.arcgis.com/stories/5a50f7f5c7824506a3256a0e8b496dcf)
@@ -47,7 +48,7 @@ American merchants also witnessed the ripple effects of the Haitian Revolution a
 
 When French revolutionaries seized the assets of the Catholic Church as "national property," the enslaved people living on those properties in the colonies were not spared. This first-of-its-kind interactive atlas documents all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. A separate digital narrative feature zooms in on what happened on Réunion Island in 1793, when an agent of the French Republic oversaw the final appraisals or auctions of 365 men, women, and children. Read "between the lines," his detailed reports show glimpses of resistance by enslaved people and their allies as they intervened in the process to keep families united.
 
-![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image5.png)
+![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image1.png)
 ![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image2.png)
 
 ### Explore
