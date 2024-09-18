@@ -48,6 +48,7 @@ American merchants also witnessed the ripple effects of the Haitian Revolution a
 When French revolutionaries seized the assets of the Catholic Church as "national property," the enslaved people living on those properties in the colonies were not spared. This first-of-its-kind interactive atlas documents all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. A separate digital narrative feature zooms in on what happened on Réunion Island in 1793, when an agent of the French Republic oversaw the final appraisals or auctions of 365 men, women, and children. Read "between the lines," his detailed reports show glimpses of resistance by enslaved people and their allies as they intervened in the process to keep families united.
 
 ![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image5.png)
+![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image2.png)
 
 ### Explore
 - [Map App](https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e89b39a7dadf4f6fb5184b7c694f02ac)  
