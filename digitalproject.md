@@ -25,7 +25,7 @@ Map App Companion to "Arkansas Créole." Click the points on the map to reveal t
 
 ---
 
-## This Unalterable Friendship: New England Merchants in the French Indian Ocean Islands
+## "This Unalterable Friendship": New England Merchants in the French Indian Ocean Islands
 
 From 1786 to 1810, the most important point of origin for ships calling at Port Louis, on what was then the French colony of Isle de France (Mauritius), was Boston, with 86 vessels registered. Ships also came from other American ports, including Salem, Newburyport, and Gloucester (Massachusetts); Philadelphia; New York; Baltimore; Providence; New Haven; Nantucket; Portsmouth (N.H.); and Pepperrellborough (today's Saco, Maine).
 
@@ -56,7 +56,7 @@ When French revolutionaries seized the assets of the Catholic Church as "nationa
 
 ---
 
-## Creoles Far From Our Land: Mapping the Global Peregrinations of Jean-Baptiste Tabardin
+## "Creoles Far From Our Land": Mapping the Global Peregrinations of Jean-Baptiste Tabardin
 
 Jean-Baptiste Tabardin was an extraordinary figure. Born to an enslaved mother on the French Indian Ocean colony of Isle de France (Mauritius), he left behind an illustrated manuscript detailing his travels throughout the Indian and Atlantic Oceans during the French Revolutionary Wars. This project illuminates Tabardin's journeys through a maritime world reshaped by the American, French, and Haitian Revolutions. Over five voyages between 1798 and 1811, including several aboard French privateering ships, we follow his reflections on race, religion, sex and masculinity, slavery, and abolition. His wide-ranging memoir, produced for future generations of his family and now housed in the manuscript collections of the Carnegie Library of Mauritius, offers an unparalleled perspective on these subjects in the French language.
 
