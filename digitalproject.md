@@ -5,9 +5,6 @@ title: "Digital Projects"
 
 Digital humanities projects-in-progress. I welcome suggestions for improvements or corrections. All projects and their descriptions are featured below.
 
-
-# DH Projects Portfolio
-
 ---
 
 ## Arkansas Créole: Recovering a Lost Vernacular Landscape
