@@ -8,7 +8,6 @@ title: "Scholarship"
 GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAAJ&amp;hl=en)
 
 ## Publications
-## Publications
 
 ### 1. Online Article
 ![pub1](pub1.png)
