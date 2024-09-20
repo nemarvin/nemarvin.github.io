@@ -12,44 +12,44 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 
 ### 1. Online Article
 ![pub1](pub1.png)
-**Title:** [Église, État, et Esclavage : Les familles vendues comme « biens nationaux » à l’île de La Réunion pendant la Révolution française](https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/)  
+**Link:** [Église, État, et Esclavage : Les familles vendues comme « biens nationaux » à l’île de La Réunion pendant la Révolution française](https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/)  
 *(Also available in Portuguese and English)*
 
 ---
 
 ### 2. Book Chapter
 ![pub2](pub2.png)
-**Title:** [Gender, Family, and Social Control: The Catholic Clergy and Slavery in the Eighteenth-Century Mascarenes](https://drive.google.com/file/d/1wrS2phtMkgjha5g6sPnsUbgIQzGT8S3Z/view?usp=sharing)
+**Link:** [Gender, Family, and Social Control: The Catholic Clergy and Slavery in the Eighteenth-Century Mascarenes](https://drive.google.com/file/d/1wrS2phtMkgjha5g6sPnsUbgIQzGT8S3Z/view?usp=sharing)
 
 ---
 
 ### 3. Book Chapter
 ![pub3](pub3.png)
-**Title:** [‘Free and Naturalized Frenchwomen’: Gender and the Politics of Race on Revolution-Era Bourbon Island](https://drive.google.com/file/d/1ro_OSNdbyXvhlbsgDIOxa0Bu_vPYurnD/view?usp=sharing)
+**Link:** [‘Free and Naturalized Frenchwomen’: Gender and the Politics of Race on Revolution-Era Bourbon Island](https://drive.google.com/file/d/1ro_OSNdbyXvhlbsgDIOxa0Bu_vPYurnD/view?usp=sharing)
 
 ---
 
 ### 4. Bibliographical Essay
 ![pub4](pub4.png)
-**Title:** [France and its Empire in the Indian Ocean](https://drive.google.com/file/d/1E-aXR8FHurDIJGhWrcERDPEunQA0EhkR/view?usp=sharing)
+**Link:** [France and its Empire in the Indian Ocean](https://drive.google.com/file/d/1E-aXR8FHurDIJGhWrcERDPEunQA0EhkR/view?usp=sharing)
 
 ---
 
 ### 5. Article
 ![pub5](pub5.png)
-**Title:** [The ‘Ambroise Affair’: White Women, Black Men, and the Limits of Métissage in Revolution-Era Réunion](https://drive.google.com/file/d/13HDaWQDQkAgnthVORFdYn4tqqhlsAguF/view?usp=sharing)
+**Link:** [The ‘Ambroise Affair’: White Women, Black Men, and the Limits of Métissage in Revolution-Era Réunion](https://drive.google.com/file/d/13HDaWQDQkAgnthVORFdYn4tqqhlsAguF/view?usp=sharing)
 
 ---
 
 ### 6. Essai Documentaire
 ![pub6](pub6.png)
-**Title:** [Instructions du Ministère de la Marine, concernant la tolérance envers l’islam et l’hindouisme dans les colonies françaises de l’Océan indien sous l’Ancien Régime](https://www.cairn.info/revue-outre-mers-2015-2-page-285.htm)
+**Link:** [Instructions du Ministère de la Marine, concernant la tolérance envers l’islam et l’hindouisme dans les colonies françaises de l’Océan indien sous l’Ancien Régime](https://www.cairn.info/revue-outre-mers-2015-2-page-285.htm)
 
 ---
 
 ### 7. Book Chapter
 ![pub7](pub7.png)
-**Title:** [‘A Thousand Prejudices’: French Habitants and Catholic Missionaries in the Making of the Old Northwest, 1795-1805](https://drive.google.com/file/d/11tlLSyZsk0CGviQG3r8ItdsuyUudYvXS/view?usp=sharing)
+**Link:** [‘A Thousand Prejudices’: French Habitants and Catholic Missionaries in the Making of the Old Northwest, 1795-1805](https://drive.google.com/file/d/11tlLSyZsk0CGviQG3r8ItdsuyUudYvXS/view?usp=sharing)
 
 ---
 
