@@ -8,7 +8,7 @@ title: "Teaching"
 
 - World History From 1500 (in person) ([Link](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview))
 
-- World History From 1500 (asynchronous) ([Link](https://docs.google.com/document/d/1QJX575XygLDytb94CZhHcAjSrAwDWxPj/preview))
+- World History From 1500 (asynchronous) ([Link](https://docs.google.com/document/d/17qtBqhWVAU3YduR3V3xXxgbJH6urqSb9Er5BqSIpNoE/preview))
 
 - Modern France Through Film (1789-Present) ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
 
