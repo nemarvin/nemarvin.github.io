@@ -60,4 +60,4 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 ---
 
 
-<img src="/montstmichel.gif" style="height: 200px;">
+<img src="{{ site.baseurl }}/montstmichel.gif">    
