@@ -7,10 +7,17 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 
 ## Publications
 
+---
+### Special Issue
+<img src="pub0.png" alt="pub2" style="height: 200px;">
+**Link:** [Gender in Slave and Post-Emancipation Societies](https://doi.org/10.4000/11oa3)
+*(Available in English, French, and Spanish)*
+
+---
 ### Online Article
 <img src="pub1.png" alt="pub1" style="height: 200px;">
 **Link:** [Église, État, et Esclavage : Les familles vendues comme « biens nationaux » à l’île de La Réunion pendant la Révolution française](https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/)  
-*(Also available in Portuguese and English)*
+*(Available in French, Portuguese, and English)*
 
 ---
 
