@@ -7,7 +7,7 @@ GoogleScholar Page: [Link](https://scholar.google.com/citations?user=8jtmeYUAAAA
 
 ## Publications
 
----
+
 ### Special Issue
 <img src="pub0.png" alt="pub0" style="height: 200px;">
 
