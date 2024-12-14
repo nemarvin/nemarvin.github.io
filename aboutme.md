@@ -7,6 +7,4 @@ I am a historian specializing in the French colonial world. My current book proj
 
 I teach history at the University of Arkansas at Little Rock, where I am also a Gender Studies affiliate faculty member.
 
-I was born and raised in New Hampshire.
-
 ![National_River_Park_Arkansas](fotoreminismaller.jpg)
