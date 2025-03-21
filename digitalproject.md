@@ -21,7 +21,6 @@ When French revolutionaries seized the assets of the Catholic Church as "nationa
 - [StoryMap Detail ("Les Ventes / 1793")](https://arcg.is/1SKG4u0)
 
 ---
----
 
 ## Arkansas Créole: Recovering a Lost Vernacular Landscape
 
