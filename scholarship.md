@@ -17,6 +17,12 @@
 
 ---
 
+### Magazine Article
+![pub8](pub8.png)
+
+**Link:** [Looking for “Petit Jean”: Legacies of French-Colonial Louisiana in Arkansas](https://64parishes.org/looking-for-petit-jean)  
+
+---
 ### Book Chapter
 ![pub2](pub2.png)
 
