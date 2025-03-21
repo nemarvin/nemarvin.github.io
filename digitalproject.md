@@ -7,6 +7,22 @@ Digital humanities projects-in-progress. I welcome suggestions for improvements 
 
 ---
 
+## Enslaved by the Church, Sold for the Republic
+
+When French revolutionaries seized the assets of the Catholic Church as "national property," the enslaved people living on those properties in the colonies were not spared. This first-of-its-kind interactive atlas documents all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. A separate digital narrative feature zooms in on what happened on Réunion Island in 1793, when an agent of the French Republic oversaw the final appraisals or auctions of 365 men, women, and children. Read "between the lines," his detailed reports show glimpses of resistance by enslaved people and their allies as they intervened in the process to keep families united.
+
+![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image3.png)
+![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image5.png)
+
+### Explore
+- [Map App](https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e89b39a7dadf4f6fb5184b7c694f02ac)  
+- [StoryMap Narrative (English)](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048)  
+- [StoryMap Narrative (Français)](https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422)  
+- [StoryMap Detail ("Les Ventes / 1793")](https://arcg.is/1SKG4u0)
+
+---
+---
+
 ## Arkansas Créole: Recovering a Lost Vernacular Landscape
 
 ![Screenshot from "Arkansas Créole," with open pop-up highlighting a selected location. Accessed September 9, 2024.](image1.png)
@@ -38,21 +54,6 @@ American merchants also witnessed the ripple effects of the Haitian Revolution a
 
 ### Explore
 - [This Unalterable Friendship](https://storymaps.arcgis.com/stories/5a50f7f5c7824506a3256a0e8b496dcf)
-
----
-
-## Enslaved by the Church, Sold for the Republic
-
-When French revolutionaries seized the assets of the Catholic Church as "national property," the enslaved people living on those properties in the colonies were not spared. This first-of-its-kind interactive atlas documents all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. A separate digital narrative feature zooms in on what happened on Réunion Island in 1793, when an agent of the French Republic oversaw the final appraisals or auctions of 365 men, women, and children. Read "between the lines," his detailed reports show glimpses of resistance by enslaved people and their allies as they intervened in the process to keep families united.
-
-![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image3.png)
-![Screenshots from "Enslaved by the Church," with names and relationships of victims of 1793, Reunion Island.](image5.png)
-
-### Explore
-- [Map App](https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e89b39a7dadf4f6fb5184b7c694f02ac)  
-- [StoryMap Narrative (English)](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048)  
-- [StoryMap Narrative (Français)](https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422)  
-- [StoryMap Detail ("Les Ventes / 1793")](https://arcg.is/1SKG4u0)
 
 ---
 
