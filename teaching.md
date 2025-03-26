@@ -23,7 +23,7 @@ Modern Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo
 Atlantic World and Beyond ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
 
 ![Revolutions in World History]({{ site.baseurl }}/TeachRevsWorld.png "Screenshot from French Revolution Assassin's Creed video game. Students can analyze video and cutscenes in the course.")  
-Revolutions in World Hist ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
+Revolutions in History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
 
 ![Seminar in World History: Global Perspectives on Race]({{ site.baseurl }}/TeachSemRace.png "Photograph from inside the Bowen Law Library special collections; students examine original paperwork from the race-based freedom lawsuit of Abby Guy (1850s, Arkansas).")  
 Global Perspectives on Race ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
