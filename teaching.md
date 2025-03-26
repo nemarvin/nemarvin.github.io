@@ -31,7 +31,7 @@ Global Perspectives on Race ([Link](https://docs.google.com/document/d/1qI3VulFp
 ![The Historian's Craft]({{ site.baseurl }}/TeachHistUndergradMethods.png "Interior of the Boston Athenaeum, Private Library (my photo). Critical exploration of archives is essential to the course.")  
 Historian's Craft ([Link](https://docs.google.com/document/d/1p-3HZ_d7Tx7nQX9UHappycZKM5oANXx1/preview))
 
-![Seminar on Historical Methods (Graduate)]({{ site.baseurl }}/TeachHistMethodsGrad.png "Photo from an archival document from Réunion Island (1793) related to the 'Ambroise Affaire,' which students study in depth in the course.")  
+![Seminar on Historical Methods (Graduate)]({{ site.baseurl }}/TeachHistMethodsGrad.png "Archival document from Réunion Island (1793) related to the 'Ambroise Affaire,' which students study in depth in the course.")  
 Historical Methods (Grad) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview))
 
 ![Seminar in World History: Haitian Revolution]({{ site.baseurl }}/TeachHaitianRev.png "Original map depicting sites impacted by Haitian Revolution in North America (inspired revolts or refugee settlement). Understanding the global repercussions of this event is central to the course.")  
@@ -45,8 +45,6 @@ Haitian Rev in World Hist ([Link](https://docs.google.com/document/d/1_dFZoTgSPi
 - Digital Storytelling Sample: "The Life and Legacy of Mother Lange: A Haitian-American Educator in Revolution-Era Baltimore" ([Link](https://storymaps.arcgis.com/stories/6d7e71f256ab4debae028fb5b633bdbd))
 
 - Methods Course Exercise: "A Colonial 'Return of Martin Guerre'?" ([Link](https://docs.google.com/document/d/1UW6d3K77pzmF_aZJLdBuh1gwqzq8VWRb/preview))
-
-- Digital Exhibit Sample: "Arkansas Créole: Rediscovering a Lost Vernacular Landscape" ([Link](https://storymaps.arcgis.com/stories/f7eb9937a53846c4ab0f1f1812d24a7c))
 
 - List of Digital History Resources for Students ([Link](https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/preview))
 
