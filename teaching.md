@@ -8,34 +8,34 @@ title: "Teaching"
 # Syllabi
 
 ![World History From 1500 (in person)]({{ site.baseurl }}/TeachWorldHistFTF.png "Detail from the illustrated manuscript, 'La Vie ou aventures de J.-B. Tabardin,' ca. 1805, housed in the Carnegie Library of Curepipe, Mauritius. Memoirs of a Creole privateer. Original translation used as a primary source with students.")  
-World History From 1500 (in person) ([Link](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview))
+World Hist from 1500 (in person) ([Link](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview))
 
 ![World History From 1500 (asynchronous)]({{ site.baseurl }}/TeachWorldHistOnline.png "Haitian postage stamps depicting 'the Unknown Maroon,' symbol of resistance to slavery. The Haitian Revolution features prominently in this course.")  
-World History From 1500 (asynchronous) ([Link](https://docs.google.com/document/d/17qtBqhWVAU3YduR3V3xXxgbJH6urqSb9Er5BqSIpNoE/preview))
+World Hist from 1500 (asynchronous) ([Link](https://docs.google.com/document/d/17qtBqhWVAU3YduR3V3xXxgbJH6urqSb9Er5BqSIpNoE/preview))
 
 ![Modern France Through Film (1789–Present)]({{ site.baseurl }}/TeachFrencHist.png "Photograph from the 'Pantheonization' of Josephine Baker (30 Nov. 2021). Baker's life and legacy are explored in depth in the course.")  
-Modern France Through Film (1789–Present) ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
+Modern France from 1750 ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
 
 ![Twentieth-Century Europe]({{ site.baseurl }}/TeachModernEuro.png "Still from Senso (1954), film by Luchino Visconti. Film, opera, and propaganda posters are analyzed in this course.")  
-Twentieth-Century Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo3fPuFenxel/preview))
+Modern Europe ([Link](https://docs.google.com/document/d/1AmCxEgQUcqxwUjT3YtKEfo3fPuFenxel/preview))
 
 ![History of the Atlantic World]({{ site.baseurl }}/TeachAtlanticWorld.png "Word cloud resulting from a text-mining experiment based on the entries composed for 'Oxford Bibliographies: Atlantic History' series; one of the goals of the course is to critically interrogate Atlantic studies as a field of inquiry.")  
-History of the Atlantic World ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
+Atlantic World and Beyond ([Link](https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview))
 
 ![Revolutions in World History]({{ site.baseurl }}/TeachRevsWorld.png "Screenshot from French Revolution Assassin's Creed video game. Students can analyze video and cutscenes in the course.")  
-Revolutions in World History ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
+Revolutions in World Hist ([Link](https://docs.google.com/document/d/1WkrzMls7drYKM8t-_WDqJt2sfxVG8XL53zwjI-y6Y7o/preview))
 
 ![Seminar in World History: Global Perspectives on Race]({{ site.baseurl }}/TeachSemRace.png "Photograph from inside the Bowen Law Library special collections; students examine original paperwork from the race-based freedom lawsuit of Abby Guy (1850s, Arkansas).")  
-Seminar in World History: Global Perspectives on Race (DH Project-Based Course) ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
+Global Perspectives on Race ([Link](https://docs.google.com/document/d/1qI3VulFpNQr1wsPlxu8YOW3VgEVPoFOx/preview))
 
 ![The Historian's Craft]({{ site.baseurl }}/TeachHistUndergradMethods.png "Interior of the Boston Athenaeum, Private Library (my photo). Critical exploration of archives is essential to the course.")  
-The Historian's Craft ([Link](https://docs.google.com/document/d/1p-3HZ_d7Tx7nQX9UHappycZKM5oANXx1/preview))
+Historian's Craft ([Link](https://docs.google.com/document/d/1p-3HZ_d7Tx7nQX9UHappycZKM5oANXx1/preview))
 
 ![Seminar on Historical Methods (Graduate)]({{ site.baseurl }}/TeachHistMethodsGrad.png "Photo from an archival document from Réunion Island (1793) related to the 'Ambroise Affaire,' which students study in depth in the course.")  
-Seminar on Historical Methods (Graduate) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview))
+Historical Methods (Grad) ([Link](https://docs.google.com/document/d/1wAJgaCgIgv1O2BHGSLWh-g3WLSV8gDv-/preview))
 
 ![Seminar in World History: Haitian Revolution]({{ site.baseurl }}/TeachHaitianRev.png "Original map depicting sites impacted by Haitian Revolution in North America (inspired revolts or refugee settlement). Understanding the global repercussions of this event is central to the course.")  
-Seminar in World History: Haitian Revolution ([Link](https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview))
+Haitian Rev in World Hist ([Link](https://docs.google.com/document/d/1_dFZoTgSPifFJswXEmFPguYMD86tAD0D/preview))
 
 
 # Original Materials
