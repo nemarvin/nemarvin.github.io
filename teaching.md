@@ -11,7 +11,7 @@ title: "Teaching"
 World Hist from 1500 ([Link](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview))
 
 ![World History From 1500 (asynchronous)]({{ site.baseurl }}/TeachWorldHistOnline.png "Haitian postage stamps depicting 'the Unknown Maroon,' symbol of resistance to slavery. The Haitian Revolution features prominently in this course.")  
-World Hist from 1500 (asynch) ([Link]((https://docs.google.com/document/d/1VLeapD7tXd1Evtr60N6C0jREkNmtsRqO6jYI7wmaHgY/preview)))
+World History from 1500 (asynchronous) [Link](https://docs.google.com/document/d/1VLeapD7tXd1Evtr60N6C0jREkNmtsRqO6jYI7wmaHgY/preview)
 
 ![Modern France Through Film (1789–Present)]({{ site.baseurl }}/TeachFrencHist.png "Photograph from the 'Pantheonization' of Josephine Baker (30 Nov. 2021). Baker's life and legacy are explored in depth in the course.")  
 Modern France from 1750 ([Link](https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview))
