@@ -13,12 +13,12 @@ title: "CV"
 
 📞+1 603-296-5621 | ✉️ nemarvin@ualr.edu | 🌐 [https://nemarvin.github.io](https://nemarvin.github.io)
 
----
 
 ### **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 – present.
 
+---
 ### **Education**
 
 2018	Ph.D., History, Johns Hopkins University (Baltimore, Maryland)
@@ -27,6 +27,7 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2010	B.A. (Hons.), History, French, Wesleyan University (Middletown, Connecticut)
 
+---
 ### **Publications**
 
 #### **Journal Article (Peer Review)**
@@ -87,6 +88,7 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 * “Arkansas Créole” (digital humanities resource, in preparation). [Link](https://arcg.is/1izPe01)
 
+---
 ### **Awards** 
 
 #### **Research**
@@ -122,7 +124,6 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 2015	*Dean’s Teaching Fellowship, Krieger School of Arts & Sciences, Johns Hopkins University.* Awarded to advanced PhD students to support independent undergraduate course design and instruction.
 
 ---
-
 ### **Presentations**
 
 #### **Conferences** 
@@ -249,7 +250,8 @@ Sept. 2019 	“Karl Marx’s *The Eighteenth Brumaire of Louis Bonaparte* and Hi
 
 March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
 
-### **Courses Designed**
+---
+**Courses Taught**
 
 #### **Global History**
 
@@ -282,7 +284,6 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 * University of Arkansas at Little Rock (Instructor of Record)
 
 ---
-
 ### **Service**
 
 #### **Professional**
@@ -330,7 +331,6 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 * Volunteer Judge, Central Arkansas History Day Competition (2019–2025)
 
 ---
-
 ### **Other Relevant Employment**
 
 * GIS Assistant, Eisenhower Library, Johns Hopkins University, Baltimore, Maryland (2015–2018)
@@ -340,7 +340,6 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 * Website Translator, Institut d’études de l’Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris, France (2009)
 
 ---
-
 ### **Languages**
 
 * **English**: Native fluency (speaking, reading, writing)
@@ -390,7 +389,6 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 * Zotero – Bibliographic and citation management
 
 ---
-
 ### **Affiliations**
 
 * American Historical Association (AHA)
@@ -412,7 +410,6 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 * Western Society for French History (WSFH)
 
 ---
-
 ### **References**
 
 * Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University – [speabody@wsu.edu](mailto:speabody@wsu.edu) 
