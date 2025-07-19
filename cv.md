@@ -3,7 +3,6 @@ layout: page
 title: "CV"
 
 ---
-[Updated July 2025]
 
 **Nathan Elliot Marvin**
 
