@@ -13,13 +13,13 @@ title: "CV"
 
 📞+1 603-296-5621 | ✉️ nemarvin@ualr.edu | 🌐 [https://nemarvin.github.io](https://nemarvin.github.io)
 
-___
+---
 
-###**Academic Appointments**
+### **Academic Appointments**
 
 Assistant Professor of History, University of Arkansas at Little Rock, August 2018 – present.
 
-###**Education**
+### **Education**
 
 2018	Ph.D., History, Johns Hopkins University (Baltimore, Maryland)
 
@@ -27,27 +27,27 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2010	B.A. (Hons.), History, French, Wesleyan University (Middletown, Connecticut)
 
-###**Publications**
+### **Publications**
 
-####**Journal Article (Peer Review)**
+#### **Journal Article (Peer Review)**
 
 2018	“The ‘Ambroise Affair’: White Women, Black Men, and the Limits of Métissage in Revolution-Era Réunion.” *French History* 32, no. 4 (Dec. 2018): 493–510.
 
-####**Book Chapter (Peer Review)**
+#### **Book Chapter (Peer Review)**
 
 2023	“‘Free and Naturalized Frenchwomen’: Gender and the Politics of Race on Revolution-Era Bourbon Island.” In *Fertility, Family, and Social Welfare between France and Empire: The Colonial Politics of Population*, edited by Margaret Cook Andersen and Melissa K. Byrnes, 59–87. London: Palgrave Macmillan, 2023\.
 
-####**Essay (Peer Review)**
+#### **Essay (Peer Review)**
 
 2019	“France and its Empire in the Indian Ocean” (with Blake Smith). In *Oxford Bibliographies: Atlantic History*, edited by Trevor Burnard, Oxford University Press, July 31, 2019\.
 
-####**Book Chapters (Editorial Review)**
+#### **Book Chapters (Editorial Review)**
 
 2023	“Gender, Family, and Social Control on Plantations Managed by the Catholic Clergy in the Eighteenth-Century Mascarenes.” In *Women in the Making of Mauritian History*, 2nd ed., edited by Steve Sénèque and Vijaya Teelock, 75–96. Rose-Hill, Mauritius: Éditions de l'Océan Indien, 2023\.
 
 2015	“‘A Thousand Prejudices’: French Habitants and Catholic Missionaries in the Making of the Old Northwest, 1795–1805.” In *Une Amérique française, 1760–1860: dynamiques du corridor créole*, edited by Guillaume Teasdale and Tangi Villerbu, 113–140. Paris: Les Indes savantes, 2015\.
 
-####**Essays (Editorial Review)**
+#### **Essays (Editorial Review)**
 
 2024	“Gender and Slavery in Global Contexts: Lessons from the Historiographies of Africa and its Diasporas” (Sarah Zimmerman). *Esclavages & post-esclavages* no. 9 (May 2024): 1–16.
 
@@ -55,9 +55,9 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2015	“Instructions du Ministère de la Marine, concernant la tolérance envers l’islam et l’hindouisme dans les colonies françaises de l’Océan indien sous l’Ancien Régime.” *Outre-Mers Revue d’Histoire* 103, no. 388–389 (December 2015): 285–290.
 
-####**Public Scholarship (Editorial Review)**
+#### **Public Scholarship (Editorial Review)**
 
-2025	Magazine Article: “Looking for ‘Petit Jean’: Legacies of French-Colonial Louisiana in Arkansas.” *64 Parishes* (Louisiana Endowment for the Humanities), Spring 2025\. [Link](https://64parishes.org/looking-for-petit-jean).
+2025	Magazine Article: “Looking for ‘Petit Jean’: Legacies of French-Colonial Louisiana in Arkansas.” *64 Parishes* (Louisiana Endowment for the Humanities), Spring 2025\. [Link](https://64parishes.org/looking-for-petit-jean)
 
 2024	Online Feature: “Furcy Madeleine and Abby Guy: Translating Histories of Slavery and Freedom in Arkansas.” *Imaginaries* 14, no. 2 (Summer 2024). [Link](https://h-france.net/imaginaries/all-issues/volume-14-issue-2-summer-2024-lessons-on-mounting-a-museum-exhibit-furcy-madeleine-from-reunion-to-little-rock-arkansas/furcy-madeleine-and-abby-guy-translating-histories-of-slavery-and-freedom-in-arkansas/)
 
@@ -65,17 +65,17 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2023	Online Feature: “Les esclaves vendus comme ‘biens nationaux’ pendant la Révolution française.” *Portail du Musée historique de Villèle*, Réunion. [Link](https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/)
 
-####**Editorial Work**
+#### **Editorial Work**
 
 2024		Co-Editor (with Sarah Zimmerman), *Esclavages & post-esclavages*, no. 9, “Gender in Slave and Post-Emancipation Societies” (special issue).
 
-####**Review Essays**
+#### **Review Essays**
 
 2025	Review of *Malgaches et Vazaha à Tamatave (1854–1885): Métissages et médiations sur la côte Est de Madagascar*, by Dominique Bois. *Politique africaine*, no. 175–176 (2024/3–4): 237–239.
 
 2022	“Review of *Archipelago of Justice: Law in France's Early Modern Empire* by Laurie M. Wood.” *H-France Forum* 17 (2022). [Link](https://h-france.net/h-france-forum-volume-17-2022/)
 
-####**Manuscripts** 
+#### **Manuscripts** 
 
 * *Making Whiteness on La Réunion: Family, Belonging, and the Politics of Race in the French Colonial World, 1700–1850* (monograph, in preparation).
 
@@ -87,9 +87,9 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 * “Arkansas Créole” (digital humanities resource, in preparation). [Link](https://arcg.is/1izPe01)
 
-###**Awards** 
+### **Awards** 
 
-####**Research**
+#### **Research**
 
 2025	*Short-Term Fellowship, Huntington Library*. Awarded to support research in the library’s collections; public-facing digital history project on French heritage in U.S.
 
@@ -111,7 +111,7 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2014	*Mellon International Dissertation Research Fellowship, Social Science Research Council (SSRC).* Competitive nine-month award supporting international dissertation research in the humanities and social sciences.
 
-####**Teaching**
+#### **Teaching**
 
 2024	*Online Teaching Excellence Award, Office of eLearning, University of Arkansas at Little Rock.* University-wide award recognizing effectiveness in online instruction.
 
@@ -121,11 +121,11 @@ Assistant Professor of History, University of Arkansas at Little Rock, August 20
 
 2015	*Dean’s Teaching Fellowship, Krieger School of Arts & Sciences, Johns Hopkins University.* Awarded to advanced PhD students to support independent undergraduate course design and instruction.
 
-### 
+---
 
-###**Presentations**
+### **Presentations**
 
-####**Conferences** 
+#### **Conferences** 
 
 January 2026	“Creolizing Cultivation: Missionary Estates and Plantation Agriculture in the 18th-Century French Indian Ocean World.” Paper to be presented at the 140th annual meeting of the American Historical Association (AHA), Chicago, Illinois.
 
@@ -199,7 +199,7 @@ Jan. 2014	“‘They Are Proud to Wear the Chains’: Slavery in the Shaping of 
 
 April 2013	“‘Patrimoine du Diable’: Catholicism and Creolization in Conceptions of the Île Bourbon Highlands, 1723-1765.” Paper presented at the 59th Conference of the Society for French Historical Studies (SFHS). Cambridge, Massachusetts.
 
-####**Invited Talks** 
+#### **Invited Talks** 
 
 Sept. 2025	Invited seminar: “Race, Racialisation, and Enslavement in the Indian Ocean World,” *Micro-Global Histories of Slavery: Sources and Approaches* seminar series, International Institute of Social History & Radboud University, Amsterdam and Nijmegen, Netherlands (virtual).
 
@@ -235,7 +235,7 @@ July 2016	Fellowship talk: “The ‘Destructive Scourge’: Repercussions of th
 
 Oct. 2014	Paper discussed: “Blanc vs. Blanc: Île Bourbon and the Making of ‘Whiteness’ in the First French Colonial Empire, 1767-1789.” Trinity College World History Workshop, Cambridge University, Cambridge, England.
 
-####**Guest Lectures**
+#### **Guest Lectures**
 
 March 2025 	“Historiography and Article Writing.” Graduate Research Seminar, Prof. Sara Rahnama, Morgan State University, Baltimore, Maryland (Virtual).
 
@@ -249,9 +249,9 @@ Sept. 2019 	“Karl Marx’s *The Eighteenth Brumaire of Louis Bonaparte* and Hi
 
 March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Modern Black Atlantic, Prof. Erin Rowe, Johns Hopkins University, Baltimore, Maryland.
 
-###**Courses Designed**
+### **Courses Designed**
 
-####**Global History**
+#### **Global History**
 
 * History of Civilization II: World History Since 1500 (undergraduate survey, online and in-person)
 
@@ -263,29 +263,29 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Global Perspectives on Race (undergrad and graduate project-based course)
 
-####**European History**
+#### **European History**
 
 * Twentieth-Century Europe (undergrad upper-level seminar, online and in-person)
 
 * Modern France from 1700 (undergrad upper-level lecture, online and in-person) 
 
-####**Methods**
+#### **Methods**
 
 * Historical Methods Seminar (graduate-level seminar, online and in-person)
 
 * The Historian's Craft (undergraduate methods course, online and in-person)
 
-####**Institutions**
+#### **Institutions**
 
 * Johns Hopkins University (Teaching Assistant, Instructor of Record)
 
 * University of Arkansas at Little Rock (Instructor of Record)
 
-### 
+---
 
-###**Service**
+### **Service**
 
-####**Professional**
+#### **Professional**
 
 * Co-Chair (2024–present), Member (2024–2027), Committee on LGBTQ+ Status in the Profession, American Historical Association (AHA)
 
@@ -297,7 +297,7 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Article Manuscript Reviewer, *William & Mary Quarterly*
 
-####**Institutional**
+#### **Institutional**
 
 * Undergraduate Advisor (2025–present)
 
@@ -323,15 +323,15 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Faculty Liaison, UA Little Rock History Club (2019–2021)
 
-####**Community**
+#### **Community**
 
 * Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate) (2022–2023)
 
 * Volunteer Judge, Central Arkansas History Day Competition (2019–2025)
 
-### 
+---
 
-###**Other Relevant Employment**
+### **Other Relevant Employment**
 
 * GIS Assistant, Eisenhower Library, Johns Hopkins University, Baltimore, Maryland (2015–2018)
 
@@ -339,9 +339,9 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Website Translator, Institut d’études de l’Islam et des sociétés du monde musulman (IISMM), École des hautes études en sciences sociales (EHESS), Paris, France (2009)
 
-### 
+---
 
-###**Languages**
+### **Languages**
 
 * **English**: Native fluency (speaking, reading, writing)
 
@@ -353,9 +353,9 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * **Italian**: Beginner (speaking, reading, writing)
 
-###**Software** 
+### **Software** 
 
-####**Teaching & Advising**
+#### **Teaching & Advising**
 
 * Blackboard (Classic and Ultra) – Learning Management System
 
@@ -375,7 +375,7 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Voyant Tools, HathiTrust Analytics – Text mining and topic modeling
 
-####**Research & Design**
+#### **Research & Design**
 
 * Adobe Creative Suite (Rush, InDesign) – Multimedia design
 
@@ -389,9 +389,9 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Zotero – Bibliographic and citation management
 
-### 
+---
 
-###**Affiliations**
+### **Affiliations**
 
 * American Historical Association (AHA)
 
@@ -411,9 +411,9 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Western Society for French History (WSFH)
 
-### 
+---
 
-###**References**
+### **References**
 
 * Dr. Sue Peabody, Meyer Distinguished Professor of History and Liberal Arts, Washington State University – [speabody@wsu.edu](mailto:speabody@wsu.edu) 
 
