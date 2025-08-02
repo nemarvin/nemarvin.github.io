@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Teaching"
+
+---
 ## 📋 Syllabi
 
 | ![World Hist (in person)]({{ site.baseurl }}/TeachWorldHistFTF.png){:width="180"} | **[World History from 1500 (in person)](https://docs.google.com/document/d/1fePnBlo6BaXp4tC4P-dX8siCCeHUv5IF/preview)** |
