@@ -1,4 +1,3 @@
-## 📚 Selected Publications
 
 For a full list, see my [Google Scholar profile](https://scholar.google.com/citations?user=8jtmeYUAAAAJ&hl=en).
 
