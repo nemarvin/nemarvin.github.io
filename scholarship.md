@@ -37,7 +37,7 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 ---
 
 <details>
-<summary><strong>📑 Essays & Special Issues</strong></summary>
+<summary><strong>📑 Essays</strong></summary>
 
 ![Gender in Slave and Post-Emancipation Societies](pub0.png){:width="200px"}  
 **[Gender in Slave and Post-Emancipation...](https://doi.org/10.4000/11oa3)**
