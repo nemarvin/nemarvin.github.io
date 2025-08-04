@@ -97,185 +97,215 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 <details>
 <summary><strong>Awards</strong></summary>
 
-**Research Awards**  
-- 2025 – Huntington Library Short-Term Fellowship  
-- 2024 – ACLS Project Development Grant  
-- 2023 – ASECS/Boston Athenaeum Fellowship  
-- 2022 – Camargo Foundation Core Program Residency  
-- 2021 – UA Little Rock Provost’s Grant (Research)  
-- 2019 – G. Thomas Eisele Fellowship  
-- 2017 – Doris G. Quinn Dissertation Completion Fellowship  
-- 2017 – Singleton Center Dissertation Research Fellowship  
-- 2016 – John Carter Brown Library Fellowship  
-- 2014 – SSRC Mellon IDRF
+<strong>Research Awards</strong>  
+<ul>
+  <li>2025 – Huntington Library Short-Term Fellowship</li>
+  <li>2024 – ACLS Project Development Grant</li>
+  <li>2023 – ASECS/Boston Athenaeum Fellowship</li>
+  <li>2022 – Camargo Foundation Core Program Residency</li>
+  <li>2021 – UA Little Rock Provost’s Grant (Research)</li>
+  <li>2019 – G. Thomas Eisele Fellowship</li>
+  <li>2017 – Doris G. Quinn Dissertation Completion Fellowship</li>
+  <li>2017 – Singleton Center Dissertation Research Fellowship</li>
+  <li>2016 – John Carter Brown Library Fellowship</li>
+  <li>2014 – SSRC Mellon IDRF</li>
+</ul>
 
-**Teaching Awards**  
-- 2024 – Online Teaching Excellence Award, UA Little Rock  
-- 2023 – NEH Summer Institute Participant (Enslaved.org)  
-- 2022 – Provost’s Grant for Excellence in Teaching  
-- 2015 – Dean’s Teaching Fellowship, Johns Hopkins
+<strong>Teaching Awards</strong>  
+<ul>
+  <li>2024 – Online Teaching Excellence Award, UA Little Rock</li>
+  <li>2023 – NEH Summer Institute Participant (Enslaved.org)</li>
+  <li>2022 – Provost’s Grant for Excellence in Teaching</li>
+  <li>2015 – Dean’s Teaching Fellowship, Johns Hopkins</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>Presentations</strong></summary>
 
-### Conferences
+<strong>Conferences</strong>
+<ul>
+  <li><strong>Jan. 2026</strong> — “Creolizing Cultivation...” (AHA, Chicago, IL)</li>
+  <li><strong>May 2025</strong> — “Race and Belonging at Sea...” (FCHS, Buffalo, NY)</li>
+  <li><strong>Apr. 2025</strong> — “Mapping Creole Arkansas...” (WashU, St. Louis, MO)</li>
+  <li><strong>Mar. 2025</strong> — “‘A Model, Virtuous, and Lucrative Slavery’...” (LHA, Baton Rouge, LA)</li>
+  <li><strong>Feb. 2025</strong> — “The Catholic Church and Slavery...” (UNESCO, Univ. of Mauritius)</li>
+  <li><strong>Apr. 2024</strong> — “Recruiting the ‘Restraint of Religion’...” (FEEGI, Providence, RI)</li>
+  <li><strong>Mar. 2024</strong> — “Looking for Petit Jean...” (LHA, New Orleans, LA)</li>
+  <li><strong>June 2023</strong> — “Gender, Family, and Social Control...” (Univ. Trier, Germany)</li>
+  <li><strong>June 2023</strong> — “L’Église et l’esclavage...” (Univ. Bordeaux Montaigne, France)</li>
+  <li><strong>May 2023</strong> — “‘Le Philantrope Jannou Vend Sa Femme!’...” (FCHS, Martinique)</li>
+  <li><strong>Nov. 2022</strong> — Roundtable: Digital Humanities and Empire (WSFH, Virtual)</li>
+  <li><strong>May 2022</strong> — “‘Creoles Far from Our Land’...” (FCHS, Charleston, SC)</li>
+  <li><strong>Mar. 2022</strong> — “‘Effacer le souvenir de leur état’...” (SFHS, Charlotte, NC)</li>
+  <li><em>(...additional entries continue in full version)</em></li>
+</ul>
 
-- **Jan. 2026** — “Creolizing Cultivation...” (AHA, Chicago, IL)  
-- **May 2025** — “Race and Belonging at Sea...” (FCHS, Buffalo, NY)  
-- **Apr. 2025** — “Mapping Creole Arkansas...” (WashU, St. Louis, MO)  
-- **Mar. 2025** — “‘A Model, Virtuous, and Lucrative Slavery’...” (LHA, Baton Rouge, LA)  
-- **Feb. 2025** — “The Catholic Church and Slavery...” (UNESCO, Univ. of Mauritius)  
-- **Apr. 2024** — “Recruiting the ‘Restraint of Religion’...” (FEEGI, Providence, RI)  
-- **Mar. 2024** — “Looking for Petit Jean...” (LHA, New Orleans, LA)  
-- **June 2023** — “Gender, Family, and Social Control...” (Univ. Trier, Germany)  
-- **June 2023** — “L’Église et l’esclavage...” (Univ. Bordeaux Montaigne, France)  
-- **May 2023** — “‘Le Philantrope Jannou Vend Sa Femme\!’...” (FCHS, Martinique)  
-- **Nov. 2022** — Roundtable: Digital Humanities and Empire (WSFH, Virtual)  
-- **May 2022** — “‘Creoles Far from Our Land’...” (FCHS, Charleston, SC)  
-- **Mar. 2022** — “‘Effacer le souvenir de leur état’...” (SFHS, Charlotte, NC)  
-- *(...additional entries continue in full version)*
+<strong>Invited Talks</strong>
+<ul>
+  <li><strong>Sept. 2025</strong> — “Race, Racialisation, and Enslavement...” (Amsterdam & Nijmegen, Virtual)</li>
+  <li><strong>Dec. 2024</strong> — “Furcy Madeleine & Abby Guy...” (Musée de Villèle, Réunion)</li>
+  <li><strong>Apr. 2024</strong> — “Rethinking the Legend of Petit Jean...” (UA Little Rock)</li>
+  <li><strong>Mar. 2024</strong> — “Teaching with Collaborative Annotation” (ASU-Beebe)</li>
+  <li><strong>Feb. 2023</strong> — “New England Merchant Families...” (Boston Athenaeum)</li>
+  <li><em>(...additional entries continue in full version)</em></li>
+</ul>
 
-### Invited Talks
-
-- **Sept. 2025** — “Race, Racialisation, and Enslavement...” (Amsterdam & Nijmegen, Virtual)  
-- **Dec. 2024** — “Furcy Madeleine & Abby Guy...” (Musée de Villèle, Réunion)  
-- **Apr. 2024** — “Rethinking the Legend of Petit Jean...” (UA Little Rock)  
-- **Mar. 2024** — “Teaching with Collaborative Annotation” (ASU-Beebe)  
-- **Feb. 2023** — “New England Merchant Families...” (Boston Athenaeum)  
-- *(...additional entries continue in full version)*
-
-### Guest Lectures
-
-- **Mar. 2025** — “Historiography and Article Writing” (Morgan State, Virtual)  
-- **Feb. 2021** — “Echoes of Haiti’s Revolution” (UALR, Virtual)  
-- **Sept. 2020** — “Global Haitian Revolution” (Penn State, Virtual)  
-- *(...additional entries continue in full version)*
+<strong>Guest Lectures</strong>
+<ul>
+  <li><strong>Mar. 2025</strong> — “Historiography and Article Writing” (Morgan State, Virtual)</li>
+  <li><strong>Feb. 2021</strong> — “Echoes of Haiti’s Revolution” (UALR, Virtual)</li>
+  <li><strong>Sept. 2020</strong> — “Global Haitian Revolution” (Penn State, Virtual)</li>
+  <li><em>(...additional entries continue in full version)</em></li>
+</ul>
 
 </details>
+
 
 <details>
 <summary><strong>Courses Taught</strong></summary>
 
-### Global History
-- *History of Civilization II: World History Since 1500*  
-- *The Haitian Revolution in World History*  
-- *History of the Atlantic World*  
-- *Revolutions in World History*  
-- *Global Perspectives on Race*
+<strong>Global History</strong>
+<ul>
+  <li><em>History of Civilization II: World History Since 1500</em></li>
+  <li><em>The Haitian Revolution in World History</em></li>
+  <li><em>History of the Atlantic World</em></li>
+  <li><em>Revolutions in World History</em></li>
+  <li><em>Global Perspectives on Race</em></li>
+</ul>
 
-### European History
-- *Twentieth-Century Europe*  
-- *Modern France from 1700*
+<strong>European History</strong>
+<ul>
+  <li><em>Twentieth-Century Europe</em></li>
+  <li><em>Modern France from 1700</em></li>
+</ul>
 
-### Methods
-- *Historical Methods Seminar*  
-- *The Historian's Craft*
+<strong>Methods</strong>
+<ul>
+  <li><em>Historical Methods Seminar</em></li>
+  <li><em>The Historian's Craft</em></li>
+</ul>
 
 </details>
-
 
 <details>
 <summary><strong>Service</strong></summary>
 
-#### **Professional**
-- Co-Chair (2024–present), Member (2024–2027), Committee on LGBTQ+ Status in the Profession, American Historical Association (AHA)  
-- Chair, Research Travel Award Committee (2024–2025); Executive Board Member (2020–2024), Forum on Early-Modern Empires and Global Interactions (FEEGI)  
-- Invited Participant, Book Manuscript Workshop, Stanford University (2020)  
-- Book Manuscript Reader, *Cambridge University Press*  
-- Article Manuscript Reviewer, *William & Mary Quarterly*
+<strong>Professional</strong>
+<ul>
+  <li>Co-Chair (2024–present), Member (2024–2027), Committee on LGBTQ+ Status in the Profession, American Historical Association (AHA)</li>
+  <li>Chair, Research Travel Award Committee (2024–2025); Executive Board Member (2020–2024), Forum on Early-Modern Empires and Global Interactions (FEEGI)</li>
+  <li>Invited Participant, Book Manuscript Workshop, Stanford University (2020)</li>
+  <li>Book Manuscript Reader, <em>Cambridge University Press</em></li>
+  <li>Article Manuscript Reviewer, <em>William & Mary Quarterly</em></li>
+</ul>
 
-#### **Institutional**
-- Undergraduate Advisor (2025–present)  
-- Invited Member, Trojan Integrated Planning and Accreditation Committee, Office of the Provost, UA Little Rock (2024–2025)  
-- Concurrent Enrollment Liaison, Department of History, UA Little Rock (2023–2025)  
-- Chair (2024–2025), Member (2022–2024), Undergraduate Curriculum Committee, Department of History, UA Little Rock  
-- Member, Online Campus Advisory Board (OCAB), UA Little Rock (2023–2025)  
-- Moderator, Q&A Session with Guests of the Office of Alumni and Development, UA Little Rock (March 2024)  
-- Member, Research and Creative Works Committee, UA Little Rock (2022–2023)  
-- Member, Awards Committee, Gender Studies Program, UA Little Rock (2022)  
-- Member, Undergraduate Curriculum Committee, College of Humanities, Arts, Social Sciences, and Education, UA Little Rock (2021–2022)  
-- Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2021–2022)  
-- Member, Tenure and Promotion Committee, Department of History, UA Little Rock (2020–2021)  
-- Faculty Liaison, UA Little Rock History Club (2019–2021)
+<strong>Institutional</strong>
+<ul>
+  <li>Undergraduate Advisor (2025–present)</li>
+  <li>Invited Member, Trojan Integrated Planning and Accreditation Committee, Office of the Provost, UA Little Rock (2024–2025)</li>
+  <li>Concurrent Enrollment Liaison, Department of History, UA Little Rock (2023–2025)</li>
+  <li>Chair (2024–2025), Member (2022–2024), Undergraduate Curriculum Committee, Department of History, UA Little Rock</li>
+  <li>Member, Online Campus Advisory Board (OCAB), UA Little Rock (2023–2025)</li>
+  <li>Moderator, Q&A Session with Guests of the Office of Alumni and Development, UA Little Rock (March 2024)</li>
+  <li>Member, Research and Creative Works Committee, UA Little Rock (2022–2023)</li>
+  <li>Member, Awards Committee, Gender Studies Program, UA Little Rock (2022)</li>
+  <li>Member, Undergraduate Curriculum Committee, College of Humanities, Arts, Social Sciences, and Education, UA Little Rock (2021–2022)</li>
+  <li>Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2021–2022)</li>
+  <li>Member, Tenure and Promotion Committee, Department of History, UA Little Rock (2020–2021)</li>
+  <li>Faculty Liaison, UA Little Rock History Club (2019–2021)</li>
+</ul>
 
-#### **Community**
-- Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate) (2022–2023)  
-- Volunteer Judge, Central Arkansas History Day Competition (2019–2025)
+<strong>Community</strong>
+<ul>
+  <li>Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate) (2022–2023)</li>
+  <li>Volunteer Judge, Central Arkansas History Day Competition (2019–2025)</li>
+</ul>
 
 </details>
-
-
-
 
 <details>
 <summary><strong>Other Employment</strong></summary>
 
-- GIS Assistant, Johns Hopkins University  
-- Docent and Translator, St. Mary’s Historic Site  
-- Website Translator, EHESS, Paris
+<ul>
+  <li>GIS Assistant, Johns Hopkins University</li>
+  <li>Docent and Translator, St. Mary’s Historic Site</li>
+  <li>Website Translator, EHESS, Paris</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>Languages & Software</strong></summary>
 
-#### **Languages**
-- English: Native  
-- French: Fluent  
-- Portuguese: Intermediate  
-- Réunionese Creole & Italian: Beginner
+<strong>Languages</strong>
+<ul>
+  <li>English: Native</li>
+  <li>French: Fluent</li>
+  <li>Portuguese: Intermediate</li>
+  <li>Réunionese Creole & Italian: Beginner</li>
+</ul>
 
-#### **Software (Teaching & Advising)**
-- Blackboard (Classic and Ultra) – Learning Management System
-- Workday Student – Academic advising and planning
-- DegreeWorks – Academic advising and planning
-- Google Suite – Collaborative productivity tools
-- ESRI ArcGIS Online, Story Maps – Spatial data visualization, digital storytelling
-- Exhibit.so – Exhibit curation using IIIF (International Image Interoperability Framework)
-- Perusall – Collaborative annotation platform
-- Transkribus – AI transcription of manuscript documents
-- Voyant Tools, HathiTrust Analytics – Text mining and topic modeling
+<strong>Software (Teaching & Advising)</strong>
+<ul>
+  <li>Blackboard (Classic and Ultra) – Learning Management System</li>
+  <li>Workday Student – Academic advising and planning</li>
+  <li>DegreeWorks – Academic advising and planning</li>
+  <li>Google Suite – Collaborative productivity tools</li>
+  <li>ESRI ArcGIS Online, Story Maps – Spatial data visualization, digital storytelling</li>
+  <li>Exhibit.so – Exhibit curation using IIIF (International Image Interoperability Framework)</li>
+  <li>Perusall – Collaborative annotation platform</li>
+  <li>Transkribus – AI transcription of manuscript documents</li>
+  <li>Voyant Tools, HathiTrust Analytics – Text mining and topic modeling</li>
+</ul>
 
-#### **Software (Research & Design)**
-- Adobe Creative Suite (Rush, InDesign) – Multimedia design
-- ArcGIS Pro (ESRI) – Spatial analysis and cartography
-- QGIS – Open-source geospatial analysis
-- SPSS – Statistical analysis
-- Tropy – Archival image management
-- Zotero – Bibliographic and citation management
+<strong>Software (Research & Design)</strong>
+<ul>
+  <li>Adobe Creative Suite (Rush, InDesign) – Multimedia design</li>
+  <li>ArcGIS Pro (ESRI) – Spatial analysis and cartography</li>
+  <li>QGIS – Open-source geospatial analysis</li>
+  <li>SPSS – Statistical analysis</li>
+  <li>Tropy – Archival image management</li>
+  <li>Zotero – Bibliographic and citation management</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>Affiliations</strong></summary>
 
-- American Historical Association (AHA)  
-- American Society for Eighteenth-Century Studies (ASECS)  
-- Consortium on the Revolutionary Era (CRE)  
-- Centre de Recherches sur les Sociétés de l’Océan Indien (CRESOI)  
-- French Colonial Historical Society (FCHS)  
-- Forum on Early-Modern Empires and Global Interactions (FEEGI)  
-- Society for French Historical Studies (SFHS)  
-- European History Section of the Southern Historical Association (SHA-EHS)  
-- Western Society for French History (WSFH)
+<ul>
+  <li>American Historical Association (AHA)</li>
+  <li>American Society for Eighteenth-Century Studies (ASECS)</li>
+  <li>Consortium on the Revolutionary Era (CRE)</li>
+  <li>Centre de Recherches sur les Sociétés de l’Océan Indien (CRESOI)</li>
+  <li>French Colonial Historical Society (FCHS)</li>
+  <li>Forum on Early-Modern Empires and Global Interactions (FEEGI)</li>
+  <li>Society for French Historical Studies (SFHS)</li>
+  <li>European History Section of the Southern Historical Association (SHA-EHS)</li>
+  <li>Western Society for French History (WSFH)</li>
+</ul>
 
 </details>
-
-
 
 <details>
 <summary><strong>References</strong></summary>
 
-- **Dr. Sue Peabody** — Washington State University  
-  [speabody@wsu.edu](mailto:speabody@wsu.edu)  
-- **Dr. Barclay Key** — University of Arkansas at Little Rock  
-  [btkey@ualr.edu](mailto:btkey@ualr.edu)  
-- **Dr. Todd Shepard** — Johns Hopkins University  
-  [tshep75@jhu.edu](mailto:tshep75@jhu.edu)
+<ul>
+  <li><strong>Dr. Sue Peabody</strong> — Washington State University  
+    <a href="mailto:speabody@wsu.edu">speabody@wsu.edu</a>
+  </li>
+  <li><strong>Dr. Barclay Key</strong> — University of Arkansas at Little Rock  
+    <a href="mailto:btkey@ualr.edu">btkey@ualr.edu</a>
+  </li>
+  <li><strong>Dr. Todd Shepard</strong> — Johns Hopkins University  
+    <a href="mailto:tshep75@jhu.edu">tshep75@jhu.edu</a>
+  </li>
+</ul>
 
 </details>
+
 
 <img src="{{ site.baseurl }}/littlerock.gif">
 
