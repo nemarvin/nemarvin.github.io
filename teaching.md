@@ -77,6 +77,22 @@ Word cloud from a text-mining exercise based on the Oxford Bibliographies in Atl
 
 </details>
 
+
+<details>
+<summary><strong>Creole South</strong></summary>
+
+<p>
+<img src="{{ site.baseurl }}/plumbayou.jpg" alt="Headstones of French-speaking families in Old St. Mary’s Cemetery beside historic Catholic church in Plum Bayou, Arkansas" width="200"><br>
+<strong><a href="https://docs.google.com/document/d/13r3C5urg4DUOiR_BnhCfQzbiOldEMCkM/edit?usp=sharing&ouid=112037445374503169151&rtpof=true&sd=true">View syllabus...</a></strong>
+</p>
+
+<p>
+The course traces Creole histories across North America, the Caribbean, and beyond, connecting local to global stories.  
+</p>
+
+</details>
+
+
 <details>
 <summary><strong>Revolutions in World History</strong></summary>
 
