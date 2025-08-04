@@ -2,6 +2,8 @@
 layout: page
 title: "Teaching"
 ---
+---
+
 
 ## Course Syllabi
 
