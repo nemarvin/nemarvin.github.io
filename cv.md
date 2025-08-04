@@ -150,26 +150,37 @@ title: "CV"
 <summary><strong>Service</strong></summary>
 
 #### **Professional**
-- Co-Chair, AHA LGBTQ+ Committee (2024–)  
-- Chair, FEEGI Travel Award Committee (2024–25)  
-- Reader for *Cambridge UP* and *WMQ*
+- Co-Chair (2024–present), Member (2024–2027), Committee on LGBTQ+ Status in the Profession, American Historical Association (AHA)  
+- Chair, Research Travel Award Committee (2024–2025); Executive Board Member (2020–2024), Forum on Early-Modern Empires and Global Interactions (FEEGI)  
+- Invited Participant, Book Manuscript Workshop, Stanford University (2020)  
+- Book Manuscript Reader, *Cambridge University Press*  
+- Article Manuscript Reviewer, *William & Mary Quarterly*
 
 #### **Institutional**
-- Undergraduate Advisor (2025–)  
-- Curriculum and Accreditation Committees  
-- Faculty Liaison, History Club  
-- Steering Committee, MIST
+- Undergraduate Advisor (2025–present)  
+- Invited Member, Trojan Integrated Planning and Accreditation Committee, Office of the Provost, UA Little Rock (2024–2025)  
+- Concurrent Enrollment Liaison, Department of History, UA Little Rock (2023–2025)  
+- Chair (2024–2025), Member (2022–2024), Undergraduate Curriculum Committee, Department of History, UA Little Rock  
+- Member, Online Campus Advisory Board (OCAB), UA Little Rock (2023–2025)  
+- Moderator, Q&A Session with Guests of the Office of Alumni and Development, UA Little Rock (March 2024)  
+- Member, Research and Creative Works Committee, UA Little Rock (2022–2023)  
+- Member, Awards Committee, Gender Studies Program, UA Little Rock (2022)  
+- Member, Undergraduate Curriculum Committee, College of Humanities, Arts, Social Sciences, and Education, UA Little Rock (2021–2022)  
+- Workshop Facilitator & Steering Committee Member, Mobile Institute on Scientific Teaching (MIST), UA Little Rock (2021–2022)  
+- Member, Tenure and Promotion Committee, Department of History, UA Little Rock (2020–2021)  
+- Faculty Liaison, UA Little Rock History Club (2019–2021)
 
 #### **Community**
-- Next Gen Advisory Committee, AR Humanities Council  
-- History Day Judge (2019–25)
+- Member, Next Generation Advisory Committee, Arkansas Humanities Council (NEH Affiliate) (2022–2023)  
+- Volunteer Judge, Central Arkansas History Day Competition (2019–2025)
 
 </details>
 
 
 
+
 <details>
-<summary><strong>Other Relevant Employment</strong></summary>
+<summary><strong>Other Employment</strong></summary>
 
 - GIS Assistant, Johns Hopkins University  
 - Docent and Translator, St. Mary’s Historic Site  
