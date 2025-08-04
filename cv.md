@@ -413,7 +413,9 @@ March 2016	“The Catholic Church and Slavery” (guest lecture). The Early Mode
 
 * Dr. Barclay Key, Chair of the Department of History, Associate Professor of History, University of Arkansas at Little Rock – [btkey@ualr.edu](mailto:btkey@ualr.edu) 
 
-* Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University – [tshep75@jhu.edu](mailto:tshep75@jhu.edu) 
+* Dr. Todd Shepard, Arthur O. Lovejoy Professor of History and Co-Director of the Programs for the Study of Women, Gender, and Sexuality, Johns Hopkins University – [tshep75@jhu.edu](mailto:tshep75@jhu.edu)
+
+<img src="{{ site.baseurl }}/arles.gif">
 
 [Link to Download](https://docs.google.com/document/d/10En4En17DeJadPC6YplzNeQgRdE76q0k/preview)  
 
