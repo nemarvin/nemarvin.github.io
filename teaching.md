@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-## 📋 Courses & Projects
+## Course Syllabi
 
 <details>
 <summary><strong>World History from 1500 (in person)</strong></summary>
@@ -19,8 +19,6 @@ Detail from the illustrated manuscript, <em>La Vie ou aventures de J.-B. Tabardi
 
 </details>
 
----
-
 <details>
 <summary><strong>World History from 1500 (asynchronous)</strong></summary>
 
@@ -34,8 +32,6 @@ Haitian postage stamps depicting “the Unknown Maroon,” symbol of resistance 
 </p>
 
 </details>
-
----
 
 <details>
 <summary><strong>Modern France from 1750</strong></summary>
@@ -51,8 +47,6 @@ Photograph from the Pantheonization of Josephine Baker (30 Nov. 2021). Baker’s
 
 </details>
 
----
-
 <details>
 <summary><strong>Modern Europe</strong></summary>
 
@@ -66,8 +60,6 @@ Still from <em>Senso</em> (1954), film by Luchino Visconti. Film, opera, and pro
 </p>
 
 </details>
-
----
 
 <details>
 <summary><strong>Atlantic World and Beyond</strong></summary>
@@ -83,8 +75,6 @@ Word cloud from a text-mining exercise based on the Oxford Bibliographies in Atl
 
 </details>
 
----
-
 <details>
 <summary><strong>Revolutions in World History</strong></summary>
 
@@ -98,8 +88,6 @@ Screenshot from <em>Assassin’s Creed: Unity</em>. Students analyze game videos
 </p>
 
 </details>
-
----
 
 <details>
 <summary><strong>Global Perspectives on Race</strong></summary>
@@ -115,8 +103,6 @@ Photograph from inside the Bowen Law Library’s special collections. Students e
 
 </details>
 
----
-
 <details>
 <summary><strong>Historian’s Craft (Undergraduate Methods)</strong></summary>
 
@@ -131,8 +117,6 @@ Interior of the Boston Athenaeum private library (photo by instructor). Students
 
 </details>
 
----
-
 <details>
 <summary><strong>Historical Methods (Graduate)</strong></summary>
 
@@ -146,8 +130,6 @@ Archival document from Réunion Island (1793) related to the “Ambroise Affaire
 </p>
 
 </details>
-
----
 
 <details>
 <summary><strong>Haitian Revolution in World History</strong></summary>
@@ -165,6 +147,8 @@ Original map depicting sites impacted by the Haitian Revolution in North America
 
 ---
 
+## Teaching Resources
+
 <details>
 <summary><strong>Freedom Deferred (Primary Source Reader)</strong></summary>
 
@@ -177,8 +161,6 @@ A curated source set for exploring slavery, resistance, and revolution in the Fr
 </p>
 
 </details>
-
----
 
 <details>
 <summary><strong>Mother Lange: A Haitian-American Educator</strong></summary>
@@ -193,8 +175,6 @@ StoryMap highlighting the life and legacy of Mother Mary Lange, founder of the O
 
 </details>
 
----
-
 <details>
 <summary><strong>A Colonial “Return of Martin Guerre”?</strong></summary>
 
@@ -208,8 +188,6 @@ In this methods course exercise, students analyze testimony in a colonial identi
 
 </details>
 
----
-
 <details>
 <summary><strong>Student Digital History Resource Guide</strong></summary>
 
@@ -222,8 +200,6 @@ A curated and frequently updated set of tools, platforms, and archives to suppor
 </p>
 
 </details>
-
----
 
 <p>
 <img src="{{ site.baseurl }}/arles.gif" alt="Arles animated footer">
