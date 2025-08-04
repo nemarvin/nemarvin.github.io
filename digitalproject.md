@@ -9,8 +9,8 @@ title: "Digital Projects"
 <summary><strong>Enslaved by the Church, Sold for the Republic</strong></summary>
 
 <p>
-<img src="{{ site.baseurl }}/image3.png" alt="Victims of 1793, Reunion Island - screenshot 1" width="250">  
-<img src="{{ site.baseurl }}/image5.png" alt="Victims of 1793, Reunion Island - screenshot 2" width="250">
+<img src="{{ site.baseurl }}/image3.png" alt="Victims of 1793, Reunion Island - screenshot 1" >  
+<img src="{{ site.baseurl }}/image5.png" alt="Victims of 1793, Reunion Island - screenshot 2" >
 </p>
 
 <p>
@@ -31,7 +31,7 @@ When French revolutionaries seized the assets of the Catholic Church as "nationa
 <summary><strong>Arkansas Créole: Recovering a Lost Vernacular Landscape</strong></summary>
 
 <p>
-<img src="{{ site.baseurl }}/image1.png" alt="Screenshot of Arkansas Creole Map" width="250">
+<img src="{{ site.baseurl }}/image1.png" alt="Screenshot of Arkansas Creole Map" >
 </p>
 
 <p>
@@ -60,8 +60,8 @@ This digital history project documents the contributions of French-speaking peop
 <summary><strong>This Unalterable Friendship: New England Merchants in the French Indian Ocean Islands</strong></summary>
 
 <p>
-<img src="{{ site.baseurl }}/image6.png" alt="Port Louis map screenshot 1" width="250">  
-<img src="{{ site.baseurl }}/image2.png" alt="Port Louis map screenshot 2" width="250">
+<img src="{{ site.baseurl }}/image6.png" alt="Port Louis map screenshot 1" >  
+<img src="{{ site.baseurl }}/image2.png" alt="Port Louis map screenshot 2" >
 </p>
 
 <p>
@@ -83,7 +83,7 @@ The project also examines the ripple effects of the Haitian Revolution and Franc
 <summary><strong>Creoles Far From Our Native Place: Mapping the Global Peregrinations of Jean-Baptiste Tabardin</strong></summary>
 
 <p>
-<img src="{{ site.baseurl }}/image4.png" alt="Tabardin Project Screenshot" width="250">
+<img src="{{ site.baseurl }}/image4.png" alt="Tabardin Project Screenshot" >
 </p>
 
 <p>
