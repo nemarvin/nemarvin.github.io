@@ -2,6 +2,9 @@
 layout: page
 title: "Digital Projects"
 ---
+
+Below are my current public-facing digital history projects. Please check back for updates. 
+
 ---
 
 <details>
