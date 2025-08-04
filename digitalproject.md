@@ -108,6 +108,5 @@ This project traces Tabardin’s journeys through a global maritime world shaped
 <img src="{{ site.baseurl }}/caen2.gif" alt="Garden at the Abbaye-aux-Hommes, Caen, Normandy">
 </p>
 
-<p><em>Please check back for updates.</em></p>
 
 <p><a href="#">Back to Top</a></p>
