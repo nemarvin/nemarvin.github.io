@@ -307,7 +307,7 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 </details>
 
 
-<img src="{{ site.baseurl }}/littlerock.gif">
+<img src="{{ site.baseurl }}/montstmichel.gif">
 
    <p><a href="#">Back to Top</a></p>
 
