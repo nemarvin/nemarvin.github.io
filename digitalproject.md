@@ -3,8 +3,6 @@ layout: page
 title: "Digital Projects"
 ---
 
-## Interactive Public History Projects
-
 <details>
 <summary><strong>Enslaved by the Church, Sold for the Republic</strong></summary>
 
