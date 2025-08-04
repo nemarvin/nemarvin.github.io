@@ -1,7 +1,7 @@
----
+
 layout: page
 title: "CV"
----
+
 
 ## Selected CV Highlights
 
@@ -166,7 +166,7 @@ title: "CV"
 
 </details>
 
----
+
 
 <details>
 <summary><strong>Other Relevant Employment</strong></summary>
@@ -177,7 +177,7 @@ title: "CV"
 
 </details>
 
----
+
 
 <details>
 <summary><strong>Languages & Software</strong></summary>
@@ -199,7 +199,7 @@ title: "CV"
 
 </details>
 
----
+
 
 <details>
 <summary><strong>Affiliations</strong></summary>
@@ -210,7 +210,7 @@ title: "CV"
 
 </details>
 
----
+
 
 <details>
 <summary><strong>References</strong></summary>
