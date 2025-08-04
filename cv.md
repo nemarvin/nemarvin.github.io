@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "About Me"
+title: "CV"
 ---
+
 For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6YplzNeQgRdE76q0k/preview)  
 
 ---
@@ -11,61 +12,87 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 <details>
 <summary><strong>Academic Appointments</strong></summary>
 
-**Assistant Professor of History**, University of Arkansas at Little Rock, August 2018 – present.
+<ul>
+  <li><strong>Assistant Professor of History</strong>, University of Arkansas at Little Rock, August 2018 – present.</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>Education</strong></summary>
 
-- **Ph.D., History**, Johns Hopkins University, 2018  
-- **M.A., History**, Johns Hopkins University, 2013  
-- **B.A. (Hons.), History & French**, Wesleyan University, 2010
+<ul>
+  <li><strong>Ph.D., History</strong>, Johns Hopkins University, 2018</li>
+  <li><strong>M.A., History</strong>, Johns Hopkins University, 2013</li>
+  <li><strong>B.A. (Hons.), History & French</strong>, Wesleyan University, 2010</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>Publications</strong></summary>
 
-**Journal Article (Peer Review)**  
-- “The ‘Ambroise Affair’...” *French History* 32, no. 4 (2018): 493–510.
+<!-- All lists changed to HTML list tags -->
 
-**Book Chapter (Peer Review)**  
-- “‘Free and Naturalized Frenchwomen’...” In *Fertility, Family, and Social Welfare...* (Palgrave, 2023)
+<ul><li><strong>Journal Article (Peer Review)</strong>
+  <ul><li>“The ‘Ambroise Affair’...” <em>French History</em> 32, no. 4 (2018): 493–510.</li></ul>
+</li></ul>
 
-**Essay (Peer Review)**  
-- “France and its Empire in the Indian Ocean” (with Blake Smith). *Oxford Bibliographies: Atlantic History* (2019)
+<ul><li><strong>Book Chapter (Peer Review)</strong>
+  <ul><li>“‘Free and Naturalized Frenchwomen’...” In <em>Fertility, Family, and Social Welfare...</em> (Palgrave, 2023)</li></ul>
+</li></ul>
 
-**Book Chapters (Editorial Review)**  
-- “Gender, Family, and Social Control...” In *Women in the Making of Mauritian History*, 2nd ed. (2023)  
-- “‘A Thousand Prejudices’...” In *Une Amérique française*, (2015)
+<ul><li><strong>Essay (Peer Review)</strong>
+  <ul><li>“France and its Empire in the Indian Ocean” (with Blake Smith). <em>Oxford Bibliographies: Atlantic History</em> (2019)</li></ul>
+</li></ul>
 
-**Essays (Editorial Review)**  
-- “Gender and Slavery in Global Contexts...” *Esclavages & post-esclavages* no. 9 (2024)  
-- “Incertaines catégories raciales.” In *Colonisations. Notre histoire* (2023)  
-- “Instructions du Ministère de la Marine...” *Outre-Mers* 103, no. 388–389 (2015)
+<ul><li><strong>Book Chapters (Editorial Review)</strong>
+  <ul>
+    <li>“Gender, Family, and Social Control...” In <em>Women in the Making of Mauritian History</em>, 2nd ed. (2023)</li>
+    <li>“‘A Thousand Prejudices’...” In <em>Une Amérique française</em>, (2015)</li>
+  </ul>
+</li></ul>
 
-**Public Scholarship (Editorial Review)**  
-- “Looking for ‘Petit Jean’...” *64 Parishes* (2025) [Link](https://64parishes.org/looking-for-petit-jean)  
-- “Furcy Madeleine and Abby Guy...” *Imaginaries* 14, no. 2 (2024) [Link](https://h-france.net/imaginaries/all-issues/volume-14-issue-2-summer-2024...)  
-- *Slavery and Freedom: Journeys Across Time and Space* (co-author, 2024); *L’affaire Abby Guy* (co-translator, 2024) [Link](https://www.portail-esclavage-reunion.fr/dossiers-documentaires/laffaire-abby-guy...)  
-- “Les esclaves vendus comme ‘biens nationaux’...” (2023) [Link](https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage...)
+<ul><li><strong>Essays (Editorial Review)</strong>
+  <ul>
+    <li>“Gender and Slavery in Global Contexts...” <em>Esclavages & post-esclavages</em> no. 9 (2024)</li>
+    <li>“Incertaines catégories raciales.” In <em>Colonisations. Notre histoire</em> (2023)</li>
+    <li>“Instructions du Ministère de la Marine...” <em>Outre-Mers</em> 103, no. 388–389 (2015)</li>
+  </ul>
+</li></ul>
 
-**Editorial Work**  
-- Co-editor (with Sarah Zimmerman), *Esclavages & post-esclavages* no. 9 (2024)
+<ul><li><strong>Public Scholarship (Editorial Review)</strong>
+  <ul>
+    <li>“Looking for ‘Petit Jean’...” <em>64 Parishes</em> (2025) <a href="https://64parishes.org/looking-for-petit-jean">Link</a></li>
+    <li>“Furcy Madeleine and Abby Guy...” <em>Imaginaries</em> 14, no. 2 (2024) <a href="https://h-france.net/imaginaries/all-issues/volume-14-issue-2-summer-2024">Link</a></li>
+    <li><em>Slavery and Freedom: Journeys Across Time and Space</em> (co-author, 2024); <em>L’affaire Abby Guy</em> (co-translator, 2024) <a href="https://www.portail-esclavage-reunion.fr/dossiers-documentaires/laffaire-abby-guy">Link</a></li>
+    <li>“Les esclaves vendus comme ‘biens nationaux’...” (2023) <a href="https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage">Link</a></li>
+  </ul>
+</li></ul>
 
-**Review Essays**  
-- Review of *Malgaches et Vazaha à Tamatave*, *Politique africaine* 175–176 (2025)  
-- Review of *Archipelago of Justice* by Laurie M. Wood. *H-France Forum* 17 (2022) [Link](https://h-france.net/h-france-forum-volume-17-2022/)
+<ul><li><strong>Editorial Work</strong>
+  <ul><li>Co-editor (with Sarah Zimmerman), <em>Esclavages & post-esclavages</em> no. 9 (2024)</li></ul>
+</li></ul>
 
-**Manuscripts in Preparation**  
-- *Making Whiteness on La Réunion* (monograph)  
-- “‘Mixed-Blood’ Empire...” (article, under review)  
-- *Freedom Deferred* (edited source reader)  
-- “Enslaved by the Church, Sold for the Republic” [Link](https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048)  
-- “Arkansas Créole” [Link](https://arcg.is/1izPe01)
+<ul><li><strong>Review Essays</strong>
+  <ul>
+    <li>Review of <em>Malgaches et Vazaha à Tamatave</em>, <em>Politique africaine</em> 175–176 (2025)</li>
+    <li>Review of <em>Archipelago of Justice</em> by Laurie M. Wood. <em>H-France Forum</em> 17 (2022) <a href="https://h-france.net/h-france-forum-volume-17-2022/">Link</a></li>
+  </ul>
+</li></ul>
+
+<ul><li><strong>Manuscripts in Preparation</strong>
+  <ul>
+    <li><em>Making Whiteness on La Réunion</em> (monograph)</li>
+    <li>“‘Mixed-Blood’ Empire...” (article, under review)</li>
+    <li><em>Freedom Deferred</em> (edited source reader)</li>
+    <li>“Enslaved by the Church, Sold for the Republic” <a href="https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048">Link</a></li>
+    <li>“Arkansas Créole” <a href="https://arcg.is/1izPe01">Link</a></li>
+  </ul>
+</li></ul>
 
 </details>
+
 
 <details>
 <summary><strong>Awards</strong></summary>
