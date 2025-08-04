@@ -177,8 +177,6 @@ title: "CV"
 
 </details>
 
-
-
 <details>
 <summary><strong>Languages & Software</strong></summary>
 
@@ -189,17 +187,25 @@ title: "CV"
 - Réunionese Creole & Italian: Beginner
 
 #### **Software (Teaching & Advising)**
-- Blackboard, Workday Student, DegreeWorks  
-- ArcGIS Online, StoryMaps, Exhibit.so  
-- Perusall, Transkribus, Voyant, HathiTrust
+- Blackboard (Classic and Ultra) – Learning Management System
+- Workday Student – Academic advising and planning
+- DegreeWorks – Academic advising and planning
+- Google Suite – Collaborative productivity tools
+- ESRI ArcGIS Online, Story Maps – Spatial data visualization, digital storytelling
+- Exhibit.so – Exhibit curation using IIIF (International Image Interoperability Framework)
+- Perusall – Collaborative annotation platform
+- Transkribus – AI transcription of manuscript documents
+- Voyant Tools, HathiTrust Analytics – Text mining and topic modeling
 
 #### **Software (Research & Design)**
-- Adobe Creative Suite, ArcGIS Pro, QGIS  
-- SPSS, Tropy, Zotero
+- Adobe Creative Suite (Rush, InDesign) – Multimedia design
+- ArcGIS Pro (ESRI) – Spatial analysis and cartography
+- QGIS – Open-source geospatial analysis
+- SPSS – Statistical analysis
+- Tropy – Archival image management
+- Zotero – Bibliographic and citation management
 
 </details>
-
-
 
 <details>
 <summary><strong>Affiliations</strong></summary>
