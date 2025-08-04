@@ -3,6 +3,6 @@ layout: page
 title: "About Me"
 ---
 
-I am a historian specializing in the French colonial world. My current book project explores the politics of race on the Indian Ocean island of Réunion, before and during the era of the French and Haitian Revolutions. My second project examines the role of Catholic orders and congregations as major slaveholders in the French empire, centering the experiences and resistance strategies of those enslaved on Church properties. I teach history at the University of Arkansas at Little Rock, where I am also a Gender Studies affiliate faculty member.
-
+I’m a historian of the French colonial world, with a focus on race, slavery, and religion. My first book examines the politics of race on the Indian Ocean island of Réunion during the age of the French and Haitian Revolutions. My second project investigates how Catholic orders and congregations shaped the French colonial slave system—and how enslaved people resisted on Church-run plantations. I teach history at the University of Arkansas at Little Rock. I’m passionate about helping students work together to understand history’s relevance in our lives and connect the past to present-day questions of justice and power. 
 ![National_River_Park_Arkansas](fotoreminismaller.jpg)
+
