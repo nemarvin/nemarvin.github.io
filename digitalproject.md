@@ -2,6 +2,7 @@
 layout: page
 title: "Digital Projects"
 ---
+---
 
 <details>
 <summary><strong>Enslaved by the Church, Sold for the Republic</strong></summary>
