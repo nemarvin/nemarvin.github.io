@@ -7,8 +7,6 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 
 ---
 
-## Highlights
-
 <details>
 <summary><strong>Academic Appointments</strong></summary>
 
