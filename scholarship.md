@@ -77,7 +77,7 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 
 </details>
 
-<img src="{{ site.baseurl }}/arles.gif">
+<img src="{{ site.baseurl }}/nolafog.gif">
 
 <p><a href="#">Back to Top</a></p>
 
