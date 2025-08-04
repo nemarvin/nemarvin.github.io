@@ -249,7 +249,7 @@ title: "About Me"
 
 </details>
 
-<img src="{{ site.baseurl }}/arles.gif">
+<img src="{{ site.baseurl }}/littlerock.gif">
 
 [Link to Download](https://docs.google.com/document/d/10En4En17DeJadPC6YplzNeQgRdE76q0k/preview)  
 
