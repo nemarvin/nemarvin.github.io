@@ -3,7 +3,7 @@ layout: page
 title: "Digital Projects"
 ---
 
-The projects below reflect my ongoing work in public-facing digital history. Please check back for updates. 
+Digital history projects in progress. Updates posted here. 
 
 ---
 
