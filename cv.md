@@ -3,14 +3,6 @@ layout: page
 title: "CV"
 ---
 
-# Nathan Elliot Marvin  
-*Curriculum Vitae*
-
-601A Stabler Hall, 2801 South University Avenue, Little Rock, AR 72204  
-📞 (501) 916-3236 | ✉️ [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu) | 🌐 [nemarvin.github.io](https://nemarvin.github.io)
-
----
-
 ## Selected CV Highlights
 
 <details>
