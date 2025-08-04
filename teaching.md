@@ -206,3 +206,5 @@ A curated and frequently updated set of tools, platforms, and archives to suppor
 <p>
 <img src="{{ site.baseurl }}/arles.gif" alt="Arles animated footer">
 </p>
+<p><a href="#">Back to Top</a></p>
+
