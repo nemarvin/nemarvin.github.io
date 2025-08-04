@@ -5,7 +5,7 @@ title: "About Me"
 
 
 
-## Selected CV Highlights
+## CV Highlights
 
 <details>
 <summary><strong>Academic Appointments</strong></summary>
