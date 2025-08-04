@@ -3,19 +3,25 @@ layout: page
 title: "Scholarship"
 ---
 
-## 📚 Selected Publications
 
 For a full list, see my [Google Scholar profile](https://scholar.google.com/citations?user=8jtmeYUAAAAJ&hl=en).
 
 ---
 
 <details>
-<summary><strong>🗞️ Articles</strong></summary>
+<summary><strong>Articles</strong></summary>
 
 <p>
 <img src="{{ site.baseurl }}/pub5.png" alt="The 'Ambroise Affair'" width="200"><br>
 <strong><a href="https://drive.google.com/file/d/13HDaWQDQkAgnthVORFdYn4tqqhlsAguF/view?usp=sharing">The 'Ambroise Affair'...</a></strong>
 </p>
+
+
+</details>
+
+
+<details>
+<summary><strong>Public Scholarship</strong></summary>
 
 <p>
 <img src="{{ site.baseurl }}/pub1.png" alt="Église, État, et Esclavage" width="200"><br>
@@ -29,10 +35,9 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 
 </details>
 
----
 
 <details>
-<summary><strong>📘 Book Chapters</strong></summary>
+<summary><strong>Book Chapters</strong></summary>
 
 <p>
 <img src="{{ site.baseurl }}/pub2.png" alt="Gender, Family, and Social Control" width="200"><br>
@@ -51,10 +56,9 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 
 </details>
 
----
 
 <details>
-<summary><strong>📑 Essays & Special Issues</strong></summary>
+<summary><strong>Essays & Special Issues</strong></summary>
 
 <p>
 <img src="{{ site.baseurl }}/pub0.png" alt="Gender in Slave and Post-Emancipation Societies" width="200"><br>
