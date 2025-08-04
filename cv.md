@@ -222,8 +222,14 @@ title: "CV"
 <summary><strong>Affiliations</strong></summary>
 
 - American Historical Association (AHA)  
-- ASECS, CRE, CRESOI  
-- FCHS, FEEGI, SFHS, SHA-EHS, WSFH
+- American Society for Eighteenth-Century Studies (ASECS)  
+- Consortium on the Revolutionary Era (CRE)  
+- Centre de Recherches sur les Sociétés de l’Océan Indien (CRESOI)  
+- French Colonial Historical Society (FCHS)  
+- Forum on Early-Modern Empires and Global Interactions (FEEGI)  
+- Society for French Historical Studies (SFHS)  
+- European History Section of the Southern Historical Association (SHA-EHS)  
+- Western Society for French History (WSFH)
 
 </details>
 
