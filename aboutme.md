@@ -9,10 +9,11 @@ I live in beautiful Central Arkansas, where I teach history at the University of
 
 <div style="max-width: 600px; margin: 2rem auto;">
   <img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" style="width: 100%; height: auto; display: block; margin-bottom: 1rem;">
-  <img src="{{ site.baseurl }}/portsmouthharbor.gif" alt="Home in Portsmouth Harbor, New Hampshire-Maine border" style="width: 100%; height: auto; display: block;">
+  <img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Home in Portsmouth Harbor, New Hampshire-Maine border" style="width: 100%; height: auto; display: block;">
 </div>
 
 <p><a href="#">Back to Top</a></p>
+
 
 
 
