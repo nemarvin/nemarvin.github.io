@@ -11,7 +11,7 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 <summary><strong>Appointments</strong></summary>
 
 <ul>
-  <li><strong>Assistant Professor of History</strong>, University of Arkansas at Little Rock, August 2018 – present.</li>
+  <li><strong>Associate Professor of History</strong>, University of Arkansas at Little Rock, August 2018 – present.</li>
 </ul>
 
 </details>
