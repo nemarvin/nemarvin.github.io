@@ -26,7 +26,7 @@ Detail from the illustrated manuscript, <em>La Vie ou aventures de J.-B. Tabardi
 
 <p>
 <img src="{{ site.baseurl }}/TeachWorldHistOnline.png" alt="Haitian stamp with the Unknown Maroon" width="200"><br>
-<strong><a href="https://docs.google.com/document/d/1VLeapD7tXd1Evtr60N6C0jREkNmtsRqO6jYI7wmaHgY/preview">View syllabus...</a></strong>
+<strong><a href="https://docs.google.com/document/d/106r53h2xSctV0le1YtJXpmWANu73O1sk8vinlnD3JYQ/preview?tab=t.0">View syllabus...</a></strong>
 </p>
 
 <p>
