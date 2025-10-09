@@ -33,7 +33,7 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 </details>
 
 <details>
-<summary><strong>Essays & Special Issues</strong></summary>
+<summary><strong>Essays</strong></summary>
 
 <p>
 <img src="{{ site.baseurl }}/pub0.png" alt="Gender in Slave and Post-Emancipation Societies" width="200"><br>
