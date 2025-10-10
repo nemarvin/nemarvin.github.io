@@ -16,8 +16,7 @@ Digital history projects in progress. Updates posted here.
 </p>
 
 <p>
-When French revolutionaries seized the assets of the Catholic Church as "national property," the enslaved people living on those properties in the colonies were not spared. This first-of-its-kind interactive atlas documents all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. A separate digital narrative feature zooms in on what happened on Réunion Island in 1793, when an agent of the French Republic oversaw the final appraisals or auctions of 365 men, women, and children. Read "between the lines"—his detailed reports show glimpses of resistance by enslaved people and their allies as they intervened in the process to keep families united.
-</p>
+When French revolutionaries seized the assets of the Catholic Church as "national property," the thousands of men, women, and children enslaved by missionary organizations across the colonial empire were not spared. This digital narrative traces their stories of survival and resistance through a close reading of the documents drawn up to facilitate their re-enslavement. It features a first-of-its-kind interactive atlas that maps all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond.</p>
 
 <p><strong>Explore:</strong></p>
 <ul>
@@ -47,8 +46,7 @@ Map App Companion to <em>Arkansas Créole</em>. Click the points on the map to r
 </ul>
 
 <p>
-This digital history project documents the contributions of French-speaking people to early Arkansas history and geography. It focuses on the diverse Creole community—composed of people of European, Indigenous, and African descent—that lived alongside the Ogahpah, Osage, and Caddo nations under French, Spanish, and early U.S. dominion. For generations, the “French period” of Arkansas history has been romanticized, whitewashed, and dismissed as inconsequential. This map recovers the people behind the placenames—especially rivers, bayous, and streams.
-</p>
+The “French period” of Arkansas history has long been romanticized, whitewashed, or dismissed as inconsequential. This digital history project documents the contributions of French-speaking people to early Arkansas’s history and geography. It focuses on the diverse Creole community—composed of people of European, Indigenous, and African descent—that lived alongside the Ogahpah Nation under French, Spanish, and U.S. rule. The accompanying map seeks to recover the stories of the people behind the place names—especially those of rivers, bayous, and streams.</p>
 
 <p><strong>Explore:</strong></p>
 <ul>
@@ -67,11 +65,7 @@ This digital history project documents the contributions of French-speaking peop
 </p>
 
 <p>
-From 1786 to 1810, Boston was the top point of origin for ships calling at Port Louis, Mauritius. Why was this distant French island port such a draw for Yankee captains? This map-based overview explores the reasons—documenting American merchants in the French islands of the Indian Ocean. The French free trade zone, the U.S. consulate (1794), and a desire to bypass British markets helped spur this transoceanic connection.
-</p>
-
-<p>
-The project also examines the ripple effects of the Haitian Revolution and France’s 1794 Abolition Decree. In 1796, American merchants supported a coup that expelled French commissioners enforcing abolition. Research supported by a Boston Athenaeum Library Fellowship from ASECS.
+Between 1786 and 1810, Boston was the leading point of origin for ships calling at Port Louis, Mauritius; this map-based overview explores why this distant French island port attracted so many Yankee captains—showing how the French free trade zone, the establishment of a U.S. consulate in 1794, a desire to bypass British markets, and a shared interest in preserving slavery in the Indian Ocean solidified a transoceanic connection between American merchants and Mascarene planters, and how, in the wake of the Haitian Revolution and France’s 1794 Abolition Decree, those same merchants supported a 1796 coup that expelled French commissioners enforcing emancipation (research supported by a Boston Athenæum Library Fellowship from ASECS).
 </p>
 
 <p><strong>Explore:</strong></p>
@@ -89,11 +83,7 @@ The project also examines the ripple effects of the Haitian Revolution and Franc
 </p>
 
 <p>
-Jean-Baptiste Tabardin, born to an enslaved mother in Mauritius, left behind an illustrated manuscript chronicling his voyages throughout the Indian and Atlantic Oceans during the French Revolutionary Wars. Over five voyages (1798–1811), often aboard privateering vessels, Tabardin reflected on race, religion, masculinity, slavery, and abolition.
-</p>
-
-<p>
-This project traces Tabardin’s journeys through a global maritime world shaped by revolution. His memoir, now held at the Carnegie Library of Mauritius, is both intensely personal and historically rich.
+Jean-Baptiste Tabardin, born to an enslaved mother in Mauritius, left behind a remarkable illustrated manuscript chronicling his voyages across the Indian and Atlantic Oceans during the French Revolutionary Wars. Today, "The Life and Adventures of J. B. Tabardin" (c. 1811) is preserved in the manuscript collections of Mauritius’s Carnegie Library. After twelve youthful years as a tailor, steward, and privateer turned prisoner of war, Tabardin reflected on love and masculinity, war and politics, race and religion, and the meaning of life itself.</p>
 </p>
 
 <p><strong>Explore:</strong></p>
