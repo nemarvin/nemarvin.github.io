@@ -46,7 +46,7 @@ Map App Companion to <em>Arkansas Créole</em>. Click the points on the map to r
 </ul>
 
 <p>
-The “French period” of Arkansas history has long been romanticized, whitewashed, or dismissed as inconsequential. This digital history project documents the contributions of French-speaking people to early Arkansas’s history and geography. It focuses on the diverse Creole community—composed of people of European, Indigenous, and African descent—that lived alongside the Ogahpah Nation under French, Spanish, and U.S. rule. The accompanying map seeks to recover the stories of the people behind the place names—especially those of rivers, bayous, and streams.</p>
+The “French period” of Arkansas history has long been romanticized, whitewashed, or altogether dismissed as inconsequential. This digital history project shines light on the contributions to Arkansas’s culture and geography made by French-speaking people of European, Indigenous, and African descent who lived alongside the Ogahpah Nation under French, Spanish, and early U.S. rule. The accompanying map seeks to recover the stories of the people behind the names of many of the state's settlements, mountains, bayous, and streams.</p>
 
 <p><strong>Explore:</strong></p>
 <ul>
