@@ -9,7 +9,7 @@ My first book traces developments in the politics of race on Réunion Island bef
 
 I teach history at the University of Arkansas at Little Rock.
 
-| <img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" width="45%"> | <img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Home in Portsmouth Harbor, New Hampshire-Maine border" width="45%"> |
+| <img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" width="45%"> | <img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Portsmouth Harbor, New Hampshire–Maine" width="45%"> |
 | --- | --- |
 
 [Back to Top](#)
