@@ -4,7 +4,6 @@ title: "Teaching"
 ---
 ---
 
-
 ## Course Syllabi
 
 <details>
@@ -77,7 +76,6 @@ Word cloud from a text-mining exercise based on the Oxford Bibliographies in Atl
 
 </details>
 
-
 <details>
 <summary><strong>Creole South</strong></summary>
 
@@ -87,11 +85,10 @@ Word cloud from a text-mining exercise based on the Oxford Bibliographies in Atl
 </p>
 
 <p>
-The course traces Creole histories across North America, the Caribbean, and beyond, connecting local to global stories.  
+The course traces Creole histories across North America, the Caribbean, and beyond, connecting local to global stories.
 </p>
 
 </details>
-
 
 <details>
 <summary><strong>Revolutions in World History</strong></summary>
@@ -206,6 +203,7 @@ In this methods course exercise, students analyze testimony in a colonial identi
 
 </details>
 
+<details>
 <summary><strong>Student Digital History Resource Guide</strong></summary>
 
 <p>
@@ -216,4 +214,12 @@ In this methods course exercise, students analyze testimony in a colonial identi
 A curated and frequently updated set of tools, platforms, and archives to support students exploring digital history methods and public scholarship.
 </p>
 
-</details> <p> <img src="{{ site.baseurl }}/arles.gif" alt="Arles animated footer"> </p> <p><a href="#">Back to Top</a></p>
+</details>
+
+<div style="margin: 2rem 0 2rem 1rem;">
+  <img src="{{ site.baseurl }}/arles.gif"
+       alt="Arles animated footer"
+       style="width: 75%; height: auto; display: block;">
+</div>
+
+<p><a href="#">Back to Top</a></p>
