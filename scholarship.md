@@ -67,6 +67,10 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 
 </details>
 
-<img src="{{ site.baseurl }}/3bassins.gif">
+<div style="margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/3bassins.gif"
+       alt="3 Bassins"
+       style="width: 75%; height: auto; display: block;">
+</div>
 
 <p><a href="#">Back to Top</a></p>
