@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-I am a historian of French Creole communities across the Atlantic and Indian Ocean worlds in the eighteenth and early nineteenth centuries. My work explores how slavery & resistance, race & religion, shaped culture and social life in those regions. My first book traces the politics of race on Réunion Island before and during the era of the French and Haitian Revolutions. My second project focuses on the relationships between Catholic missionary clergy and the people they enslaved throughout the French colonial world.
+I am a historian of French Creole communities across the Atlantic and Indian Ocean worlds. My work explores how slavery & resistance, race & religion, shaped culture and social life in those regions in the eighteenth and early nineteenth centuries. My first book traces the politics of race on Réunion Island before and during the era of the French and Haitian Revolutions. My second project focuses on the relationships between Catholic missionary clergy and the people they enslaved throughout the French colonial world.
 
 I teach history at the University of Arkansas at Little Rock.
 
@@ -11,5 +11,6 @@ I teach history at the University of Arkansas at Little Rock.
 | --- | --- |
 
 [Back to Top](#)
+
 
 
