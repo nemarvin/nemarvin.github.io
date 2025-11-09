@@ -11,12 +11,14 @@ My first book traces developments in the politics of race on Réunion Island bef
 
 My second project explores the complicated dynamics between Catholic missionary clergy and the people they enslaved throughout the Atlantic and Indian Ocean worlds.
 
-I teach history at the University of Arkansas at Little Rock.<div style="max-width: 600px; margin: 2rem auto;">
+I teach history at the University of Arkansas at Little Rock.
+<div style="max-width: 600px; margin: 2rem auto;">
   <img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" style="width: 100%; height: auto; display: block; margin-bottom: 1rem;">
   <img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Home in Portsmouth Harbor, New Hampshire-Maine border" style="width: 100%; height: auto; display: block;">
 </div>
 
 <p><a href="#">Back to Top</a></p>
+
 
 
 
