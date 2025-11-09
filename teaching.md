@@ -206,7 +206,6 @@ In this methods course exercise, students analyze testimony in a colonial identi
 
 </details>
 
-<details>
 <summary><strong>Student Digital History Resource Guide</strong></summary>
 
 <p>
@@ -217,15 +216,4 @@ In this methods course exercise, students analyze testimony in a colonial identi
 A curated and frequently updated set of tools, platforms, and archives to support students exploring digital history methods and public scholarship.
 </p>
 
-</details>
-
-
-<div style="margin: 2rem 0;">
-  <img src="{{ site.baseurl }}/arles.gif"
-       alt="Arles animated footer"
-       style="width: 75%; height: auto; display: block;">
-</div>
-
-<p><a href="#">Back to Top</a></p>
-
-
+</details> <p> <img src="{{ site.baseurl }}/arles.gif" alt="Arles animated footer"> </p> <p><a href="#">Back to Top</a></p>
