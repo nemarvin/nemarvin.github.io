@@ -9,7 +9,7 @@ My first book traces developments in the politics of race on Réunion Island bef
 
 I teach history at the University of Arkansas at Little Rock.
 
-<div style="max-width: 600px; margin: 2rem auto;">
+<div style="max-width: 600px; margin: 2rem 0;">
   <img src="{{ site.baseurl }}/fotoreminismaller.jpg"
        alt="National River Park, Arkansas"
        style="width: 75%; height: auto; display: block; margin-bottom: 1rem;">
