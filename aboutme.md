@@ -5,11 +5,11 @@ title: "About Me"
 
 I am a historian of the French Creole world in the eighteenth and early nineteenth centuries.  
 
-My work explores how slavery & resistance, race & religion, shaped life and society in spaces across that world.  
+My work explores how slavery & resistance, race & religion, shaped life and social relations in spaces across that world.  
 
-My first book traces developments in the politics of race on Réunion before and during the era of the French and Haitian Revolutions.  
+My first book traces developments in the politics of race on Réunion Island before and during the era of the French and Haitian Revolutions.  
 
-My second project explores the complex dynamics between Catholic missionary clergy and the people they enslaved across the Caribbean and the Mascarenes.  
+My second project explores the complicated dynamics between Catholic missionary clergy and the people they enslaved throughout the Atlantic and Indian Ocean worlds.
 
 I teach history at the University of Arkansas at Little Rock.<div style="max-width: 600px; margin: 2rem auto;">
   <img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" style="width: 100%; height: auto; display: block; margin-bottom: 1rem;">
@@ -17,6 +17,7 @@ I teach history at the University of Arkansas at Little Rock.<div style="max-wid
 </div>
 
 <p><a href="#">Back to Top</a></p>
+
 
 
 
