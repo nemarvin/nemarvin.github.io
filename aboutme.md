@@ -7,7 +7,8 @@ I am a historian of French Creole spaces across the Atlantic and Indian Ocean wo
 
 I teach history at the University of Arkansas at Little Rock.
 
-| <img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" height="260" style="object-fit: cover;"> | <img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Portsmouth Harbor, New Hampshire–Maine" height="260" style="object-fit: cover;"> |
-| --- | --- |
+<img src="{{ site.baseurl }}/fotoreminismaller.jpg" alt="National River Park, Arkansas" width="75%">
+
+<img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Portsmouth Harbor, New Hampshire–Maine" width="75%">
 
 [Back to Top](#)
