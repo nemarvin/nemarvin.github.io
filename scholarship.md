@@ -58,7 +58,7 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 <p>
   <iframe
     src="//v.calameo.com/?bkcode=00522093399f6cf3724ae&mode=mini&showsharemenu=false&clickto=view&clicktarget=_blank"
-    width="200"
+    width="400"
     height="260"
     style="border: none; display: block;"
     title="Digital Publication"
