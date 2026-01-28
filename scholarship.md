@@ -56,6 +56,24 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 <summary><strong>Public Scholarship</strong></summary>
 
 <p>
+  <iframe
+    src="//v.calameo.com/?bkcode=00522093399f6cf3724ae&mode=mini&showsharemenu=false&clickto=view&clicktarget=_blank"
+    width="200"
+    height="260"
+    style="border: none; display: block;"
+    title="Digital Publication"
+    loading="lazy"
+    allowfullscreen>
+  </iframe><br>
+  <strong>
+    <a href="https://www.portail-esclavage-reunion.fr/dossiers-documentaires/laffaire-abby-guy-le-combat-dune-femme-pour-la-liberte-dans-le-sud-des-etats-unis-exposition-musee-de-villele/">
+      “L’affaire Abby Guy : Le combat d’une femme pour la liberté dans le Sud des États-Unis”
+    </a>
+  </strong>
+</p>
+
+
+<p>
 <img src="{{ site.baseurl }}/pub1.png" alt="Église, État, et Esclavage" width="200"><br>
 <strong><a href="https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/">Église, État, et Esclavage...</a></strong>
 </p>
