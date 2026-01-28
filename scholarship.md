@@ -55,6 +55,19 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
 <details>
 <summary><strong>Public Scholarship</strong></summary>
 
+
+
+
+<p>
+<img src="{{ site.baseurl }}/pub1.png" alt="Église, État, et Esclavage" width="200"><br>
+<strong><a href="https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/">Église, État, et Esclavage...</a></strong>
+</p>
+
+<p>
+<img src="{{ site.baseurl }}/pub0.jpg" alt="Looking for 'Petit Jean'" width="200"><br>
+<strong><a href="https://64parishes.org/looking-for-petit-jean">Looking for 'Petit Jean'...</a></strong>
+</p>
+
 <p>
   <iframe
     src="//v.calameo.com/?bkcode=00522093399f6cf3724ae&mode=mini&showsharemenu=false&clickto=view&clicktarget=_blank"
@@ -70,17 +83,6 @@ For a full list, see my [Google Scholar profile](https://scholar.google.com/cita
       “L’affaire Abby Guy : Le combat d’une femme pour la liberté dans le Sud des États-Unis”
     </a>
   </strong>
-</p>
-
-
-<p>
-<img src="{{ site.baseurl }}/pub1.png" alt="Église, État, et Esclavage" width="200"><br>
-<strong><a href="https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/">Église, État, et Esclavage...</a></strong>
-</p>
-
-<p>
-<img src="{{ site.baseurl }}/pub0.jpg" alt="Looking for 'Petit Jean'" width="200"><br>
-<strong><a href="https://64parishes.org/looking-for-petit-jean">Looking for 'Petit Jean'...</a></strong>
 </p>
 
 </details>
