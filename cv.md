@@ -17,7 +17,7 @@ nemarvin@ualr.edu | nemarvin.github.io
 </p>
 
 <p>
-Historian of race, slavery, and resistance in the French colonial world, with a particular focus on the Indian Ocean. My research examines how colonial regimes produced and contested racial categories through family, religion, and everyday practices of governance.
+Historian of race, slavery, and resistance in the French colonial world (esp. Indian Ocean, North America, Caribbean). 
 </p>
 
 </section>
