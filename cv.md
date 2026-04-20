@@ -9,12 +9,7 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 
 <section>
 
-<h2>Nathan Elliot Marvin</h2>
-<p>
-Associate Professor of History<br>
-University of Arkansas at Little Rock<br>
-nemarvin@ualr.edu | nemarvin.github.io
-</p>
+<h2>Short CV</h2>
 
 <p>
 Historian of race, slavery, and resistance in the French colonial world (esp. Indian Ocean, North America, Caribbean). 
