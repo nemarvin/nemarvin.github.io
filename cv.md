@@ -11,10 +11,6 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 
 <h2>Short CV</h2>
 
-<p>
-Historian of race, slavery, and resistance in the French colonial world (esp. Indian Ocean, North America, Caribbean). 
-</p>
-
 </section>
 
 <details>
