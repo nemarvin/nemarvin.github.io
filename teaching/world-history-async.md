@@ -161,8 +161,8 @@ Limit one grade boost per semester.
 
 *Subject to change at the discretion of the instructor.*
 
-| Due Date | Assignment(s) Due | Location on Blackboard | Topics/Folders Covered |
-|---|---|---|---|
+| <strong>Due Date</strong> | <strong>Assignment(s) Due</strong> | <strong>Location on Blackboard</strong> | <strong>Topics/Content Folders Covered</strong> |
+|---|---|---|---||---|---|---|---|
 | **Tuesday, May 26** | Course Overview Quiz; Plagiarism Quiz; Historical Thinking Basics Quiz *(together: 3% of overall grade)* | Start Here / Course Orientation | Start Here / Course Orientation |
 | **Wednesday, May 27** | “Virtual Meet and Greet” (Perusall); “Meeting of Cortés and Moctezuma” (Perusall) *(together: 5% of overall grade)* | Discussion / Perusall |  |
 | **Thursday, May 28** | Quiz (Unit 1): Early Modern Empires *(4% of overall grade)* | Unit 1 | Introductions / First Encounters; European Empires in the Americas I & II; Eurasian Empires; Islamic Empires; Global Trade Networks |
