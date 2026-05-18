@@ -134,13 +134,6 @@ Each exhibit must include:
 
 Students will peer review one another’s exhibits and revise accordingly.
 
-## Scores
-
-| Assignment | Weight |
-|---|---|
-| Exhibit 1 | 24% |
-| Exhibit 2 | 27% |
-
 *If you earn a perfect grade or are otherwise satisfied with your grade on Exhibit 1, you may email the professor to request exemption from Exhibit 2, in which case your Exhibit 1 grade will be applied in place of Exhibit 2.*
 
 ---
