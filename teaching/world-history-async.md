@@ -26,11 +26,7 @@ This course explores the processes that shaped global history from 1500 to the t
 
 # Themes
 
-Everything is shaped by what came before. Thinking historically means attending to how and why things change over time, and in this course, we’ll take that approach as we seek to understand the historical processes that shaped our contemporary world.
-
-In particular, we’ll explore the processes by which once-distant regions have become entangled by empire, migration, commerce, and the circulation of ideas. To do so, we’ll examine primary sources, including first-hand recollections, institutional pronouncements, films, and maps.
-
-The goals of this course are ambitious; no single framework can adequately account for such a broad sweep of human history. I welcome your constructive feedback.
+Everything is shaped by what came before. Thinking historically means attending to how and why things change over time. In this course, we will examine primary sources(including memoirs, petitions, official documents, films, propaganda, and maps) as we seek to understand the historical processes that shaped our contemporary world. In particular, we will explore how once-distant regions became increasingly connected through empire, migration, commerce, and the circulation of ideas. No single framework can fully account for such a broad sweep of human history, and I welcome your feedback and ideas as we work through these questions together.
 
 ---
 
@@ -108,13 +104,13 @@ Your grade in this category will depend on:
 - engagement with peers
 - quality of comments and questions
 
-Perusall does not yet have a functioning mobile app, so you must use a desktop computer, tablet, or laptop.
+Perusall does not yet have a mobile app, so you must use a desktop computer, tablet, or laptop.
 
 ---
 
 # Exhibit Assignments
 
-We will create two interactive digital exhibits:
+Students will create two interactive digital exhibits:
 
 1. A pictorial-map exhibit using the David Rumsey Map Collection  
 2. A photo exhibit using the Allison WWII Photographs Collection
@@ -125,7 +121,7 @@ Each exhibit must include:
 - primary-source analysis
 - a 1.5–3 minute audio or video walkthrough
 
-Students will peer review one another’s exhibits and revise accordingly.
+Students will peer-review one another’s exhibits and revise accordingly.
 
 *If you earn a perfect grade or are otherwise satisfied with your grade on Exhibit 1, you may email the professor to request exemption from Exhibit 2, in which case your Exhibit 1 grade will be applied in place of Exhibit 2.*
 
@@ -137,7 +133,7 @@ Students will peer review one another’s exhibits and revise accordingly.
 
 Meet with me; boost your grade!
 
-If your grade falls below a “C” (<70), meeting with me during office hours may result in one grade from either the Quiz or Perusall categories being changed to 100%.
+If your grade falls below a “C” (<70), meeting with me during office hours will result in one grade from either the Quiz or Perusall categories being changed to 100%.
 
 Limit one grade boost per semester.
 
