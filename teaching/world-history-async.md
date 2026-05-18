@@ -165,7 +165,7 @@ Limit one grade boost per semester.
 
 # Textbooks
 
-Required readings are drawn from:
+Textbook readings are drawn from:
 
 - Robert Strayer and Eric Nelson, *Ways of the World: A Brief Global History with Sources*  
 - Ann Kordas, Ryan Lynch, and Brooke Nelson, *World History, Volume 2 From 1400* (OpenStax)
