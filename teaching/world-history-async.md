@@ -11,7 +11,7 @@ permalink: /teaching/world-history-async/
 
 - **Dates:** May 26 – June 29, 2026  
 - **Term:** SUMMER_FIRST_5_WEEKS_2026  
-- **Course:** HIST 11203-991 // Hist Of Civilization II  
+- **Course:** HIST 11203-991, 9U1 // Hist Of Civilization II  
 - **Instructor:** Nathan Elliot Marvin, Ph.D.  
 - **Email:** [nemarvin@ualr.edu](mailto:nemarvin@ualr.edu)  
 - **Office Hours:** [By appointment](https://calendly.com/nemarvin/office-hours)
