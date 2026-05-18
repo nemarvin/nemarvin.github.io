@@ -93,13 +93,7 @@ You may keep up with your progress in the course—including individual grades a
 
 # Quizzes & “Knowledge Checks”
 
-You’ll take regular quizzes throughout the semester to help you keep up with weekly materials and check your understanding of key lessons.
-
-You have two attempts for each quiz, and the higher score will count.
-
-**Course content quizzes cover lecture content—not the textbook content.**
-
-Most quizzes include an extra credit question on the theme “Power and Place.”
+You’ll take regular quizzes throughout the semester to help you keep up with weekly materials and check your understanding of key lessons. You have two attempts for each quiz, and the higher score will count. **Course content quizzes cover lecture content—not the textbook content.** Most quizzes include an extra credit question on the theme “Power and Place.”
 
 ---
 
@@ -236,15 +230,11 @@ Please notify me via email when submitting late work.
 
 ## Plagiarism
 
-All sources, including material gathered online, must be properly cited.
-
-Students involved in plagiarism or cheating may receive the lowest possible grade for the assignment and may be referred for disciplinary action.
+When you use others’ words or ideas without giving them credit, you are plagiarizing. All sources, including information gathered on the Internet, must be correctly cited in all assignments. Anyone who is involved in cheating or plagiarism will automatically receive the lowest possible grade for the assignment and may be referred to the Integrity and Grievance Committee for disciplinary action. 
 
 ## Generative AI
 
-Submitting work generated fully or substantially by AI tools (including ChatGPT) constitutes academic dishonesty.
-
-AI may appear useful, but it is not a compelling author. Trust your own interpretive voice.
+It is cheating to submit texts rendered fully or in part by another person or by software, including generative AI (artificial intelligence) tools such as OpenAI’s ChatGPT. Submissions that are composed entirely using AI with no (or virtually no) input from you will usually not meet the expectations of an assignment. AI may appear to be a helpful assistant, but it is not a compelling author. Trust your own interpretive voice, and communicate with me if you are struggling, rather than deferring to AI. 
 
 ---
 
