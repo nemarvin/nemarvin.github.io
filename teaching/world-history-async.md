@@ -80,37 +80,15 @@ You may keep up with your progress in the course—including individual grades a
 
 *Final grades rounded to the nearest integer.*
 
-<h2>Grade Breakdown</h2>
+## Assignment Categories
 
-<div style="max-width:700px;">
-
-<p><strong>Introductory Quizzes (3%)</strong></p>
-<div style="background:#e5e7eb; border-radius:999px; height:18px; margin-bottom:14px;">
-  <div style="width:3%; background:#374151; height:18px; border-radius:999px;"></div>
-</div>
-
-<p><strong>Unit Content Quizzes (16%)</strong></p>
-<div style="background:#e5e7eb; border-radius:999px; height:18px; margin-bottom:14px;">
-  <div style="width:16%; background:#374151; height:18px; border-radius:999px;"></div>
-</div>
-
-<p><strong>Discussion / Perusall (30%)</strong></p>
-<div style="background:#e5e7eb; border-radius:999px; height:18px; margin-bottom:14px;">
-  <div style="width:30%; background:#374151; height:18px; border-radius:999px;"></div>
-</div>
-
-<p><strong>Exhibit 1 (24%)</strong></p>
-<div style="background:#e5e7eb; border-radius:999px; height:18px; margin-bottom:14px;">
-  <div style="width:24%; background:#374151; height:18px; border-radius:999px;"></div>
-</div>
-
-<p><strong>Exhibit 2 (27%)</strong></p>
-<div style="background:#e5e7eb; border-radius:999px; height:18px; margin-bottom:14px;">
-  <div style="width:27%; background:#374151; height:18px; border-radius:999px;"></div>
-</div>
-
-</div>
-
+| Category | Weight |
+|---|---|
+| Introductory Quizzes | 3% |
+| Unit Content Quizzes | 16% |
+| Discussion / Perusall | 30% |
+| Exhibit 1 | 24% |
+| Exhibit 2 | 27% |
 ---
 
 # Quizzes & “Knowledge Checks”
