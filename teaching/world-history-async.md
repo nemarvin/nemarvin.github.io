@@ -138,29 +138,31 @@ If your grade falls below a “C” (<70), meeting with me during office hours w
 Limit one grade boost per semester.
 
 ---
+
 ## Schedule & Due Dates
 
 **Important:** Assignments are generally due on Tuesdays, Wednesdays, and Thursdays by **11:59 p.m. Central Time** unless otherwise noted.
 
-| <strong>Due Date</strong> | <strong>Assignment(s) Due</strong> | <strong>% of Overall Grade</strong> | <strong>Location on Blackboard</strong> |
-|:---|:---|:---:|:---|
+| Due Date | Assignment(s) Due | % of Overall Grade | Location on Blackboard |
+|---|---|---:|---|
 | **Tuesday, May 26** | Course Overview Quiz; Plagiarism Quiz; Historical Thinking Basics Quiz | **3%** | Start Here / Course Orientation |
 | **Wednesday, May 27** | “Virtual Meet and Greet” (Perusall); “Meeting of Cortés and Moctezuma” (Perusall) | **5%** | Discussion / Perusall |
-| **Thursday, May 28** | Quiz (Unit 1): Early Modern Empires (Introductions / First Encounters; European Empires in the Americas I, II; Eurasian Empires; Islamic Empires; Global Trade Networks) | **4%** | Unit 1 |
+| **Thursday, May 28** | Quiz (Unit 1): Early Modern Empires — Introductions / First Encounters; European Empires in the Americas I, II; Eurasian Empires; Islamic Empires; Global Trade Networks | **4%** | Unit 1 |
 | **Tuesday, June 2** | “Quapaw Three Villages Robe” (Perusall); “Three Perspectives from Women in the Colonial Americas” (Perusall) | **5%** | Discussion / Perusall |
-| **Wednesday, June 3** | Quiz (Unit 2): Age of Revolutions (Atlantic Slave Trade; Age of Revolutions I, II, III; Industrial Revolutions I, II) | **4%** | Unit 2 |
+| **Wednesday, June 3** | Quiz (Unit 2): Age of Revolutions — Atlantic Slave Trade; Age of Revolutions I, II, III; Industrial Revolutions I, II | **4%** | Unit 2 |
 | **Thursday, June 4** | “Mapping the Age of Exploration” (Perusall); “The Life of Omar Ibn Said” (Perusall) | **5%** | Discussion / Perusall |
 | **Tuesday, June 9** | “Freedom Demands in the Age of Revolution” (Perusall); “Imagining a Monument” (Perusall) | **5%** | Discussion / Perusall |
 | **Wednesday, June 10** | *No submission due: exhibit prep* | — | — |
 | **Thursday, June 11** | Map Exhibit | **24%** | Map Exhibit |
-| **Tuesday, June 16** | Quiz (Unit 3): Modern Empires (Industrial Revolution Goes Global; Modern European Empires I, II; Modernization in Asia; Nationalism and Revolution in China) | **4%** | Unit 3 |
+| **Tuesday, June 16** | Quiz (Unit 3): Modern Empires — Industrial Revolution Goes Global; Modern European Empires I, II; Modernization in Asia; Nationalism and Revolution in China | **4%** | Unit 3 |
 | **Wednesday, June 17** | “Intellectual Responses to Industrialization” (Perusall); “Sun Yat-sen & Qiu Jin” (Perusall) | **5%** | Discussion / Perusall |
-| **Thursday, June 18** | Quiz (Unit 4): 20th Century (WWI; Rise of Dictators; WWII & the Holocaust; Decolonization; Cold War; World at the Turn of the 21st Century) | **4%** | Unit 4 |
+| **Thursday, June 18** | Quiz (Unit 4): 20th Century — WWI; Rise of Dictators; WWII & the Holocaust; Decolonization; Cold War; World at the Turn of the 21st Century | **4%** | Unit 4 |
 | **Tuesday, June 23** | “Personal Stories from the Holocaust Era” (Perusall); “Battle of Algiers” (Perusall) | **5%** | Discussion / Perusall |
 | **Wednesday, June 24** | *No submission due: exhibit prep* | — | — |
 | **Thursday, June 25** | Photo Exhibit | **27%** | Photo Exhibit |
-| **Tuesday, June 30** | Final Day of the Course / Last Day to Submit Missing Work *(No late work accepted after this date; final grades due shortly thereafter.)* | — | — |
-| **Wednesday, July 1** | *12:00 p.m. — Deadline for instructor to submit final grades to the Office of Student Records* | — | — |
+| **Tuesday, June 30** | Final Day of the Course / Last Day to Submit Missing Work. No late work accepted after this date; final grades due shortly thereafter. | — | — |
+| **Wednesday, July 1** | 12:00 p.m. — Deadline for instructor to submit final grades to the Office of Student Records | — | — |
+
 ---
 
 # Textbooks
