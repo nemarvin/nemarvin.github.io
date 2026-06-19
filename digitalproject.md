@@ -20,7 +20,7 @@ When French revolutionaries seized the assets of the Catholic Church as "nationa
 
 <p><strong>Explore:</strong></p>
 <ul>
-  <li><a href="https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=e89b39a7dadf4f6fb5184b7c694f02ac">Map App</a></li>
+  <li><a href="https://nemarvin.github.io/church-slavery-atlas/">Map App</a></li>
   <li><a href="https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048">StoryMap Narrative (English)</a></li>
   <li><a href="https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422">StoryMap Narrative (Français)</a></li>
   <li><a href="https://arcg.is/1SKG4u0">StoryMap Detail ("Les Ventes / 1793")</a></li>
