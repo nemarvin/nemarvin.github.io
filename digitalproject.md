@@ -51,7 +51,7 @@ The “French period” of Arkansas history has long been romanticized, whitewas
 
 <p><strong>Explore:</strong></p>
 <ul>
-  <li><a href="https://gislabualr.maps.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li>
+  <li><a href="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1KzCWSWgVIp_LNtOnzIFhbCU2DXkO-W9oFn4q6WbL3CY/preview">Dataset</a></li>
 </ul>
 
