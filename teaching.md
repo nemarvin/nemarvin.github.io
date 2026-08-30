@@ -2,7 +2,6 @@
 layout: page
 title: "Teaching"
 ---
----
 
 ## Course Syllabi
 
@@ -39,7 +38,8 @@ Haitian postage stamps depicting “the Unknown Maroon,” symbol of resistance 
 
 <p>
 <img src="{{ site.baseurl }}/TeachFrencHist.png" alt="Josephine Baker Pantheon photo" width="200"><br>
-<strong><a href="https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview">View syllabus...</a></strong>
+<strong><a href="https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview">View syllabus (v1)...</a></strong><br>
+<strong><a href="https://docs.google.com/document/d/14ygltrpqJUv1XieKAHX0A7mDH2qUUAVB/preview">View syllabus (v2)...</a></strong>
 </p>
 
 <p>
