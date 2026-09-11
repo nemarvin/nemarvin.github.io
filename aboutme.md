@@ -11,6 +11,6 @@ I am a native of New Hampshire, where I grew up on the Piscataqua River. I teach
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Portsmouth Harbor, New Hampshire–Maine" width="75%">
+<img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Portsmouth Harbor, New Hampshire–Maine" style="height: 170px; width: auto;">
 
 [Back to Top](#)
