@@ -16,5 +16,3 @@ I live and work in beautiful Central Arkansas. But home is also the Piscataqua R
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/portsmouthharbor_second_half.gif" alt="Portsmouth Harbor, New Hampshire–Maine" style="height: 170px; width: auto;">
-
-[Back to Top](#)
