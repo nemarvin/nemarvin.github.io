@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV"}
   - {file: "scholarship.md", title: "Scholarship"}
   - {file: "teaching.md", title: "Teaching"}
+  - {title: "OER Textbook", url: "https://nemarvin.github.io/textio/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nemarvin@ualr.edu"}
