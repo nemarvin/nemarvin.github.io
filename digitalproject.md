@@ -3,7 +3,9 @@ layout: page
 title: "Digital Projects"
 ---
 
-Digital history projects in progress. Updates posted here. 
+
+
+Digital history projects in progress. Updates posted here.
 
 ---
 
@@ -27,7 +29,7 @@ Digital history projects in progress. Updates posted here.
 
 <p> The “French period” of Arkansas history has long been romanticized, whitewashed, or altogether dismissed as inconsequential. This digital history project shines light on the contributions to Arkansas’s culture and geography made by French-speaking people of European, Indigenous, and African descent who lived alongside the Ogahpah Nation under French, Spanish, and early U.S. rule. The accompanying map seeks to recover the stories of the people behind the names of many of the state's settlements, mountains, bayous, and streams. </p>
 
-<p><strong>Explore:</strong></p> <ul> <li><a href="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li> <li><a href="https://docs.google.com/spreadsheets/d/1KzCWSWgVIp_LNtOnzIFhbCU2DXkO-W9oFn4q6WbL3CY/preview">Dataset</a></li> <li></li><a href="https://arcg.is/1izPe01">Digital Narrative</a></li> </ul>
+<p><strong>Explore:</strong></p> <ul> <li><a href="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li> <li><a href="https://docs.google.com/spreadsheets/d/1KzCWSWgVIp_LNtOnzIFhbCU2DXkO-W9oFn4q6WbL3CY/preview">Dataset</a></li> <li><a href="https://arcg.is/1izPe01">StoryMap Narrative</a></li> </ul>
 
 </details>
 
@@ -54,3 +56,4 @@ Digital history projects in progress. Updates posted here.
 <p> <img src="{{ site.baseurl }}/caen2.gif" alt="Garden at the Abbaye-aux-Hommes, Caen, Normandy"> </p>
 
 <p><a href="#">Back to Top</a></p>
+
