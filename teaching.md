@@ -160,6 +160,11 @@ Original map depicting sites impacted by the Haitian Revolution in North America
 
 </details>
 
+<div style="margin: 2rem 0 2rem 1rem;">
+  <img src="{{ site.baseurl }}/arles.gif"
+       alt="Arles animated footer"
+       style="width: 75%; height: auto; display: block;">
+</div>
 ---
 
 ## Teaching Resources
@@ -217,8 +222,8 @@ A curated and frequently updated set of tools, platforms, and archives to suppor
 </details>
 
 <div style="margin: 2rem 0 2rem 1rem;">
-  <img src="{{ site.baseurl }}/arles.gif"
-       alt="Arles animated footer"
+  <img src="{{ site.baseurl }}/montstmichel.gif"
+       alt="Mont Saint-Michel animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
 
