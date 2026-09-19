@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About Me"}
   - {file: "cv.md", title: "CV"}
   - {file: "scholarship.md", title: "Scholarship"}
-  - {file: "digitalproject.md", title: "DH Projects"}
+  - {file: "digitalproject.md", title: "Digital Projects"}
   - {file: "teaching.md", title: "Teaching"}
   - {title: "Textbook", url: "https://nemarvin.github.io/textio/"}
 
