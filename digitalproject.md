@@ -3,21 +3,9 @@ layout: page
 title: "Digital Projects"
 ---
 
-
-
 Digital history projects in progress. Updates posted here.
 
 ---
-
-<details> <summary><strong>Enslaved by the Church, Sold for the Republic</strong></summary>
-
-<p> <img src="{{ site.baseurl }}/image3.png" alt="Victims of 1793, Reunion Island - screenshot 1"> <img src="{{ site.baseurl }}/image5.png" alt="Victims of 1793, Reunion Island - screenshot 2"> </p>
-
-<p> When French revolutionaries seized the assets of the Catholic Church as "national property," the thousands of men, women, and children enslaved by missionary organizations across the colonial empire were not spared. This digital narrative traces their stories of survival and resistance through a close reading of the documents drawn up to facilitate their re-enslavement. It features a first-of-its-kind interactive atlas that maps all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. </p>
-
-<p><strong>Explore:</strong></p> <ul> <li><a href="https://nemarvin.github.io/church-slavery-atlas/">Map: Church and Slavery Atlas (18th c.)</a></li> <li><a href="https://github.com/nemarvin/church-slavery-atlas/blob/main/french_clergy.csv">Dataset: French Colonial Clergy Slaveholding</a></li> <li><a href="https://github.com/nemarvin/church-slavery-atlas/blob/main/world_eccl.csv">Dataset: Global Ecclesiastical Slaveholding</a></li> <li><a href="https://arcg.is/14Liv82">Map: French Missions Worldwide (1782)</a></li> <li><a href="https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048">StoryMap Narrative (English)</a></li> <li><a href="https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422">StoryMap Narrative (Français)</a></li> <li><a href="https://arcg.is/1SKG4u0">StoryMap Detail ("Les Ventes / 1793")</a></li> </ul>
-
-</details>
 
 <details> <summary><strong>Arkansas Créole: Recovering a Lost Vernacular Landscape</strong></summary>
 
@@ -29,7 +17,23 @@ Digital history projects in progress. Updates posted here.
 
 <p> The “French period” of Arkansas history has long been romanticized, whitewashed, or altogether dismissed as inconsequential. This digital history project shines light on the contributions to Arkansas’s culture and geography made by French-speaking people of European, Indigenous, and African descent who lived alongside the Ogahpah Nation under French, Spanish, and early U.S. rule. The accompanying map seeks to recover the stories of the people behind the names of many of the state's settlements, mountains, bayous, and streams. </p>
 
-<p><strong>Explore:</strong></p> <ul> <li><a href="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li> <li><a href="https://docs.google.com/spreadsheets/d/1KzCWSWgVIp_LNtOnzIFhbCU2DXkO-W9oFn4q6WbL3CY/preview">Dataset</a></li> <li><a href="https://arcg.is/1izPe01">StoryMap Narrative</a></li> </ul>
+<p><strong>Explore:</strong></p> 
+<ul> 
+<li><a href="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li> 
+<li><a href="https://docs.google.com/spreadsheets/d/1KzCWSWgVIp_LNtOnzIFhbCU2DXkO-W9oFn4q6WbL3CY/preview">Dataset</a></li> 
+<li><a href="https://arcg.is/1izPe01">StoryMap Narrative</a></li>
+<li><a href="https://youtu.be/StffuOwZWGc?si=Gibl8l_xagVG6A-M">Video Introduction</a></li> 
+</ul>
+
+</details>
+
+<details> <summary><strong>Enslaved by the Church, Sold for the Republic</strong></summary>
+
+<p> <img src="{{ site.baseurl }}/image3.png" alt="Victims of 1793, Reunion Island - screenshot 1"> <img src="{{ site.baseurl }}/image5.png" alt="Victims of 1793, Reunion Island - screenshot 2"> </p>
+
+<p> When French revolutionaries seized the assets of the Catholic Church as "national property," the thousands of men, women, and children enslaved by missionary organizations across the colonial empire were not spared. This digital narrative traces their stories of survival and resistance through a close reading of the documents drawn up to facilitate their re-enslavement. It features a first-of-its-kind interactive atlas that maps all sites of slaveholding by Roman Catholic orders and congregations in the French colonial world and beyond. </p>
+
+<p><strong>Explore:</strong></p> <ul> <li><a href="https://nemarvin.github.io/church-slavery-atlas/">Map: Church and Slavery Atlas (18th c.)</a></li> <li><a href="https://github.com/nemarvin/church-slavery-atlas/blob/main/french_clergy.csv">Dataset: French Colonial Clergy Slaveholding</a></li> <li><a href="https://github.com/nemarvin/church-slavery-atlas/blob/main/world_eccl.csv">Dataset: Global Ecclesiastical Slaveholding</a></li> <li><a href="https://arcg.is/14Liv82">Map: French Missions Worldwide (1782)</a></li> <li><a href="https://storymaps.arcgis.com/stories/68ea1822adba48acadb2848f40b29048">StoryMap Narrative (English)</a></li> <li><a href="https://storymaps.arcgis.com/stories/08351cc5814c4d6e9d1672145575b422">StoryMap Narrative (Français)</a></li> <li><a href="https://arcg.is/1SKG4u0">StoryMap Detail ("Les Ventes / 1793")</a></li> </ul>
 
 </details>
 
@@ -56,4 +60,3 @@ Digital history projects in progress. Updates posted here.
 <p> <img src="{{ site.baseurl }}/caen2.gif" alt="Garden at the Abbaye-aux-Hommes, Caen, Normandy"> </p>
 
 <p><a href="#">Back to Top</a></p>
-
