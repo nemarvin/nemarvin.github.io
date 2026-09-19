@@ -13,7 +13,7 @@ My research and teaching focus on places (and people) considered “marginal” 
      alt="Portsmouth Harbor, New Hampshire–Maine"
      style="float: right; width: 35%; height: auto; margin: 0.25rem 0 1rem 1.5rem;">
 
-I teach history at the University of Arkansas at Little Rock (in a region whose own Creole history has often been treated as "marginal"), where I work with students to connect local histories to global processes and to bring our findings to audiences beyond the classroom. As it happens, doing history "from the margins"—both social and geographical—does more than make our scholarship richer; it can help us rethink the ways the past figures in the stories we tell about our communities.
+I teach history at the University of Arkansas at Little Rock (in a region whose own Creole history has often been treated as "marginal"), where I work with students to connect local histories to global processes and to bring our findings, and the new questions they raise, to audiences beyond the classroom. As it happens, doing history "from the margins"—both social and geographical—does more than make our scholarship richer; it can help us rethink the ways the past figures in the stories we tell about our communities.
 
 I live in beautiful Central Arkansas. I am originally from the Piscataqua River region of coastal New Hampshire and southern Maine, where I first learned the power of history to foster a more meaningful sense of place.
 
