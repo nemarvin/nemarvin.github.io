@@ -8,5 +8,3 @@ For full CV, [click here](https://docs.google.com/document/d/10En4En17DeJadPC6Yp
 
 
 <img src="{{ site.baseurl }}/littlerock.gif">
-
-<p><a href="#">Back to Top</a></p>
