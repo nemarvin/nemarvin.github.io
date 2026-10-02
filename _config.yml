@@ -17,10 +17,10 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About Me"}
-  - {file: "cv.md", title: "CV"}
-  - {file: "scholarship.md", title: "Scholarship"}
   - {file: "digitalproject.md", title: "Digital Projects"}
+  - {file: "cv.md", title: "CV"}
   - {file: "teaching.md", title: "Teaching Materials"}
+  - {file: "scholarship.md", title: "Scholarship"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nemarvin@ualr.edu"}
