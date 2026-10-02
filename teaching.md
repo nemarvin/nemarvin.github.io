@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-## Open Educational Resources (Textbooks)
+## Open Educational Resources 
 
 <details>
 <summary><strong>Freedom Deferred: Slavery, Resistance, & the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</strong></summary>
@@ -204,7 +204,7 @@ Original map depicting sites impacted by the Haitian Revolution in North America
 
 ---
 
-## Teaching Resources
+## Additional Teaching Resources
 
 <details>
 <summary><strong>Mother Lange: A Haitian-American Educator</strong></summary>
