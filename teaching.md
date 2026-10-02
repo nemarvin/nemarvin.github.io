@@ -31,6 +31,12 @@ An open educational resource exploring the French and Creole histories embedded 
 
 </details>
 
+<div style="margin: 2rem 0 2rem 1rem;">
+  <img src="{{ site.baseurl }}/nolafog.gif"
+       alt="New Orleans fog animated footer"
+       style="width: 75%; height: auto; display: block;">
+</div>
+
 ---
 
 ## Course Syllabi
@@ -191,14 +197,14 @@ Original map depicting sites impacted by the Haitian Revolution in North America
 </details>
 
 <div style="margin: 2rem 0 2rem 1rem;">
-  <img src="{{ site.baseurl }}/arles.gif"
-       alt="Arles animated footer"
+  <img src="{{ site.baseurl }}/montstmichel.gif"
+       alt="Mont Saint-Michel animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
 
 ---
 
-## Additional Teaching Resources
+## Teaching Resources
 
 <details>
 <summary><strong>Mother Lange: A Haitian-American Educator</strong></summary>
@@ -240,8 +246,8 @@ A curated and frequently updated set of tools, platforms, and archives to suppor
 </details>
 
 <div style="margin: 2rem 0 2rem 1rem;">
-  <img src="{{ site.baseurl }}/montstmichel.gif"
-       alt="Mont Saint-Michel animated footer"
+  <img src="{{ site.baseurl }}/arles.gif"
+       alt="Arles animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
 
