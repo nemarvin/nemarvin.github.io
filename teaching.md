@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-# Open Educational Resources (Textbooks)
+## Open Educational Resources (Textbooks)
 
 <details>
 <summary><strong>Freedom Deferred: Slavery, Resistance, & the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</strong></summary>
