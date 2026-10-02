@@ -198,7 +198,7 @@ Original map depicting sites impacted by the Haitian Revolution in North America
 
 ---
 
-## Teaching Resources
+## Additional Teaching Resources
 
 <details>
 <summary><strong>Mother Lange: A Haitian-American Educator</strong></summary>
