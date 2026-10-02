@@ -3,6 +3,36 @@ layout: page
 title: "Teaching"
 ---
 
+# Open Educational Resources (Textbooks)
+
+<details>
+<summary><strong>Freedom Deferred: Slavery, Resistance, & the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</strong></summary>
+
+<p>
+<strong><a href="https://nemarvin.github.io/textio/">Open <em>Freedom Deferred</em>...</a></strong>
+</p>
+
+<p>
+An open-access documentary reader on slavery, resistance, race, and revolution in the French Indian Ocean world. The collection brings together translated primary sources with historical introductions, annotations, images, and maps for use in undergraduate and graduate courses.
+</p>
+
+</details>
+
+<details>
+<summary><strong>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</strong></summary>
+
+<p>
+<strong><a href="https://nemarvin.github.io/arkansas-creole/">Open <em>Arkansas Créole</em>...</a></strong>
+</p>
+
+<p>
+An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.
+</p>
+
+</details>
+
+---
+
 ## Course Syllabi
 
 <details>
@@ -165,22 +195,10 @@ Original map depicting sites impacted by the Haitian Revolution in North America
        alt="Arles animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
+
 ---
 
 ## Teaching Resources
-
-<details>
-<summary><strong>Freedom Deferred (Primary Source Reader)</strong></summary>
-
-<p>
-<strong><a href="https://docs.google.com/document/d/1f8u1Vxfb7QqDP0q1qJxKjp-nkIxfY7o6/preview">View reader...</a></strong>
-</p>
-
-<p>
-A curated source set for exploring slavery, resistance, and revolution in the French Indian Ocean World. Used in upper-division and graduate courses.
-</p>
-
-</details>
 
 <details>
 <summary><strong>Mother Lange: A Haitian-American Educator</strong></summary>
