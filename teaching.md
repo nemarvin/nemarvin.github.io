@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-## Open Educational Resources 
+## Open Educational Resources
 
 <details>
 <summary><strong>Freedom Deferred: Slavery, Resistance, & the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</strong></summary>
@@ -32,8 +32,8 @@ An open educational resource exploring the French and Creole histories embedded 
 </details>
 
 <div style="margin: 2rem 0 2rem 1rem;">
-  <img src="{{ site.baseurl }}/nolafog.gif"
-       alt="New Orleans fog animated footer"
+  <img src="{{ site.baseurl }}/montstmichel.gif"
+       alt="Mont Saint-Michel animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
 
@@ -197,8 +197,8 @@ Original map depicting sites impacted by the Haitian Revolution in North America
 </details>
 
 <div style="margin: 2rem 0 2rem 1rem;">
-  <img src="{{ site.baseurl }}/montstmichel.gif"
-       alt="Mont Saint-Michel animated footer"
+  <img src="{{ site.baseurl }}/nolafog.gif"
+       alt="New Orleans fog animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
 
@@ -246,8 +246,8 @@ A curated and frequently updated set of tools, platforms, and archives to suppor
 </details>
 
 <div style="margin: 2rem 0 2rem 1rem;">
-  <img src="{{ site.baseurl }}/arles.gif"
-       alt="Arles animated footer"
+  <img src="{{ site.baseurl }}/littlerock.gif"
+       alt="Little Rock animated footer"
        style="width: 75%; height: auto; display: block;">
 </div>
 
