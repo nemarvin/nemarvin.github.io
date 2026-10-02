@@ -21,7 +21,8 @@ Digital history projects in progress. Updates posted here.
 <ul> 
 <li><a href="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=274918c16c384b2eae7ead967f951336">Map App</a></li> 
 <li><a href="https://docs.google.com/spreadsheets/d/1KzCWSWgVIp_LNtOnzIFhbCU2DXkO-W9oFn4q6WbL3CY/preview">Dataset</a></li> 
-<li><a href="https://arcg.is/1izPe01">StoryMap Narrative</a></li>
+<li><a href="https://arcg.is/1izPe01">Digital Guide (ESRI StoryMap Version)</a></li>
+<li><a href="https://nemarvin.github.io/arkansas-creole">Digital Guide (Open Source Markdown Version)</a></li>
 <li><a href="https://youtu.be/StffuOwZWGc?si=Gibl8l_xagVG6A-M">Video Introduction</a></li> 
 </ul>
 
