@@ -17,6 +17,6 @@ I teach history at the University of Arkansas at Little Rock, in another region 
 
 In my courses we use archival research to connect the local to the global and bring our findings, and the new questions they raise, to audiences beyond the classroom. Doing history “from the margins,” whether geographical or social, does more than enrich our scholarship; it can help us rethink how the past figures in the stories we tell about our communities.
 
-I am originally from the Piscataqua River region, between coastal New Hampshire and southern Maine, where I first discovered the power of history to foster a more meaningful sense of place.
+I live and work in beautiful Central Arkansas. I am originally from the Piscataqua River region, between coastal New Hampshire and southern Maine, where I first discovered the power of history to foster a more meaningful sense of place.
 
 <div style="clear: both;"></div>
