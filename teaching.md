@@ -31,7 +31,7 @@ body:has(.teaching-page) > article > header h1 a {
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 body:has(.teaching-page) > article > header h1 {
-  font-size: 1.7rem !important;
+  font-size: 1.5rem !important;
 }
 
 .teaching-page {
@@ -81,7 +81,7 @@ body:has(.teaching-page) > article > header h1 {
   border: 0 !important;
   color: var(--teaching-ink);
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-weight: 600;
   line-height: 1.25;
   text-align: center !important;
@@ -207,11 +207,11 @@ body:has(.teaching-page) > article > header h1 {
   }
 
   .teaching-page h2 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 
   body:has(.teaching-page) > article > header h1 {
-    font-size: 1.55rem !important;
+    font-size: 1.35rem !important;
   }
 
   .teaching-page .teaching-course {
