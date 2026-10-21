@@ -227,37 +227,6 @@ body:has(.teaching-page) > article > header h1 {
 
 <div class="teaching-page">
 
-  <section class="teaching-section" aria-labelledby="teaching-oer">
-    <h2 id="teaching-oer">Open Educational Resources</h2>
-
-    <div class="teaching-course-grid">
-
-      <article class="teaching-course teaching-course--feature">
-        <img src="{{ site.baseurl }}/TeachFreedomDeferred.jpg" alt="Illustrated portrait of Lislet Geoffroy" loading="lazy">
-        <div>
-          <p><strong><em>Freedom Deferred: Slavery, Resistance, &amp; the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</em></strong></p>
-          <p>An open-access documentary reader. The collection brings together translated primary sources with historical introductions, annotations, images, and maps.</p>
-          <p><strong><a href="https://nemarvin.github.io/textio/">Open <em>Freedom Deferred</em>...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="teaching-course teaching-course--feature">
-        <img src="{{ site.baseurl }}/TeachArkansasCreole.jpg" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
-        <div>
-          <p><strong><em>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</em></strong></p>
-          <p>An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.</p>
-          <p><strong><a href="https://nemarvin.github.io/arkansas-creole/">Open <em>Arkansas Créole</em>...</a></strong></p>
-        </div>
-      </article>
-
-    </div>
-
-    <div class="teaching-interlude">
-      <img src="{{ site.baseurl }}/montstmichel.gif"
-           alt="Mont Saint-Michel animated footer">
-    </div>
-  </section>
-
   <section class="teaching-section" aria-labelledby="teaching-syllabi">
     <h2 id="teaching-syllabi">Course Syllabi</h2>
 
@@ -285,7 +254,7 @@ body:has(.teaching-page) > article > header h1 {
         <img src="{{ site.baseurl }}/TeachFrencHist.png" alt="Josephine Baker Pantheon photo" loading="lazy">
         <div>
           <p><strong>Modern France from 1750</strong></p>
-          <p>Photograph from the Pantheonization of Josephine Baker (30 Nov. 2021). Baker’s life and legacy are explored in the course.</p>
+          <p>Photograph from the Pantheonization of Josephine Baker (30 Nov. 2021). Baker’s life and legacy are explored in depth in the course.</p>
           <p><strong><a href="https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview">View syllabus (v1)...</a></strong><br>
           <strong><a href="https://docs.google.com/document/d/14ygltrpqJUv1XieKAHX0A7mDH2qUUAVB/preview">View syllabus (v2)...</a></strong></p>
         </div>
@@ -368,6 +337,37 @@ body:has(.teaching-page) > article > header h1 {
     <div class="teaching-interlude">
       <img src="{{ site.baseurl }}/nolafog.gif"
            alt="New Orleans fog animated footer">
+    </div>
+  </section>
+
+  <section class="teaching-section" aria-labelledby="teaching-oer">
+    <h2 id="teaching-oer">Open Educational Resources</h2>
+
+    <div class="teaching-course-grid">
+
+      <article class="teaching-course teaching-course--feature">
+        <img src="{{ site.baseurl }}/TeachFreedomDeferred.jpg" alt="Illustrated portrait of Lislet Geoffroy" loading="lazy">
+        <div>
+          <p><strong><em>Freedom Deferred: Slavery, Resistance, &amp; the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</em></strong></p>
+          <p>An open-access documentary reader on slavery, resistance, race, and revolution in the French Indian Ocean world. The collection brings together translated primary sources with historical introductions, annotations, images, and maps for use in undergraduate and graduate courses.</p>
+          <p><strong><a href="https://nemarvin.github.io/textio/">Open <em>Freedom Deferred</em>...</a></strong></p>
+        </div>
+      </article>
+
+      <article class="teaching-course teaching-course--feature">
+        <img src="{{ site.baseurl }}/TeachArkansasCreole.jpg" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
+        <div>
+          <p><strong><em>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</em></strong></p>
+          <p>An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.</p>
+          <p><strong><a href="https://nemarvin.github.io/arkansas-creole/">Open <em>Arkansas Créole</em>...</a></strong></p>
+        </div>
+      </article>
+
+    </div>
+
+    <div class="teaching-interlude">
+      <img src="{{ site.baseurl }}/montstmichel.gif"
+           alt="Mont Saint-Michel animated footer">
     </div>
   </section>
 
