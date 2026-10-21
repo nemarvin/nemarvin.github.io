@@ -3,19 +3,18 @@ layout: page
 title: "Scholarship"
 ---
 
-<!-- Scholarship page: matched to Teaching Materials (Paper palette, Roboto, seamless Jekyll shell). -->
+<!-- Scholarship page: original collapsible publication lists with Teaching Materials' Paper/Roboto styling. -->
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
-/* Use the existing Jekyll page as the paper surface, not an inset panel. */
+/* Style the existing Jekyll page, not an additional inset panel. */
 html:has(.scholarship-page) body,
 body:has(.scholarship-page) > article,
 body:has(.scholarship-page) > article > header {
   background-color: #f4efe4 !important;
 }
 
-/* Center the Jekyll-generated page title without altering the navigation bar. */
 body:has(.scholarship-page) > article > header,
 body:has(.scholarship-page) > article > header h1 {
   text-align: center !important;
@@ -31,7 +30,6 @@ body:has(.scholarship-page) > article > header h1 {
 }
 
 .scholarship-page {
-  --scholarship-paper: #f4efe4;
   --scholarship-ink: #332f2b;
   --scholarship-muted: #746b62;
   --scholarship-rule: #8a2f2f;
@@ -52,44 +50,17 @@ body:has(.scholarship-page) > article > header h1 {
   text-align-last: auto !important;
 }
 
-/* All body text and entry titles remain flush left, never justified. */
-.scholarship-page p,
-.scholarship-page h3,
-.scholarship-page h4,
-.scholarship-page article,
-.scholarship-page section,
-.scholarship-page .scholarship-entry > div,
-.scholarship-page a {
-  text-align: left !important;
-  text-align-last: auto !important;
-}
-
 .scholarship-page *,
 .scholarship-page *::before,
-.scholarship-page *::after {
-  box-sizing: border-box;
-}
+.scholarship-page *::after { box-sizing: border-box; }
 
-/* The same centered small headings and burgundy rules as Teaching Materials. */
-.scholarship-page h2 {
-  margin: 0 0 1.65rem;
-  padding: 0;
-  border: 0 !important;
-  color: var(--scholarship-ink);
-  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1.6rem;
-  font-weight: 600;
-  line-height: 1.25;
-  text-align: center !important;
-  text-align-last: center !important;
-}
-.scholarship-page h2::after {
-  content: "";
-  display: block;
-  width: 72px;
-  height: 2px;
-  margin: 0.7rem auto 0;
-  background: var(--scholarship-rule);
+/* Prevent inherited justification or centering within the publication listings. */
+.scholarship-page p,
+.scholarship-page .scholarship-item,
+.scholarship-page .scholarship-item a,
+.scholarship-page .scholarship-intro {
+  text-align: left !important;
+  text-align-last: auto !important;
 }
 
 .scholarship-page a,
@@ -104,60 +75,87 @@ body:has(.scholarship-page) > article > header h1 {
 }
 
 .scholarship-page .scholarship-intro {
-  margin: 0 0 2.7rem;
+  margin: 0 0 1.4rem;
   font-size: 0.92em;
 }
 
-.scholarship-page .scholarship-section {
-  margin-bottom: 2.35rem;
-}
-
-/* Exactly the Teaching Materials grid and card spacing. */
-.scholarship-page .scholarship-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 330px), 1fr));
-  column-gap: 1.8rem;
-}
-.scholarship-page .scholarship-entry {
-  display: grid;
-  grid-template-columns: 100px minmax(0, 1fr);
-  gap: 0.95rem;
-  align-items: start;
-  padding: 1.35rem 0;
+/* The publication categories remain closed until clicked, like the original page.
+   Their labels inherit the restrained centered heading treatment of Teaching Materials. */
+.scholarship-page details.scholarship-group {
+  margin: 0;
   border-bottom: 1px solid var(--scholarship-soft-rule);
 }
-.scholarship-page .scholarship-entry img {
+.scholarship-page details.scholarship-group:first-of-type {
+  border-top: 1px solid var(--scholarship-soft-rule);
+}
+.scholarship-page details.scholarship-group > summary {
   display: block;
-  width: 100%;
-  height: auto;
-  max-height: 165px;
-  object-fit: contain;
-  object-position: top left;
+  position: relative;
+  margin: 0;
+  padding: 1.3rem 2.5rem 1.4rem;
+  cursor: pointer;
+  list-style: none;
+  color: var(--scholarship-ink);
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  text-align: center !important;
+  text-align-last: center !important;
 }
-.scholarship-page .scholarship-entry p {
-  margin: 0 0 0.55rem;
-  font-size: 0.88em;
-  line-height: 1.5;
+.scholarship-page details.scholarship-group > summary::-webkit-details-marker { display: none; }
+.scholarship-page details.scholarship-group > summary::marker { content: ""; }
+.scholarship-page details.scholarship-group > summary::after {
+  content: "";
+  display: block;
+  width: 72px;
+  height: 2px;
+  margin: 0.7rem auto 0;
+  background: var(--scholarship-rule);
 }
-.scholarship-page .scholarship-entry p:first-child {
-  font-size: 0.97em;
-  line-height: 1.4;
+.scholarship-page details.scholarship-group > summary::before {
+  content: "+";
+  position: absolute;
+  right: 0.65rem;
+  top: 1.3rem;
+  color: var(--scholarship-link);
+  font-size: 1.35rem;
+  font-weight: 400;
 }
-.scholarship-page .scholarship-entry p:last-child {
-  margin-bottom: 0;
+.scholarship-page details.scholarship-group[open] > summary::before { content: "−"; }
+.scholarship-page details.scholarship-group > summary:hover { color: var(--scholarship-link); }
+.scholarship-page details.scholarship-group > summary:focus-visible {
+  outline: 2px solid var(--scholarship-rule);
+  outline-offset: -2px;
 }
 
-/* Keep the original interactive Calaméo preview usable and legible. */
-.scholarship-page .scholarship-entry--embed {
-  grid-column: 1 / -1;
-  grid-template-columns: minmax(0, 300px) minmax(0, 1fr);
-  gap: 1.25rem;
+/* Simple single-column list, returning to the original image-above-link presentation. */
+.scholarship-page .scholarship-list { padding: 0.15rem 0 1.4rem; }
+.scholarship-page .scholarship-item {
+  margin: 0;
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--scholarship-soft-rule);
 }
-.scholarship-page .scholarship-entry--embed iframe {
+.scholarship-page .scholarship-item:last-child { border-bottom: 0; }
+.scholarship-page .scholarship-item img {
+  display: block;
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 0.45rem;
+}
+.scholarship-page .scholarship-item p {
+  margin: 0 0 0.5rem;
+  font-size: 0.95em;
+  line-height: 1.55;
+}
+.scholarship-page .scholarship-item p:last-child { margin-bottom: 0; }
+.scholarship-page .scholarship-item iframe {
   display: block;
   width: 300px;
   max-width: 100%;
   height: 260px;
+  margin-bottom: 0.45rem;
   border: 0;
 }
 
@@ -171,38 +169,16 @@ body:has(.scholarship-page) > article > header h1 {
   width: 100%;
   height: auto;
 }
-
 .scholarship-page .scholarship-back {
   margin: 2rem 0 0;
   font-size: 0.84em;
 }
 
-@media (max-width: 650px) {
-  .scholarship-page .scholarship-entry--embed {
-    grid-template-columns: minmax(0, 1fr);
-  }
-}
 @media (max-width: 540px) {
-  .scholarship-page {
-    font-size: 17px;
-    line-height: 1.6;
-  }
-  .scholarship-page h2 {
-    font-size: 1.4rem;
-  }
-  body:has(.scholarship-page) > article > header h1 {
-    font-size: 1.55rem !important;
-  }
-  .scholarship-page .scholarship-entry {
-    grid-template-columns: 86px minmax(0, 1fr);
-    gap: 0.8rem;
-  }
-  .scholarship-page .scholarship-entry--embed {
-    grid-template-columns: minmax(0, 1fr);
-  }
-  .scholarship-page .scholarship-interlude {
-    width: 78%;
-  }
+  .scholarship-page { font-size: 17px; line-height: 1.6; }
+  body:has(.scholarship-page) > article > header h1 { font-size: 1.55rem !important; }
+  .scholarship-page details.scholarship-group > summary { font-size: 1.4rem; }
+  .scholarship-page .scholarship-interlude { width: 78%; }
 }
 </style>
 
@@ -210,88 +186,58 @@ body:has(.scholarship-page) > article > header h1 {
 
   <p class="scholarship-intro">For a full list, see my <a href="https://scholar.google.com/citations?user=8jtmeYUAAAAJ&amp;hl=en">Google Scholar profile</a>.</p>
 
-  <section class="scholarship-section" aria-labelledby="scholarship-articles">
-    <h2 id="scholarship-articles">Articles &amp; Book Chapters</h2>
-    <div class="scholarship-grid">
-
-      <article class="scholarship-entry">
+  <details class="scholarship-group">
+    <summary>Articles &amp; Book Chapters</summary>
+    <div class="scholarship-list">
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub5.png" alt="The 'Ambroise Affair'" loading="lazy">
-        <div>
-          <p><strong><a href="https://drive.google.com/file/d/13HDaWQDQkAgnthVORFdYn4tqqhlsAguF/view?usp=sharing">The 'Ambroise Affair'...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry">
+        <p><strong><a href="https://drive.google.com/file/d/13HDaWQDQkAgnthVORFdYn4tqqhlsAguF/view?usp=sharing">The 'Ambroise Affair'...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub2.png" alt="Gender, Family, and Social Control" loading="lazy">
-        <div>
-          <p><strong><a href="https://drive.google.com/file/d/1wrS2phtMkgjha5g6sPnsUbgIQzGT8S3Z/view?usp=sharing">Gender, Family, and Social Control...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry">
+        <p><strong><a href="https://drive.google.com/file/d/1wrS2phtMkgjha5g6sPnsUbgIQzGT8S3Z/view?usp=sharing">Gender, Family, and Social Control...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub3.png" alt="‘Free and Naturalized Frenchwomen’" loading="lazy">
-        <div>
-          <p><strong><a href="https://drive.google.com/file/d/1ro_OSNdbyXvhlbsgDIOxa0Bu_vPYurnD/view?usp=sharing">‘Free and Naturalized Frenchwomen’...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry">
+        <p><strong><a href="https://drive.google.com/file/d/1ro_OSNdbyXvhlbsgDIOxa0Bu_vPYurnD/view?usp=sharing">‘Free and Naturalized Frenchwomen’...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub7.png" alt="‘A Thousand Prejudices’" loading="lazy">
-        <div>
-          <p><strong><a href="https://drive.google.com/file/d/11tlLSyZsk0CGviQG3r8ItdsuyUudYvXS/view?usp=sharing">‘A Thousand Prejudices’...</a></strong></p>
-        </div>
-      </article>
-
+        <p><strong><a href="https://drive.google.com/file/d/11tlLSyZsk0CGviQG3r8ItdsuyUudYvXS/view?usp=sharing">‘A Thousand Prejudices’...</a></strong></p>
+      </div>
     </div>
-  </section>
+  </details>
 
-  <section class="scholarship-section" aria-labelledby="scholarship-essays">
-    <h2 id="scholarship-essays">Essays</h2>
-    <div class="scholarship-grid">
-
-      <article class="scholarship-entry">
+  <details class="scholarship-group">
+    <summary>Essays</summary>
+    <div class="scholarship-list">
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub0.png" alt="Gender in Slave and Post-Emancipation Societies" loading="lazy">
-        <div>
-          <p><strong><a href="https://doi.org/10.4000/11oa3">Gender in Slave and Post-Emancipation...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry">
+        <p><strong><a href="https://doi.org/10.4000/11oa3">Gender in Slave and Post-Emancipation...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub4.png" alt="France and its Empire in the Indian Ocean" loading="lazy">
-        <div>
-          <p><strong><a href="https://drive.google.com/file/d/1E-aXR8FHurDIJGhWrcERDPEunQA0EhkR/view?usp=sharing">France and its Empire in the Indian Ocean...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry">
+        <p><strong><a href="https://drive.google.com/file/d/1E-aXR8FHurDIJGhWrcERDPEunQA0EhkR/view?usp=sharing">France and its Empire in the Indian Ocean...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub6.png" alt="Instructions du Ministère de la Marine" loading="lazy">
-        <div>
-          <p><strong><a href="https://www.cairn.info/revue-outre-mers-2015-2-page-285.htm">Instructions du Ministère de la Marine...</a></strong></p>
-        </div>
-      </article>
-
+        <p><strong><a href="https://www.cairn.info/revue-outre-mers-2015-2-page-285.htm">Instructions du Ministère de la Marine...</a></strong></p>
+      </div>
     </div>
-  </section>
+  </details>
 
-  <section class="scholarship-section" aria-labelledby="scholarship-public">
-    <h2 id="scholarship-public">Public Scholarship</h2>
-    <div class="scholarship-grid">
-
-      <article class="scholarship-entry">
+  <details class="scholarship-group">
+    <summary>Public Scholarship</summary>
+    <div class="scholarship-list">
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub1.png" alt="Église, État, et Esclavage" loading="lazy">
-        <div>
-          <p><strong><a href="https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/">Église, État, et Esclavage...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry">
+        <p><strong><a href="https://www.portail-esclavage-reunion.fr/documentaires/l-esclavage/leglise-et-lesclavage/eglise-etat-et-esclavage-les-familles-vendues-comme-biens-nationaux-a-lile-de-la-reunion-pendant-la-revolution-francaise/">Église, État, et Esclavage...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub0.jpg" alt="Looking for 'Petit Jean'" loading="lazy">
-        <div>
-          <p><strong><a href="https://64parishes.org/looking-for-petit-jean">Looking for 'Petit Jean'...</a></strong></p>
-        </div>
-      </article>
-
-      <article class="scholarship-entry scholarship-entry--embed">
+        <p><strong><a href="https://64parishes.org/looking-for-petit-jean">Looking for 'Petit Jean'...</a></strong></p>
+      </div>
+      <div class="scholarship-item">
         <iframe
           src="https://v.calameo.com/?bkcode=00522093399f6cf3724ae&amp;mode=mini&amp;showsharemenu=false&amp;clickto=view&amp;clicktarget=_blank"
           width="300"
@@ -300,13 +246,10 @@ body:has(.scholarship-page) > article > header h1 {
           loading="lazy"
           allowfullscreen>
         </iframe>
-        <div>
-          <p><strong><a href="https://www.portail-esclavage-reunion.fr/dossiers-documentaires/laffaire-abby-guy-le-combat-dune-femme-pour-la-liberte-dans-le-sud-des-etats-unis-exposition-musee-de-villele/">“L’affaire Abby Guy : Le combat d’une femme pour la liberté dans le Sud des États-Unis”</a></strong></p>
-        </div>
-      </article>
-
+        <p><strong><a href="https://www.portail-esclavage-reunion.fr/dossiers-documentaires/laffaire-abby-guy-le-combat-dune-femme-pour-la-liberte-dans-le-sud-des-etats-unis-exposition-musee-de-villele/">“L’affaire Abby Guy : Le combat d’une femme pour la liberté dans le Sud des États-Unis”</a></strong></p>
+      </div>
     </div>
-  </section>
+  </details>
 
   <div class="scholarship-interlude">
     <img src="{{ site.baseurl }}/3bassins.gif" alt="3 Bassins" loading="lazy">
