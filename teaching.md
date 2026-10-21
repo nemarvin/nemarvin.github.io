@@ -3,11 +3,33 @@ layout: page
 title: "Teaching"
 ---
 
-<!-- Teaching page: Arkansas Créole Paper palette, with Jekyll shell retained. -->
+<!-- Teaching page: seamless Arkansas Créole Paper palette within the existing Jekyll shell. -->
 
 <style>
-/* Teaching page only: Arkansas Créole's default Paper reading palette.
-   The existing Jekyll header, navigation, outer frame, and footer remain unchanged. */
+/*
+  In this site's Jekyll layout, the page heading sits OUTSIDE .teaching-page.
+  Color the existing page rather than introducing an inset paper-colored panel.
+  The selectors below activate ONLY on a page containing .teaching-page.
+  The theme's dark outer surround and navigation structure are retained.
+*/
+html:has(.teaching-page) body,
+body:has(.teaching-page) > article,
+body:has(.teaching-page) > article > header {
+  background-color: #f4efe4 !important;
+}
+
+/* Align the Jekyll-generated page title with the content below. */
+body:has(.teaching-page) > article > header,
+body:has(.teaching-page) > article > header h1 {
+  text-align: left !important;
+  text-align-last: auto !important;
+}
+body:has(.teaching-page) > article > header h1,
+body:has(.teaching-page) > article > header h1 a {
+  color: #332f2b !important;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
 .teaching-page {
   --teaching-paper: #f4efe4;
   --teaching-ink: #332f2b;
@@ -17,15 +39,32 @@ title: "Teaching"
   --teaching-link: #7b2929;
   --teaching-link-hover: #4f1717;
 
+  /* No nested panel or second level of padding/framing. */
   box-sizing: border-box;
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: clamp(1.25rem, 4vw, 3rem);
-  background: var(--teaching-paper);
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  background: transparent;
   color: var(--teaching-ink);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
   line-height: 1.68;
+
+  text-align: left !important;
+  text-align-last: auto !important;
+}
+
+/* Override site-wide justification at every level, including short snippets. */
+.teaching-page h2,
+.teaching-page h3,
+.teaching-page h4,
+.teaching-page p,
+.teaching-page article,
+.teaching-page section,
+.teaching-page .teaching-course > div,
+.teaching-page a {
+  text-align: left !important;
+  text-align-last: auto !important;
 }
 
 .teaching-page *, .teaching-page *::before, .teaching-page *::after {
