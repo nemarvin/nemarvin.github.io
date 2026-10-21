@@ -285,7 +285,7 @@ body:has(.teaching-page) > article > header h1 {
         <img src="{{ site.baseurl }}/TeachFrencHist.png" alt="Josephine Baker Pantheon photo" loading="lazy">
         <div>
           <p><strong>Modern France from 1750</strong></p>
-          <p>Photograph from the Pantheonization of Josephine Baker (30 Nov. 2021). Baker’s life and legacy are explored in depth in the course.</p>
+          <p>Photograph from the Pantheonization of Josephine Baker (30 Nov. 2021). Baker’s life and legacy are explored in the course.</p>
           <p><strong><a href="https://docs.google.com/document/d/1g6miJ6b75h02qdgefYWlurPEkbpXHWox-bQUr9kdH1Q/preview">View syllabus (v1)...</a></strong><br>
           <strong><a href="https://docs.google.com/document/d/14ygltrpqJUv1XieKAHX0A7mDH2qUUAVB/preview">View syllabus (v2)...</a></strong></p>
         </div>
