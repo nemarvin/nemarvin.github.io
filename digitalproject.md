@@ -25,7 +25,7 @@ body:has(.digital-projects-page) > article > header h1 a {
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 body:has(.digital-projects-page) > article > header h1 {
-  font-size: 1.7rem !important;
+  font-size: 1.5rem !important;
 }
 
 .digital-projects-page {
@@ -89,16 +89,16 @@ body:has(.digital-projects-page) > article > header h1 {
   display: block;
   position: relative;
   margin: 0;
-  padding: 1.3rem 2.5rem 1.4rem;
+  padding: 1.3rem 2.5rem 1.4rem 0;
   cursor: pointer;
   list-style: none;
   color: var(--project-ink);
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.35rem;
   font-weight: 600;
   line-height: 1.3;
-  text-align: center !important;
-  text-align-last: center !important;
+  text-align: left !important;
+  text-align-last: left !important;
 }
 .digital-projects-page details.project-group > summary::-webkit-details-marker { display: none; }
 .digital-projects-page details.project-group > summary::marker { content: ""; }
@@ -107,7 +107,7 @@ body:has(.digital-projects-page) > article > header h1 {
   display: block;
   width: 72px;
   height: 2px;
-  margin: 0.7rem auto 0;
+  margin: 0.7rem 0 0;
   background: var(--project-rule);
 }
 .digital-projects-page details.project-group > summary::before {
@@ -181,10 +181,10 @@ body:has(.digital-projects-page) > article > header h1 {
 }
 @media (max-width: 540px) {
   .digital-projects-page { font-size: 17px; line-height: 1.6; }
-  body:has(.digital-projects-page) > article > header h1 { font-size: 1.55rem !important; }
+  body:has(.digital-projects-page) > article > header h1 { font-size: 1.35rem !important; }
   .digital-projects-page details.project-group > summary {
-    font-size: 1.35rem;
-    padding-left: 1.25rem;
+    font-size: 1.25rem;
+    padding-left: 0;
     padding-right: 2.25rem;
   }
   .digital-projects-page .project-interlude { width: 78%; }
