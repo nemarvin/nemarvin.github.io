@@ -154,6 +154,16 @@ body:has(.teaching-page) > article > header h1 {
   object-position: top left;
 }
 
+/* Use the same card structure for OER items, but crop thumbnails to match the visual size
+   of the syllabus thumbnails even when the source images are tall or irregular. */
+.teaching-page .teaching-course.teaching-course--feature img {
+  height: 150px;
+  max-height: none;
+  object-fit: cover;
+  object-position: center top;
+  border: 1px solid var(--teaching-soft-rule);
+}
+
 .teaching-page .teaching-course p {
   margin: 0 0 0.55rem;
   font-size: 0.88em;
@@ -220,17 +230,27 @@ body:has(.teaching-page) > article > header h1 {
   <section class="teaching-section" aria-labelledby="teaching-oer">
     <h2 id="teaching-oer">Open Educational Resources</h2>
 
-    <article class="teaching-feature">
-      <p><strong><em>Freedom Deferred: Slavery, Resistance, &amp; the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</em></strong></p>
-      <p>An open-access documentary reader on slavery, resistance, race, and revolution in the French Indian Ocean world. The collection brings together translated primary sources with historical introductions, annotations, images, and maps for use in undergraduate and graduate courses.</p>
-      <p><strong><a href="https://nemarvin.github.io/textio/">Open <em>Freedom Deferred</em>...</a></strong></p>
-    </article>
+    <div class="teaching-course-grid">
 
-    <article class="teaching-feature">
-      <p><strong><em>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</em></strong></p>
-      <p>An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.</p>
-      <p><strong><a href="https://nemarvin.github.io/arkansas-creole/">Open <em>Arkansas Créole</em>...</a></strong></p>
-    </article>
+      <article class="teaching-course teaching-course--feature">
+        <img src="https://images.nypl.org/index.php?id=58714345&t=w&download=1&suffix=38bb4b80-afbf-013b-36f1-0242ac110002.001" alt="Historical image for Freedom Deferred" loading="lazy">
+        <div>
+          <p><strong><em>Freedom Deferred: Slavery, Resistance, &amp; the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</em></strong></p>
+          <p>An open-access documentary reader on slavery, resistance, race, and revolution in the French Indian Ocean world. The collection brings together translated primary sources with historical introductions, annotations, images, and maps for use in undergraduate and graduate courses.</p>
+          <p><strong><a href="https://nemarvin.github.io/textio/">Open <em>Freedom Deferred</em>...</a></strong></p>
+        </div>
+      </article>
+
+      <article class="teaching-course teaching-course--feature">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Marie_Felicite_de_Valliere.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
+        <div>
+          <p><strong><em>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</em></strong></p>
+          <p>An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.</p>
+          <p><strong><a href="https://nemarvin.github.io/arkansas-creole/">Open <em>Arkansas Créole</em>...</a></strong></p>
+        </div>
+      </article>
+
+    </div>
 
     <div class="teaching-interlude">
       <img src="{{ site.baseurl }}/montstmichel.gif"
