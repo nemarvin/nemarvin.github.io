@@ -236,7 +236,7 @@ body:has(.teaching-page) > article > header h1 {
         <img src="{{ site.baseurl }}/TeachFreedomDeferred.jpg" alt="Illustrated portrait of Lislet Geoffroy" loading="lazy">
         <div>
           <p><strong><em>Freedom Deferred: Slavery, Resistance, &amp; the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</em></strong></p>
-          <p>An open-access documentary reader on slavery, resistance, race, and revolution in the French Indian Ocean world. The collection brings together translated primary sources with historical introductions, annotations, images, and maps for use in undergraduate and graduate courses.</p>
+          <p>An open-access documentary reader. The collection brings together translated primary sources with historical introductions, annotations, images, and maps.</p>
           <p><strong><a href="https://nemarvin.github.io/textio/">Open <em>Freedom Deferred</em>...</a></strong></p>
         </div>
       </article>
