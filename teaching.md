@@ -233,7 +233,7 @@ body:has(.teaching-page) > article > header h1 {
     <div class="teaching-course-grid">
 
       <article class="teaching-course teaching-course--feature">
-        <img src="https://images.nypl.org/index.php?id=58714345&t=w&download=1&suffix=38bb4b80-afbf-013b-36f1-0242ac110002.001" alt="Historical image for Freedom Deferred" loading="lazy">
+        <img src="{{ site.baseurl }}/TeachFreedomDeferred.jpg" alt="Illustrated portrait of Lislet Geoffroy" loading="lazy">
         <div>
           <p><strong><em>Freedom Deferred: Slavery, Resistance, &amp; the Politics of Race in France’s Indian Ocean Colonies During the Age of Revolution</em></strong></p>
           <p>An open-access documentary reader on slavery, resistance, race, and revolution in the French Indian Ocean world. The collection brings together translated primary sources with historical introductions, annotations, images, and maps for use in undergraduate and graduate courses.</p>
@@ -242,7 +242,7 @@ body:has(.teaching-page) > article > header h1 {
       </article>
 
       <article class="teaching-course teaching-course--feature">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Marie_Felicite_de_Valliere.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
+        <img src="{{ site.baseurl }}/TeachArkansasCreole.jpg" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
         <div>
           <p><strong><em>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</em></strong></p>
           <p>An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.</p>
