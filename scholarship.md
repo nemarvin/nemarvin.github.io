@@ -26,7 +26,7 @@ body:has(.scholarship-page) > article > header h1 a {
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 body:has(.scholarship-page) > article > header h1 {
-  font-size: 1.7rem !important;
+  font-size: 1.5rem !important;
 }
 
 .scholarship-page {
@@ -79,8 +79,8 @@ body:has(.scholarship-page) > article > header h1 {
   font-size: 0.92em;
 }
 
-/* The publication categories remain closed until clicked, like the original page.
-   Their labels inherit the restrained centered heading treatment of Teaching Materials. */
+/* The publication categories remain closed until clicked.
+   Their headings and accent rules are left-aligned. */
 .scholarship-page details.scholarship-group {
   margin: 0;
   border-bottom: 1px solid var(--scholarship-soft-rule);
@@ -92,16 +92,16 @@ body:has(.scholarship-page) > article > header h1 {
   display: block;
   position: relative;
   margin: 0;
-  padding: 1.3rem 2.5rem 1.4rem;
+  padding: 1.3rem 2.5rem 1.4rem 0;
   cursor: pointer;
   list-style: none;
   color: var(--scholarship-ink);
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.35rem;
   font-weight: 600;
   line-height: 1.25;
-  text-align: center !important;
-  text-align-last: center !important;
+  text-align: left !important;
+  text-align-last: left !important;
 }
 .scholarship-page details.scholarship-group > summary::-webkit-details-marker { display: none; }
 .scholarship-page details.scholarship-group > summary::marker { content: ""; }
@@ -110,7 +110,7 @@ body:has(.scholarship-page) > article > header h1 {
   display: block;
   width: 72px;
   height: 2px;
-  margin: 0.7rem auto 0;
+  margin: 0.7rem 0 0;
   background: var(--scholarship-rule);
 }
 .scholarship-page details.scholarship-group > summary::before {
@@ -176,8 +176,8 @@ body:has(.scholarship-page) > article > header h1 {
 
 @media (max-width: 540px) {
   .scholarship-page { font-size: 17px; line-height: 1.6; }
-  body:has(.scholarship-page) > article > header h1 { font-size: 1.55rem !important; }
-  .scholarship-page details.scholarship-group > summary { font-size: 1.4rem; }
+  body:has(.scholarship-page) > article > header h1 { font-size: 1.35rem !important; }
+  .scholarship-page details.scholarship-group > summary { font-size: 1.25rem; }
   .scholarship-page .scholarship-interlude { width: 78%; }
 }
 </style>
