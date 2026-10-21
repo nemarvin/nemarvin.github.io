@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Teaching"
+title: "Teaching Materials"
 ---
 
-<!-- Teaching page: seamless Arkansas Créole Paper palette within the existing Jekyll shell. -->
+<!-- Teaching Materials page: seamless Arkansas Créole Paper palette, Roboto typeface, existing Jekyll shell. -->
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 /*
   In this site's Jekyll layout, the page heading sits OUTSIDE .teaching-page.
   Color the existing page rather than introducing an inset paper-colored panel.
@@ -18,16 +19,19 @@ body:has(.teaching-page) > article > header {
   background-color: #f4efe4 !important;
 }
 
-/* Align the Jekyll-generated page title with the content below. */
+/* Center the Jekyll-generated page title, without changing the site navigation. */
 body:has(.teaching-page) > article > header,
 body:has(.teaching-page) > article > header h1 {
-  text-align: left !important;
-  text-align-last: auto !important;
+  text-align: center !important;
+  text-align-last: center !important;
 }
 body:has(.teaching-page) > article > header h1,
 body:has(.teaching-page) > article > header h1 a {
   color: #332f2b !important;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body:has(.teaching-page) > article > header h1 {
+  font-size: 1.7rem !important;
 }
 
 .teaching-page {
@@ -46,7 +50,7 @@ body:has(.teaching-page) > article > header h1 a {
   padding: 0;
   background: transparent;
   color: var(--teaching-ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
   line-height: 1.68;
 
@@ -76,10 +80,12 @@ body:has(.teaching-page) > article > header h1 a {
   padding: 0;
   border: 0 !important;
   color: var(--teaching-ink);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.8rem;
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.25;
+  text-align: center !important;
+  text-align-last: center !important;
 }
 
 .teaching-page h2::after {
@@ -87,7 +93,7 @@ body:has(.teaching-page) > article > header h1 a {
   display: block;
   width: 72px;
   height: 2px;
-  margin-top: 0.7rem;
+  margin: 0.7rem auto 0;
   background: var(--teaching-rule);
 }
 
@@ -191,7 +197,11 @@ body:has(.teaching-page) > article > header h1 a {
   }
 
   .teaching-page h2 {
-    font-size: 1.55rem;
+    font-size: 1.4rem;
+  }
+
+  body:has(.teaching-page) > article > header h1 {
+    font-size: 1.55rem !important;
   }
 
   .teaching-page .teaching-course {
