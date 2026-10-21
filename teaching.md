@@ -3,95 +3,167 @@ layout: page
 title: "Teaching"
 ---
 
-<!--
-  Teaching page: minimalist catalog layout.
-  Typography, colors, and link styling are inherited from the site's theme.
-  Only spacing, arrangement, thumbnail sizing, and subtle separators are changed.
--->
+<!-- Teaching page: Arkansas Créole Paper palette, with Jekyll shell retained. -->
 
 <style>
-  .teaching-page .teaching-feature,
-  .teaching-page .teaching-course,
-  .teaching-page .teaching-resource {
-    border-bottom: 1px solid rgba(120, 120, 120, 0.24);
+/* Teaching page only: Arkansas Créole's default Paper reading palette.
+   The existing Jekyll header, navigation, outer frame, and footer remain unchanged. */
+.teaching-page {
+  --teaching-paper: #f4efe4;
+  --teaching-ink: #332f2b;
+  --teaching-muted: #746b62;
+  --teaching-rule: #8a2f2f;
+  --teaching-soft-rule: #d4c8b8;
+  --teaching-link: #7b2929;
+  --teaching-link-hover: #4f1717;
+
+  box-sizing: border-box;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(1.25rem, 4vw, 3rem);
+  background: var(--teaching-paper);
+  color: var(--teaching-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.68;
+}
+
+.teaching-page *, .teaching-page *::before, .teaching-page *::after {
+  box-sizing: border-box;
+}
+
+.teaching-page h2 {
+  margin: 0 0 1.65rem;
+  padding: 0;
+  border: 0 !important;
+  color: var(--teaching-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.teaching-page h2::after {
+  content: "";
+  display: block;
+  width: 72px;
+  height: 2px;
+  margin-top: 0.7rem;
+  background: var(--teaching-rule);
+}
+
+.teaching-page a,
+.teaching-page a:visited {
+  color: var(--teaching-link) !important;
+  text-underline-offset: 0.12em;
+}
+
+.teaching-page a:hover,
+.teaching-page a:focus {
+  color: var(--teaching-link-hover) !important;
+  text-decoration-color: currentColor;
+}
+
+.teaching-page .teaching-feature,
+.teaching-page .teaching-course,
+.teaching-page .teaching-resource {
+  border-bottom: 1px solid var(--teaching-soft-rule);
+}
+
+.teaching-page .teaching-feature {
+  padding: 0.3rem 0 1.25rem;
+  margin-bottom: 1.15rem;
+}
+
+.teaching-page .teaching-feature p,
+.teaching-page .teaching-resource p {
+  margin: 0 0 0.7rem;
+}
+
+.teaching-page .teaching-feature p:last-child,
+.teaching-page .teaching-resource p:last-child,
+.teaching-page .teaching-course p:last-child {
+  margin-bottom: 0;
+}
+
+.teaching-page .teaching-course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 330px), 1fr));
+  column-gap: 1.8rem;
+}
+
+.teaching-page .teaching-course {
+  display: grid;
+  grid-template-columns: 100px minmax(0, 1fr);
+  gap: 0.95rem;
+  align-items: start;
+  padding: 1.35rem 0;
+}
+
+.teaching-page .teaching-course img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 165px;
+  object-fit: contain;
+  object-position: top left;
+}
+
+.teaching-page .teaching-course p {
+  margin: 0 0 0.55rem;
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+.teaching-page .teaching-course p:first-child {
+  font-size: 0.97em;
+  line-height: 1.4;
+}
+
+.teaching-page .teaching-resource {
+  padding: 1rem 0;
+}
+
+.teaching-page .teaching-interlude {
+  width: 58%;
+  max-width: 420px;
+  margin: 2.4rem auto 2.65rem;
+}
+
+.teaching-page .teaching-interlude img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.teaching-page .teaching-section {
+  margin-bottom: 2.2rem;
+}
+
+.teaching-page > p:last-child {
+  margin: 2rem 0 0;
+  font-size: 0.84em;
+}
+
+@media (max-width: 540px) {
+  .teaching-page {
+    font-size: 17px;
+    line-height: 1.6;
   }
 
-  .teaching-page .teaching-feature {
-    padding: 0.3rem 0 1.1rem;
-    margin-bottom: 1rem;
-  }
-
-  .teaching-page .teaching-feature p,
-  .teaching-page .teaching-resource p {
-    margin: 0 0 0.65rem;
-  }
-
-  .teaching-page .teaching-feature p:last-child,
-  .teaching-page .teaching-resource p:last-child {
-    margin-bottom: 0;
-  }
-
-  .teaching-page .teaching-course-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 330px), 1fr));
-    column-gap: 1.7rem;
+  .teaching-page h2 {
+    font-size: 1.55rem;
   }
 
   .teaching-page .teaching-course {
-    display: grid;
-    grid-template-columns: 100px minmax(0, 1fr);
-    gap: 0.95rem;
-    align-items: start;
-    padding: 1.25rem 0;
-  }
-
-  .teaching-page .teaching-course img {
-    width: 100%;
-    height: auto;
-    max-height: 160px;
-    object-fit: contain;
-    object-position: top left;
-    display: block;
-  }
-
-  .teaching-page .teaching-course p {
-    margin: 0 0 0.55rem;
-  }
-
-  .teaching-page .teaching-course p:last-child {
-    margin-bottom: 0;
-  }
-
-  .teaching-page .teaching-resource {
-    padding: 1rem 0;
+    grid-template-columns: 86px minmax(0, 1fr);
+    gap: 0.8rem;
   }
 
   .teaching-page .teaching-interlude {
-    margin: 2rem auto 2.4rem;
-    width: 58%;
-    max-width: 420px;
+    width: 78%;
   }
-
-  .teaching-page .teaching-interlude img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
-  .teaching-page .teaching-section {
-    margin-bottom: 2rem;
-  }
-
-  @media (max-width: 540px) {
-    .teaching-page .teaching-course {
-      grid-template-columns: 86px minmax(0, 1fr);
-      gap: 0.8rem;
-    }
-
-    .teaching-page .teaching-interlude {
-      width: 78%;
-    }
-  }
+}
 </style>
 
 <div class="teaching-page">
