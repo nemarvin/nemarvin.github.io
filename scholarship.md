@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: "Scholarship"
@@ -52,7 +53,9 @@ body:has(.scholarship-page) > article > header h1 {
 
 .scholarship-page *,
 .scholarship-page *::before,
-.scholarship-page *::after { box-sizing: border-box; }
+.scholarship-page *::after {
+  box-sizing: border-box;
+}
 
 /* Prevent inherited justification or centering within the publication listings. */
 .scholarship-page p,
@@ -103,8 +106,12 @@ body:has(.scholarship-page) > article > header h1 {
   text-align: left !important;
   text-align-last: left !important;
 }
-.scholarship-page details.scholarship-group > summary::-webkit-details-marker { display: none; }
-.scholarship-page details.scholarship-group > summary::marker { content: ""; }
+.scholarship-page details.scholarship-group > summary::-webkit-details-marker {
+  display: none;
+}
+.scholarship-page details.scholarship-group > summary::marker {
+  content: "";
+}
 .scholarship-page details.scholarship-group > summary::after {
   content: "";
   display: block;
@@ -122,21 +129,29 @@ body:has(.scholarship-page) > article > header h1 {
   font-size: 1.35rem;
   font-weight: 400;
 }
-.scholarship-page details.scholarship-group[open] > summary::before { content: "−"; }
-.scholarship-page details.scholarship-group > summary:hover { color: var(--scholarship-link); }
+.scholarship-page details.scholarship-group[open] > summary::before {
+  content: "−";
+}
+.scholarship-page details.scholarship-group > summary:hover {
+  color: var(--scholarship-link);
+}
 .scholarship-page details.scholarship-group > summary:focus-visible {
   outline: 2px solid var(--scholarship-rule);
   outline-offset: -2px;
 }
 
 /* Simple single-column list, returning to the original image-above-link presentation. */
-.scholarship-page .scholarship-list { padding: 0.15rem 0 1.4rem; }
+.scholarship-page .scholarship-list {
+  padding: 0.15rem 0 1.4rem;
+}
 .scholarship-page .scholarship-item {
   margin: 0;
   padding: 1.15rem 0;
   border-bottom: 1px solid var(--scholarship-soft-rule);
 }
-.scholarship-page .scholarship-item:last-child { border-bottom: 0; }
+.scholarship-page .scholarship-item:last-child {
+  border-bottom: 0;
+}
 .scholarship-page .scholarship-item img {
   display: block;
   width: 200px;
@@ -149,7 +164,9 @@ body:has(.scholarship-page) > article > header h1 {
   font-size: 0.95em;
   line-height: 1.55;
 }
-.scholarship-page .scholarship-item p:last-child { margin-bottom: 0; }
+.scholarship-page .scholarship-item p:last-child {
+  margin-bottom: 0;
+}
 .scholarship-page .scholarship-item iframe {
   display: block;
   width: 300px;
@@ -175,10 +192,19 @@ body:has(.scholarship-page) > article > header h1 {
 }
 
 @media (max-width: 540px) {
-  .scholarship-page { font-size: 17px; line-height: 1.6; }
-  body:has(.scholarship-page) > article > header h1 { font-size: 1.35rem !important; }
-  .scholarship-page details.scholarship-group > summary { font-size: 1.25rem; }
-  .scholarship-page .scholarship-interlude { width: 78%; }
+  .scholarship-page {
+    font-size: 17px;
+    line-height: 1.6;
+  }
+  body:has(.scholarship-page) > article > header h1 {
+    font-size: 1.35rem !important;
+  }
+  .scholarship-page details.scholarship-group > summary {
+    font-size: 1.25rem;
+  }
+  .scholarship-page .scholarship-interlude {
+    width: 78%;
+  }
 }
 </style>
 
@@ -222,6 +248,16 @@ body:has(.scholarship-page) > article > header h1 {
       <div class="scholarship-item">
         <img src="{{ site.baseurl }}/pub6.png" alt="Instructions du Ministère de la Marine" loading="lazy">
         <p><strong><a href="https://www.cairn.info/revue-outre-mers-2015-2-page-285.htm">Instructions du Ministère de la Marine...</a></strong></p>
+      </div>
+    </div>
+  </details>
+
+  <!-- Dissertation -->
+  <details class="scholarship-group">
+    <summary>Dissertation</summary>
+    <div class="scholarship-list">
+      <div class="scholarship-item">
+        <p><strong><a href="https://drive.google.com/file/d/1ywHXi5mUUO-OqxAZwqNq_DLvdJ8_UHwt/view?usp=sharing">Ph.D. Dissertation</a></strong></p>
       </div>
     </div>
   </details>
