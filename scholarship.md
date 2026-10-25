@@ -1,11 +1,7 @@
-
-
 ---
 layout: page
 title: "Scholarship"
 ---
-
-
 
 <!-- Scholarship page: collapsible publication lists with Paper/Roboto styling. -->
 
@@ -21,8 +17,8 @@ body:has(.scholarship-page) > article > header {
 
 body:has(.scholarship-page) > article > header,
 body:has(.scholarship-page) > article > header h1 {
-  text-align: center !important;
-  text-align-last: center !important;
+  text-align: left !important;
+  text-align-last: left !important;
 }
 
 body:has(.scholarship-page) > article > header h1,
