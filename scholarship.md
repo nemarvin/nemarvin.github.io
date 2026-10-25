@@ -1,8 +1,11 @@
 
+
 ---
 layout: page
 title: "Scholarship"
 ---
+
+
 
 <!-- Scholarship page: collapsible publication lists with Paper/Roboto styling. -->
 
