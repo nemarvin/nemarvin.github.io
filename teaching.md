@@ -304,7 +304,7 @@ body:has(.teaching-page) > article > header h1 {
         <img src="{{ site.baseurl }}/TeachAtlanticWorld.png" alt="Atlantic History word cloud" loading="lazy">
         <div>
           <p><strong>Atlantic World and Beyond</strong></p>
-          <p>Word cloud from a text-mining exercise based on the Oxford Bibliographies in Atlantic History. One of the goals of the course is to critically interrogate Atlantic Studies as a field.</p>
+          <p>Word cloud from a text-mining exercise based on the Oxford Bibliographies in Atlantic History. One of the goals of the course is to critically interrogate the field.</p>
           <p><strong><a href="https://docs.google.com/document/d/14nkCsZx6Kncmx62_e2okoq5_UxqVm3pu/preview">View syllabus...</a></strong></p>
         </div>
       </article>
