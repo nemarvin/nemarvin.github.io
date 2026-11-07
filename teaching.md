@@ -242,7 +242,7 @@ body:has(.teaching-page) > article > header h1 {
       </article>
 
       <article class="teaching-course teaching-course--feature">
-        <img src="{{ site.baseurl }}/TeachArkansasCreole.jpg" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
+        <img src="{{ site.baseurl }}/felicite.png" alt="Portrait of Marie Félicité de Vallière" loading="lazy">
         <div>
           <p><strong><em>Arkansas Créole: Rediscovering a Lost Vernacular Landscape</em></strong></p>
           <p>An open educational resource exploring the French and Creole histories embedded in Arkansas’s landscape. Through maps, primary sources, images, and local histories, the project traces place names, migration, Indigenous and colonial encounters, and the persistence of Creole communities and cultural landscapes.</p>
