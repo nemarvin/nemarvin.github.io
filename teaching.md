@@ -392,6 +392,12 @@ body:has(.teaching-page) > article > header h1 {
       <p><strong><a href="https://docs.google.com/document/d/1JjWOqs-UMzJ3lkysWkx5klx43iV54Tzx40Zli73fbvw/preview">View resource list...</a></strong></p>
     </article>
 
+    <article class="teaching-resource">
+      <p><strong>Annotated Translation of Alfred Mercier’s <em>On Pan-Latinism</em> (1863)</strong></p>
+      <p>An annotated translation of selections from Alfred Mercier’s 1863 pamphlet, with historical context and reading questions. Students examine how a white Louisiana Creole defended the Confederacy and slavery through appeals to race, religion, French imperial ambitions, and “Latin” civilization.</p>
+      <p><strong><a href="https://docs.google.com/document/d/1zQb038JvWG29t2FpDoJe6hHo-qlPV-g6InnJGyrErx8/preview?tab=t.0">View primary source and exercise...</a></strong></p>
+    </article>
+
     <div class="teaching-interlude">
       <img src="{{ site.baseurl }}/littlerock.gif"
            alt="Little Rock animated footer">
